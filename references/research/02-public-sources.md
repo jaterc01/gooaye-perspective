@@ -22,12 +22,20 @@ Observed on 2026-05-05 through web search:
 - Apple episode URL observed: `https://podcasts.apple.com/tw/podcast/ep657/id1500839292?i=1000764261212&l=en-GB`.
 - Podcast analytics/search pages showed 657 total episodes.
 
+Observed on 2026-05-05 through SoundOn RSS:
+
+- RSS feed URL: `https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml`.
+- Latest feed item: `EP658 | 🪿`.
+- Published: 2026-05-02.
+- Description snippet: `最終都是氣氛`.
+- RSS enclosure: SoundOn-hosted MP3. This was used only because the public transcript site still stopped at EP657.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.
 - Semiweekly cadence and hundreds of episodes mean the voice is conversational and iterative rather than one-off essay-like.
 - Listener reviews show the show also functions as companionship, family ritual, and identity/community space.
-- Latest episode checks should compare Apple/SoundOn public episode count with `whatmkreallysaid.com/episodes.json`; if Apple is ahead, the transcript may not be available yet.
+- Latest episode checks should compare Apple/SoundOn public episode count with `whatmkreallysaid.com/episodes.json`; if Apple/SoundOn is ahead, download the RSS audio, transcribe locally, then replace or reconcile when a public transcript appears.
 
 ## Facebook
 

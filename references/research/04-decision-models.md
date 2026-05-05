@@ -90,3 +90,25 @@ EP657 example pattern:
 - Signal: Intel back-end EMIB assembly yield reportedly reached a mass-production-capable level.
 - Neighboring bottleneck: substrate yield may still be much lower.
 - Verification path: later public disclosures, customer adoption, supply-chain order strength, related company commentary.
+
+## 8. Full-workflow AI replacement test
+
+EP658 adds a useful correction to AI replacement talk: do not inspect one visible task fragment and declare the whole job obsolete.
+
+Ask:
+
+- What is the visible task AI can already do?
+- What context, taste, coordination, customer trust, liability, and integration sits around that task?
+- Who is responsible when the AI-assisted output breaks?
+- Does automation reduce headcount, increase throughput, create new demand, or change the job's shape?
+- Is the company producing real financial/customer outcomes, or only demos and token usage?
+
+Output rule:
+
+> Treat AI as leverage first, replacement second, unless the full workflow and accountability loop can also be automated.
+
+EP658 example pattern:
+
+- Visible task: code generation, phone tapping, talking, image generation, ticket handling.
+- Missing context: product judgment, customer-specific data, deployment, ownership, and blame when something fails.
+- Skill implication: for SaaS and software stocks, check seat expansion, retention, deployment model and financial results before accepting "software is dead" narratives.

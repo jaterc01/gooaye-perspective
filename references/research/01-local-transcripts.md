@@ -4,20 +4,20 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP657 Markdown transcripts, including `EP656.md` and `EP657.md`
-- Count observed after refresh on 2026-05-05: top-level corpus now includes `EP657.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP658 Markdown transcripts, including `EP656.md`, `EP657.md`, and locally generated `EP658.md`
+- Count observed after refresh on 2026-05-05: top-level corpus now includes `EP658.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
-On 2026-05-05, `scripts/download_gooaye_transcripts.py --out C:\Users\jater\Desktop\Project\googye\transcrib\gooaye` was run against `whatmkreallysaid.com`.
+On 2026-05-05, `scripts/download_gooaye_transcripts.py --out C:\Users\jater\Desktop\Project\googye\transcrib\gooaye` was run against `whatmkreallysaid.com`, then SoundOn RSS was checked because the podcast feed had advanced.
 
 Result:
 
-- Site index total: 657 episodes.
-- New top-level transcript: `EP657.md`.
-- EP657 title: `股癌逐字稿 EP657｜雕像玄學插曲與Intel封裝突破`.
-- EP657 published date: 2026-04-29.
-- Public Apple Podcasts search also showed EP657 as the latest indexed episode around this update window.
+- Public transcript site index total: 657 episodes.
+- RSS latest episode: `EP658 | 🪿`, published 2026-05-02, description snippet `最終都是氣氛`.
+- Because no public EP658 transcript was available, the RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript: `EP658.md`.
+- EP658 local title: `股癌逐字稿 EP658｜最終都是氣氛`.
 
 ## EP656 anchor
 
@@ -60,6 +60,33 @@ Distilled signals:
 - Price rotation can be driven by money flow even when many groups have good fundamentals.
 - New AI hardware claims should be tested against user habit lock-in, existing device ecosystems, and prior product failures.
 - Rigid discipline can become bad execution if it ignores context; flexible discipline is only safe when leverage and sizing leave room.
+
+## EP658 anchor
+
+`EP658.md` title: `股癌逐字稿 EP658｜最終都是氣氛`
+
+Generation note:
+
+- Public transcript source still stopped at EP657 when checked on 2026-05-05.
+- EP658 audio came from the SoundOn RSS enclosure and was transcribed locally.
+- Transcript was corrected with the existing Gooaye glossary and prior transcript usage patterns; it should be treated as a machine-generated transcript until a public human transcript appears.
+
+Major segments:
+
+- Sponsor framing: NordVPN for travel price checks, public Wi-Fi safety, overseas access and device coverage.
+- Market timing: after a strong run, expect normal pullbacks and do not treat stocks as things that never fall.
+- Life segment: red wine collection as sample-building, taste calibration, and the difference between price, experience and memory.
+- AI/work segment: Jensen Huang's pushback against AI doomer / replacement narratives; do not decompose a job into one automatable task and declare the whole person obsolete.
+- SaaS/enterprise software segment: financial results and real deployment matter more than token-burning demos or venture-circle slogans.
+- Market Q&A: memory fundamentals remain favorable but price timing is uncertain; MediaTek ASIC optimism is high but still needs public delivery; stock pledge can be a liquidity tool for life goals if sizing and risk are controlled.
+- Life Q&A: music as memory carrier, anxiety handled by focusing on actionable problems, money should support major life goals rather than become a prison.
+
+Distilled signals:
+
+- Price and taste are not the same signal; you earn confidence by actually sampling the range, not by worshipping the most expensive label.
+- AI analysis should inspect full workflows, accountability and context, not isolated task fragments.
+- New technology often creates a new option or changes the job shape before it fully replaces an existing category.
+- For life goals, preserving optionality can matter more than mechanically selling long-term assets immediately; tools like pledge loans require humility and strict risk sizing.
 
 ## Repeated transcript patterns
 

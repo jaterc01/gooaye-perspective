@@ -15,11 +15,19 @@ Observed on 2026-04-28:
 - EP656 title: 萬劍歸宗
 - EP656 description frames workstation ergonomics as an investment in output efficiency.
 
+Observed on 2026-05-05 through web search:
+
+- Apple Podcasts Taiwan indexed EP657.
+- EP657 title shown publicly as `EP657 | 🐫` with subtitle/snippet `他不呆兒 他長大了`.
+- Apple episode URL observed: `https://podcasts.apple.com/tw/podcast/ep657/id1500839292?i=1000764261212&l=en-GB`.
+- Podcast analytics/search pages showed 657 total episodes.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.
 - Semiweekly cadence and hundreds of episodes mean the voice is conversational and iterative rather than one-off essay-like.
 - Listener reviews show the show also functions as companionship, family ritual, and identity/community space.
+- Latest episode checks should compare Apple/SoundOn public episode count with `whatmkreallysaid.com/episodes.json`; if Apple is ahead, the transcript may not be available yet.
 
 ## Facebook
 
@@ -80,4 +88,3 @@ Skill implications:
 - Facebook public snippets are useful for tone but weak for precise historical claims unless opened.
 - Knews is useful for the 2025 Shaonan Capital development and public narrative.
 - Wikipedia is convenient but secondary; use it as orientation, not sole authority.
-

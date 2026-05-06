@@ -30,6 +30,15 @@ Observed on 2026-05-05 through SoundOn RSS:
 - Description snippet: `最終都是氣氛`.
 - RSS enclosure: SoundOn-hosted MP3. This was used only because the public transcript site still stopped at EP657.
 
+Observed on 2026-05-06 through Apple Podcasts Taiwan and SoundOn RSS:
+
+- Apple Podcasts Taiwan indexed EP659 on the show page.
+- Latest SoundOn RSS item: `EP659 | 🦤`.
+- Published: 2026-05-06 08:36:59 GMT.
+- Description snippet: `做壞掉了`.
+- Duration: 3105 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still stopped at EP657.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

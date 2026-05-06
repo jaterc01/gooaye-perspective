@@ -4,20 +4,20 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP658 Markdown transcripts, including `EP656.md`, `EP657.md`, and locally generated `EP658.md`
-- Count observed after refresh on 2026-05-05: top-level corpus now includes `EP658.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP659 Markdown transcripts, including `EP657.md`, locally generated `EP658.md`, and locally generated `EP659.md`
+- Count observed after refresh on 2026-05-06: top-level corpus now includes `EP659.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
-On 2026-05-05, `scripts/download_gooaye_transcripts.py --out C:\Users\jater\Desktop\Project\googye\transcrib\gooaye` was run against `whatmkreallysaid.com`, then SoundOn RSS was checked because the podcast feed had advanced.
+On 2026-05-06, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked because Apple/SoundOn had advanced beyond the local corpus.
 
 Result:
 
 - Public transcript site index total: 657 episodes.
-- RSS latest episode: `EP658 | 🪿`, published 2026-05-02, description snippet `最終都是氣氛`.
-- Because no public EP658 transcript was available, the RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`.
-- New top-level transcript: `EP658.md`.
-- EP658 local title: `股癌逐字稿 EP658｜最終都是氣氛`.
+- RSS latest episode: `EP659 | 🦤`, published 2026-05-06, description snippet `做壞掉了`.
+- Because no public EP658/EP659 transcript was available, the EP659 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript artifacts: `EP659.md`, `EP659.raw.txt`, and `EP659.raw.json`.
+- EP659 local title: `股癌逐字稿 EP659｜做壞掉了`.
 
 ## EP656 anchor
 
@@ -88,6 +88,33 @@ Distilled signals:
 - New technology often creates a new option or changes the job shape before it fully replaces an existing category.
 - For life goals, preserving optionality can matter more than mechanically selling long-term assets immediately; tools like pledge loans require humility and strict risk sizing.
 
+## EP659 anchor
+
+`EP659.md` title: `股癌逐字稿 EP659｜做壞掉了`
+
+Generation note:
+
+- Public transcript source still stopped at EP657 when checked on 2026-05-06.
+- EP659 audio came from the SoundOn RSS enclosure and was transcribed locally.
+- The first pass produced a repeated-phrase ASR failure in the sponsor segment, so the final artifact was regenerated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor framing: Saily/eSIM as travel friction removal; the expensive part of travel is wasted time and broken connectivity, not only the ticket price.
+- Body/operator segment: GLP-1/Mounjaro, weight loss, functional training, hip mobility, and body control as a way to restart the operator rather than merely improve appearance.
+- Market segment: passive components moving from fundamental signal to price response; supply tightness, lead-time extension, MLCC/tantalum/aluminum capacitor distinctions, and order crowding from high-end AI server demand.
+- CPU/ASIC segment: AMD/Intel server CPU demand, Agentic AI inference workloads, Google/Amazon ASIC chains, MediaTek optimism, and the risk that price may front-run verification.
+- Leverage segment: in strong markets, broker credit limits and margin expansion can signal crowding; reduce leverage when wind changes rather than waiting for obvious rain.
+- Life/Q&A segment: taxes as a real transaction cost, professional accounting for large offshore gains, family time boundaries, and not confusing another person's freedom with the unseen work that funds it.
+
+Distilled signals:
+
+- The operator is part of the system: sleep, body, mobility, and energy change the quality of judgment.
+- Fundamental work can be early and boring before price responds; once price responds, re-check whether the move is still mechanism-driven or already narrative-driven.
+- CPU/ASIC rotation should be tracked by workload and customer chain, not only by "AI everything" slogans.
+- If leverage is increasing across the market, treat broker behavior and credit availability as sentiment indicators.
+- Work-life balance is not a slogan; define protected time blocks so work does not leak into every family interaction.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -132,6 +159,12 @@ Skill implication: for life questions, use portfolio language without reducing p
 EP657's trading Q&A distinguishes between short-term line-based exits and wave/position trades. The key is not the specific moving average, but the reason for the trade and the room left by sizing.
 
 Skill implication: when users ask about stops or adding, do not output a single rigid rule. Ask whether the entry was based on pure price action or supported by a story/fundamental floor, then adjust exit logic accordingly.
+
+### 6. The operator is part of the portfolio
+
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets.
+
+Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 
 ## Expression notes
 

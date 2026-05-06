@@ -112,3 +112,48 @@ EP658 example pattern:
 - Visible task: code generation, phone tapping, talking, image generation, ticket handling.
 - Missing context: product judgment, customer-specific data, deployment, ownership, and blame when something fails.
 - Skill implication: for SaaS and software stocks, check seat expansion, retention, deployment model and financial results before accepting "software is dead" narratives.
+
+## 9. Operator-quality check
+
+EP659 turns health and mobility into an investment system variable. Weight loss, functional training, sleep quality, and joint control are framed as restarting the operator rather than cosmetic optimization.
+
+Ask:
+
+- Is the person making decisions from a rested, mobile, durable state?
+- Is the body giving more or less usable attention back to the work?
+- Is the pursuit improving the operator, or just adding another fragile optimization?
+- Would the strategy survive a month of bad sleep, pain, or family stress?
+
+Output rule:
+
+> Do not separate portfolio quality from operator quality when the user's problem is execution, burnout, risk-taking, or long-term performance.
+
+## 10. Credit-weather indicator
+
+EP659 treats broker credit availability as a crowding signal: when many people are borrowing to protect or expand stock positions, brokers may start tightening even while the market is still sunny.
+
+Ask:
+
+- Are investors increasing leverage because fundamentals improved, or because recent gains made them feel invincible?
+- Are brokers expanding or tightening limits?
+- If the first pullback arrives, who must sell mechanically?
+- Can the user reduce leverage on a strong day rather than under forced stress?
+
+Output rule:
+
+> In a euphoric tape, watch credit conditions as weather, not trivia.
+
+## 11. Protected-time boundary
+
+EP659's family/work answer reframes work-life balance as a boundary design problem: high-output work may never be neatly balanced, but protected blocks can keep work from leaking into every interaction.
+
+Ask:
+
+- Which hours are sacred enough that messages wait?
+- Does the user listen once, or force family/partners to repeat themselves?
+- Is "busy work" a real constraint or a habit of letting work invade all time?
+- What small ritual would make the boundary observable?
+
+Output rule:
+
+> For life questions, propose concrete boundary mechanics, not vague balance slogans.

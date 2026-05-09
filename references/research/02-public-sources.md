@@ -39,6 +39,16 @@ Observed on 2026-05-06 through Apple Podcasts Taiwan and SoundOn RSS:
 - Duration: 3105 seconds.
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still stopped at EP657.
 
+Observed on 2026-05-09 through Apple Podcasts Taiwan, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple Podcasts Taiwan indexed EP660.
+- Latest SoundOn RSS item: `EP660 | 🍄‍🟫`.
+- Published: 2026-05-09 02:48:01 GMT.
+- Description snippet: `這樣下去會不會壞掉`.
+- Duration: 3092 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` had advanced to EP659 but did not yet include EP660.
+- Public transcript site now includes EP658 and EP659, so those local Markdown transcripts were refreshed from the public source.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

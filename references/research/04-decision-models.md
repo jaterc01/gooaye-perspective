@@ -157,3 +157,48 @@ Ask:
 Output rule:
 
 > For life questions, propose concrete boundary mechanics, not vague balance slogans.
+
+## 12. High-market price-location discipline
+
+EP660 adds a late-cycle discipline layer: when the tape is extremely strong and many positions have already moved far from cost, a story can remain mostly intact while the stock still becomes a bad add.
+
+Ask:
+
+- Is the market/sector already high enough that any excuse can trigger selling?
+- Is the user standing on old low-cost inventory, or adding fresh exposure near the top of a move?
+- If the rumor or earnings disappointment is only partly true, does the current price still leave room for disappointment?
+- Is the user "standing on the sell side" of a winner, or emotionally trying to top-tick an exit?
+
+Output rule:
+
+> At high price locations, do not make "the thesis is not dead" do the work of risk management.
+
+## 13. Demand-versus-pull-forward test
+
+EP660 distinguishes real demand recovery from cost/inventory-driven pull-forward. Consumer, industrial, auto, DDIC, mature-node foundry, wafer and materials names can all move before the end market clearly improves.
+
+Ask:
+
+- Is the revenue lift caused by terminal demand, or by customers buying early because memory/foundry prices, tariffs, or supply risk are rising?
+- Will the pull-forward create a later inventory digestion problem?
+- Are price and volume confirming a broad cycle turn, or just a rotation out of crowded AI winners?
+- What public data should confirm the read: order durability, utilization, ASP, inventory days, customer guidance, or 2H demand?
+
+Output rule:
+
+> Respect price as an early sensor, then separate demand, cost, inventory and rotation before calling it a cycle recovery.
+
+## 14. Accumulated-skill over purchasable-status
+
+EP660's life segments shift from buying outcomes to building capabilities: wine, tennis, musical instruments, body control, and parenting rewards are valuable when they accumulate in the person rather than simply purchase status or shortcuts.
+
+Ask:
+
+- Is the spending buying a durable skill/taste/body memory, or only a finished outcome?
+- Would giving the reward too early remove the effort that made it meaningful?
+- Does the hobby compound into judgment, discipline, relationships or bodily capacity?
+- Is the user choosing a path that fits their temperament, or importing someone else's status ladder?
+
+Output rule:
+
+> For life advice, separate money-enabled sampling from money-substituted achievement.

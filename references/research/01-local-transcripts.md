@@ -4,20 +4,21 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP659 Markdown transcripts, including `EP657.md`, locally generated `EP658.md`, and locally generated `EP659.md`
-- Count observed after refresh on 2026-05-06: top-level corpus now includes `EP659.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP660 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`
+- Count observed after refresh on 2026-05-09: top-level corpus now includes `EP660.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
-On 2026-05-06, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked because Apple/SoundOn had advanced beyond the local corpus.
+On 2026-05-09, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked because Apple/SoundOn had advanced beyond the local corpus.
 
 Result:
 
-- Public transcript site index total: 657 episodes.
-- RSS latest episode: `EP659 | 🦤`, published 2026-05-06, description snippet `做壞掉了`.
-- Because no public EP658/EP659 transcript was available, the EP659 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`.
-- New top-level transcript artifacts: `EP659.md`, `EP659.raw.txt`, and `EP659.raw.json`.
-- EP659 local title: `股癌逐字稿 EP659｜做壞掉了`.
+- Public transcript site index total: 659 episodes.
+- Public `EP658.md` and `EP659.md` were synced into the local corpus, replacing the earlier machine-generated Markdown for those episodes; their previous `.raw.*` machine artifacts remain as provenance.
+- RSS/Apple latest episode: `EP660 | 🍄‍🟫`, published 2026-05-09 02:48:01 GMT, description snippet `這樣下去會不會壞掉`, duration about 3092 seconds.
+- Because no public EP660 transcript was available, the EP660 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript artifacts: `EP660.md`, `EP660.raw.txt`, and `EP660.raw.json`.
+- EP660 local title: `股癌逐字稿 EP660｜這樣下去會不會壞掉`.
 
 ## EP656 anchor
 
@@ -67,9 +68,8 @@ Distilled signals:
 
 Generation note:
 
-- Public transcript source still stopped at EP657 when checked on 2026-05-05.
-- EP658 audio came from the SoundOn RSS enclosure and was transcribed locally.
-- Transcript was corrected with the existing Gooaye glossary and prior transcript usage patterns; it should be treated as a machine-generated transcript until a public human transcript appears.
+- Public transcript source stopped at EP657 when checked on 2026-05-05, so EP658 was first transcribed locally from SoundOn audio.
+- On 2026-05-09, `whatmkreallysaid.com/episodes.json` exposed EP658; the local `EP658.md` was replaced with the public transcript version.
 
 Major segments:
 
@@ -94,9 +94,9 @@ Distilled signals:
 
 Generation note:
 
-- Public transcript source still stopped at EP657 when checked on 2026-05-06.
-- EP659 audio came from the SoundOn RSS enclosure and was transcribed locally.
-- The first pass produced a repeated-phrase ASR failure in the sponsor segment, so the final artifact was regenerated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+- Public transcript source stopped at EP657 when checked on 2026-05-06, so EP659 was first transcribed locally from SoundOn audio.
+- On 2026-05-09, `whatmkreallysaid.com/episodes.json` exposed EP659; the local `EP659.md` was replaced with the public transcript version.
+- Earlier raw machine artifacts remain available for provenance, but the Markdown transcript now follows the public transcript source.
 
 Major segments:
 
@@ -114,6 +114,34 @@ Distilled signals:
 - CPU/ASIC rotation should be tracked by workload and customer chain, not only by "AI everything" slogans.
 - If leverage is increasing across the market, treat broker behavior and credit availability as sentiment indicators.
 - Work-life balance is not a slogan; define protected time blocks so work does not leak into every family interaction.
+
+## EP660 anchor
+
+`EP660.md` title: `股癌逐字稿 EP660｜這樣下去會不會壞掉`
+
+Generation note:
+
+- Public transcript source stopped at EP659 when checked on 2026-05-09.
+- EP660 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor/operator framing: ZZ Sleeper and sleep quality as decision quality; a hot market makes physical recovery and forced cooling more valuable, not less.
+- Overheated market segment: Taiwan index strength, large-cap wealth effects, investors not reducing leverage because cost bases are far below market, and the risk that high-level markets can sell off on small triggers.
+- Participation/social class segment: instead of only resenting uneven technology-industry wealth, use public markets such as broad ETFs or stocks to participate in economic growth, while recognizing late entry risk.
+- NVIDIA/supply-chain rumor segment: possible material/thermal design changes and CoWoS stoppage rumors can hit related components even if NVIDIA itself looks fine; at high market levels, avoid reflexively calling every drop a buy.
+- Legacy/consumer rotation segment: consumer, industrial, auto, DDIC, mature-node foundry, wafer and materials names may be moving because of memory/foundry price hikes, tariffs and pull-forward stocking rather than confirmed terminal-demand recovery.
+- Credit/market-structure segment: broker credit limits may cap leverage even for large accounts; Taiwan's disposition rules and crowded large-cap liquidity can amplify forced selling discussion.
+- Passive components/memory segment: passive components, capacitors and memory remain fundamentally tight, but moves may arrive earlier than expected and then pause before the real cycle.
+- Life/Q&A segment: relationship values around work and money, asset allocation by temperament, not overbuying children's rewards, and shifting from purchasable status toward skills and taste that accumulate in the person.
+
+Distilled signals:
+
+- Strong markets require price-location discipline: when the whole tape is high, a true story can still be a bad add if the next forced seller is close.
+- Stock-price strength is a sensor, not proof; after a low-position group wakes up, ask whether the driver is demand, supply fear, inventory pull-forward, or pure rotation.
+- Credit constraints should be read both ways: full broker books can signal crowding, but caps can also prevent some large accounts from increasing leverage further.
+- For life questions, do not confuse buying the outcome with building the capacity; skills, taste, body control and memory-rich practice compound differently from purchasable goods.
 
 ## Repeated transcript patterns
 
@@ -162,7 +190,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

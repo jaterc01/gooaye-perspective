@@ -202,3 +202,48 @@ Ask:
 Output rule:
 
 > For life advice, separate money-enabled sampling from money-substituted achievement.
+
+## 15. Price-tag searchlight
+
+EP661 sharpens the wine/market analogy: a high price tag, a strong stock, or an unusually resilient part number is not proof of quality by itself, but it is a useful place to start asking why.
+
+Ask:
+
+- What exactly made this price tag or stock move stand out?
+- Is the signal driven by scarcity, quality, status, meme value, supply constraint, customer mix, or temporary crowding?
+- After sampling or research, does the thing still fit the user's taste, constraints and time horizon?
+- Is the user learning from the signal, or just worshipping the ranking?
+
+Output rule:
+
+> Use price as a searchlight, then make the user become the judge.
+
+## 16. Crowding-out versus direct-demand split
+
+EP661 adds a passive-component lens: low-end or standard parts can tighten because high-end AI/server demand pulls capacity upward and leaves lower-spec supply underserved. That is different from saying every supplier has direct AI content.
+
+Ask:
+
+- Is the company selling directly into the hot workload, or benefiting because high-end capacity crowds out standard products?
+- Are ASP and margin improving because product mix changed, because costs are being passed through, or because end demand is truly stronger?
+- Which suppliers own upstream inputs and can keep more of the price increase?
+- When would the crowding-out effect show up in lead times, order books and public financials?
+
+Output rule:
+
+> Do not require direct AI exposure for every winner; classify whether the mechanism is direct demand, crowding-out, cost pass-through or inventory pull-forward.
+
+## 17. Slogan-to-driver mapping
+
+EP661's Qualcomm/AIPC/Cloud/ASIC discussion adds a useful discipline: the public slogan attached to a stock may not be the reason the stock is moving.
+
+Ask:
+
+- What story is the market loudly attaching to the move?
+- What buyer, workload, infrastructure budget, or order event could actually explain the move?
+- Which older slogans are stale or already failed to create value?
+- If multiple stories fit, which one has the clearest verification path?
+
+Output rule:
+
+> Separate the label people say from the driver money is paying for.

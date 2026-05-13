@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP660 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`
-- Count observed after refresh on 2026-05-09: top-level corpus now includes `EP660.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP661 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`/`EP661.md`
+- Count observed after refresh on 2026-05-13: top-level corpus now includes `EP661.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
@@ -19,6 +19,7 @@ Result:
 - Because no public EP660 transcript was available, the EP660 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`.
 - New top-level transcript artifacts: `EP660.md`, `EP660.raw.txt`, and `EP660.raw.json`.
 - EP660 local title: `股癌逐字稿 EP660｜這樣下去會不會壞掉`.
+- 2026-05-13 refresh: public transcript site still stopped at EP659, while Apple/SoundOn latest was `EP661 | 🚲`, published 2026-05-13 08:00:31 GMT, duration about 2999 seconds. The EP661 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP661.md`, `EP661.raw.txt`, and `EP661.raw.json` (2196 segments, 2998.961625 seconds). Treat EP661 as machine-generated until a public human transcript appears.
 
 ## EP656 anchor
 
@@ -143,6 +144,35 @@ Distilled signals:
 - Credit constraints should be read both ways: full broker books can signal crowding, but caps can also prevent some large accounts from increasing leverage further.
 - For life questions, do not confuse buying the outcome with building the capacity; skills, taste, body control and memory-rich practice compound differently from purchasable goods.
 
+## EP661 anchor
+
+`EP661.md` title: `股癌逐字稿 EP661｜正常能量釋放`
+
+Generation note:
+
+- Public transcript source stopped at EP659 when checked on 2026-05-13.
+- EP661 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor framing: HARU sponsorship turns intimate-product copy into market metaphors, using trend, volatility, position-building, and "new high" language as a deliberately absurd finance-to-life translation.
+- Wine/sample segment: wine exploration continues the price-tag-as-sensor model. Start with expensive/reference bottles to build samples quickly, then use taste calibration to stop worshipping ratings or price.
+- High-market segment: Taiwan index pullback from a very stretched run; most people are still far above cost and not adjusting much, but new adds at this price location require extra caution.
+- Passive component segment: MLCC, aluminum capacitors, power-chain capacity reservations, and low-end standard parts can benefit from high-end AI buildout through crowding-out effects, not only direct AI content.
+- Legacy/consumer segment: recent pull-forward appears more like cost and inventory protection than broad consumer-demand recovery; split cost-driven price hikes from demand-driven shortage.
+- Market-structure segment: strong groups are narrowing, large orders no longer pull every name instantly, and defensive "second/third burrows" become useful when momentum begins to fragment.
+- Supply-chain decoding segment: listener feedback and cross-supplier checks build a mosaic; do not reduce supplier value to "TSMC or non-TSMC" because margin, customer mix, and valuation response differ.
+- Q&A segment: Qualcomm/AIPC/Cloud claims are separated from AI infrastructure or ASIC-driven narratives; a stock can rise for a different reason than the slogan attached to it.
+
+Distilled signals:
+
+- Price tags are useful search lights, not truth: use expensive or strong things to learn where to look, then recalibrate with taste, evidence and fit.
+- At stretched price locations, the right posture is not bearishness; it is hand-binding for people without a plan and staged action only for operators who know what they are doing.
+- Passive components and legacy semis need driver separation: direct AI demand, high-end crowding-out, cost pass-through, inventory pull-forward and real end-demand recovery are different mechanisms.
+- When strong groups narrow and familiar buy-the-breakout behavior stops working instantly, treat it as a small market-structure warning even if the larger trend remains intact.
+- A narrative label can be wrong while the stock move is real; map the actual buyer/workload/infrastructure driver before accepting AIPC, Cloud, ASIC, or other public slogans.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -190,7 +220,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

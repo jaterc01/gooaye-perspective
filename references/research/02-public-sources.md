@@ -49,6 +49,17 @@ Observed on 2026-05-09 through Apple Podcasts Taiwan, SoundOn RSS, and `whatmkre
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` had advanced to EP659 but did not yet include EP660.
 - Public transcript site now includes EP658 and EP659, so those local Markdown transcripts were refreshed from the public source.
 
+Observed on 2026-05-13 through Apple Podcasts Taiwan, SoundOn RSS, Apple public page, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple Podcasts Taiwan indexed EP661.
+- Apple public page showed EP661 ahead of EP660/EP659.
+- Latest SoundOn RSS item: `EP661 | 🚲`.
+- Published: 2026-05-13 08:00:31 GMT.
+- Description snippet: `正常能量釋放`.
+- Duration: 2999 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still had 659 public transcript entries and did not include EP660 or EP661.
+- Local EP661 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

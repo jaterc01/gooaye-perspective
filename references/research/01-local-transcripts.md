@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP661 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`/`EP661.md`
-- Count observed after refresh on 2026-05-13: top-level corpus now includes `EP661.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP662 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`
+- Count observed after refresh on 2026-05-16: top-level corpus now includes `EP662.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
@@ -20,6 +20,7 @@ Result:
 - New top-level transcript artifacts: `EP660.md`, `EP660.raw.txt`, and `EP660.raw.json`.
 - EP660 local title: `股癌逐字稿 EP660｜這樣下去會不會壞掉`.
 - 2026-05-13 refresh: public transcript site still stopped at EP659, while Apple/SoundOn latest was `EP661 | 🚲`, published 2026-05-13 08:00:31 GMT, duration about 2999 seconds. The EP661 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP661.md`, `EP661.raw.txt`, and `EP661.raw.json` (2196 segments, 2998.961625 seconds). Treat EP661 as machine-generated until a public human transcript appears.
+- 2026-05-16 refresh: public transcript site still stopped at EP659, while SoundOn RSS latest was `EP662 | ⛑️`, published 2026-05-16 08:30:49 GMT, duration about 2999 seconds. The EP662 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP662.md`, `EP662.raw.txt`, and `EP662.raw.json` (2187 segments, 2998.961625 seconds). Treat EP662 as machine-generated until a public human transcript appears.
 
 ## EP656 anchor
 
@@ -173,6 +174,36 @@ Distilled signals:
 - When strong groups narrow and familiar buy-the-breakout behavior stops working instantly, treat it as a small market-structure warning even if the larger trend remains intact.
 - A narrative label can be wrong while the stock move is real; map the actual buyer/workload/infrastructure driver before accepting AIPC, Cloud, ASIC, or other public slogans.
 
+## EP662 anchor
+
+`EP662.md` title: `股癌逐字稿 EP662｜再往下 8% 我就喊救命`
+
+Generation note:
+
+- Public transcript source stopped at EP659 when checked on 2026-05-16.
+- EP662 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor and Shaonan Capital segment: NordVPN sponsor copy, followed by Taiwan game investment updates and a "patient capital" frame for creative teams.
+- Family/health segment: prenatal medical scare around his child becomes a model for uncertainty, expert selection, gratitude, and why health risk changes later decision priorities.
+- Market correction segment: Friday's drawdown felt large, but low-cost holders did not show real panic; the same move is different for old inventory versus fresh chasers.
+- TSMC/fund-flow segment: investment-trust rule changes may pull money into TSMC over the next one to several months, forcing profit-taking or liquidity withdrawal from some small/mid names even when their stories are not broken.
+- Rotation segment: corrections are useful because the market quickly shows which groups recover first; next leaders can be identified by anti-fragile price behavior after the flush.
+- Software/security segment: AI did not kill every software name; cybersecurity and selected software winners are making new highs, so apply the same "not all hardware, not all software" split.
+- Passive component segment: resistor, MLCC, aluminum capacitor, inductor and Panasonic/OS-CON/SP-Cap price-hike talk move the shortage story from vague tightness toward possible stop-order or spot-price behavior.
+- Power/legacy segment: power components tied to new power cabinets are separated from consumer/legacy restocking, which may be only inventory refill.
+- AI/product Q&A: AI tools improve productivity, but the actual product, shipment, design taste, and ability to solve human problems remain the scarce layer.
+
+Distilled signals:
+
+- Cost basis changes behavior: a pullback that is noise for low-cost holders can be fatal for fresh leverage or late chasers.
+- Use corrections as ranking devices: watch who stops falling first, who reclaims highs, and which whole groups recover together.
+- A good fundamental story can still wait in the penalty box if funds are reallocating elsewhere.
+- AI disruption should be split by product value: tools can make production easier, but taste, problem selection, shipment and responsibility remain the differentiators.
+- Shortage stories move through stages: lead-time stretch, price-hike letters, spot-price behavior, order control, and stop-taking. Each stage deserves a different confidence level.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -220,7 +251,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

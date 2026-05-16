@@ -247,3 +247,48 @@ Ask:
 Output rule:
 
 > Separate the label people say from the driver money is paying for.
+
+## 18. Correction leadership scan
+
+EP662 turns drawdowns into a ranking tool. A correction is not only a chance to buy cheaper; it is a live test of which groups the market still wants, which names are merely bouncing, and which holders are trapped by fresh cost basis.
+
+Ask:
+
+- Is the user holding low-cost inventory, or adding new exposure after the move already ran?
+- Which names or groups stopped falling first, reclaimed highs first, or stayed green while the tape was weak?
+- Is the drop caused by a broken thesis, or by money being pulled toward another large destination such as TSMC/fund-flow reallocation?
+- Are late entrants calling a normal pullback a crash because they have no cost cushion?
+
+Output rule:
+
+> In a correction, do not only ask what got cheaper; ask what the market is still willing to sponsor first.
+
+## 19. Shortage escalation ladder
+
+EP662 updates the passive-component frame from "lead times and price signals are tightening" to a staged shortage model.
+
+Ask:
+
+- Are suppliers only discussing longer lead times, or are price-hike letters already circulating?
+- Is the price hike cost-driven, demand-driven, or a forced acceptance mechanism?
+- Have major suppliers started controlling orders, stopping new orders, phasing out old products, or moving toward spot-price behavior?
+- Can new capacity arrive quickly enough, or is it "far water cannot save near fire"?
+
+Output rule:
+
+> Treat a shortage thesis as higher confidence only after it progresses from rumor and lead time into pricing power, allocation, and order-control behavior.
+
+## 20. AI tool-to-product gap
+
+EP662's AI Q&A keeps the EP658-EP661 workflow discipline but makes the scarce layer more explicit: productivity tools can accelerate production, but product judgment, taste, shipment, responsibility, and solving a real user problem remain the value.
+
+Ask:
+
+- Did AI make the work easier, or did it create a better product?
+- Where is the shipped output, customer adoption, or measurable result?
+- Is the user paying for anxiety relief, a course, or a tool that changes their actual workflow?
+- What taste, interview, product, or responsibility layer still cannot be delegated?
+
+Output rule:
+
+> Better tools are not the same as better outcomes; ask where the product and shipment are.

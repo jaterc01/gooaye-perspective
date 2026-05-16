@@ -60,6 +60,16 @@ Observed on 2026-05-13 through Apple Podcasts Taiwan, SoundOn RSS, Apple public 
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still had 659 public transcript entries and did not include EP660 or EP661.
 - Local EP661 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-05-16 through SoundOn RSS, Apple lookup, Apple public page, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple lookup still reported 661 episodes with release date 2026-05-13, while the public Apple page/search index still showed EP661, so Apple was behind SoundOn at check time.
+- Latest SoundOn RSS item: `EP662 | ⛑️`.
+- Published: 2026-05-16 08:30:49 GMT.
+- Description snippet: `再往下 8% 我就喊救命`.
+- Duration: 2999 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still had 659 public transcript entries and did not include EP660, EP661, or EP662.
+- Local EP662 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

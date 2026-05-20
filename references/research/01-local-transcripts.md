@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP662 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`
-- Count observed after refresh on 2026-05-16: top-level corpus now includes `EP662.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP663 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP663.md`
+- Count observed after refresh on 2026-05-20: top-level corpus now includes `EP663.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
@@ -21,6 +21,7 @@ Result:
 - EP660 local title: `股癌逐字稿 EP660｜這樣下去會不會壞掉`.
 - 2026-05-13 refresh: public transcript site still stopped at EP659, while Apple/SoundOn latest was `EP661 | 🚲`, published 2026-05-13 08:00:31 GMT, duration about 2999 seconds. The EP661 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP661.md`, `EP661.raw.txt`, and `EP661.raw.json` (2196 segments, 2998.961625 seconds). Treat EP661 as machine-generated until a public human transcript appears.
 - 2026-05-16 refresh: public transcript site still stopped at EP659, while SoundOn RSS latest was `EP662 | ⛑️`, published 2026-05-16 08:30:49 GMT, duration about 2999 seconds. The EP662 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP662.md`, `EP662.raw.txt`, and `EP662.raw.json` (2187 segments, 2998.961625 seconds). Treat EP662 as machine-generated until a public human transcript appears.
+- 2026-05-20 refresh: public transcript site still stopped at EP659, while SoundOn RSS and Apple Podcasts latest was `EP663 | 🦘`, published 2026-05-20 07:59:35 GMT, duration about 2997 seconds. The EP663 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP663.md`, `EP663.raw.txt`, and `EP663.raw.json` (2213 segments, 2997.4726875 seconds). Treat EP663 as machine-generated until a public human transcript appears.
 
 ## EP656 anchor
 
@@ -204,6 +205,35 @@ Distilled signals:
 - AI disruption should be split by product value: tools can make production easier, but taste, problem selection, shipment and responsibility remain the differentiators.
 - Shortage stories move through stages: lead-time stretch, price-hike letters, spot-price behavior, order control, and stop-taking. Each stage deserves a different confidence level.
 
+## EP663 anchor
+
+`EP663.md` title: `股癌逐字稿 EP663｜信仰測試`
+
+Generation note:
+
+- Public transcript source stopped at EP659 when checked on 2026-05-20.
+- EP663 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor/health segment: 東璧堂 sponsor copy leads into weight-loss progress, functional training, physical therapy, pain reduction, and health systems as one of the highest-return life investments.
+- Passive component segment: Panasonic and related price-hike letters, spot-market sweeping, distributors seeing high-end part shortages, and the possibility that shortages move toward auction-like allocation.
+- Capacity discipline segment: memory and passive components are framed through whether suppliers expand capacity; disciplined non-expansion protects pricing power, while broad expansion would shorten the cycle.
+- AI/ASIC/substrate segment: Google/Broadcom/MediaTek fish-code discussion, possible larger SoundFish-style chiplet/substrate designs, and old AI supply-chain names that can return to center stage when product details become visible.
+- Market faith segment: strong groups can pull back sharply because holders have large gains and late chasers lack conviction; the test is whether the thesis still has revenue and profit behind it.
+- TSMC/optical Q&A: TSMC forum comments do not make optical communication a zero-sum market; short-term weakness should be separated from long-term market expansion.
+- Money/life Q&A: index investing, wealth effects, lifestyle inflation, and spending should be judged against personal experience value rather than comparison with richer peers.
+- AI-information workflow Q&A: daily information scraping is useful only when the market is paying attention; model choice, source selection, and tape context matter more than a magic prompt.
+
+Distilled signals:
+
+- Health and training are not side quests: systematized body maintenance can change the operator's confidence, energy, and future risk budget.
+- In shortage cycles, watch both price signals and capacity intent. Tight supply matters more when suppliers stay disciplined rather than rush into expansion.
+- A strong thesis still needs "faith testing": after a pullback, separate broken stories from high-quality names resting after a crowded move.
+- Do not chase social accounts for stock tips; prioritize industry operators, price behavior, and the mechanism behind why money is moving.
+- Wealth should buy experience and resilience, not only a higher comparison ladder. The reference point should be the user's own life, not the loudest winner nearby.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -251,7 +281,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

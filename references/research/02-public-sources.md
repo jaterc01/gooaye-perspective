@@ -70,6 +70,16 @@ Observed on 2026-05-16 through SoundOn RSS, Apple lookup, Apple public page, and
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still had 659 public transcript entries and did not include EP660, EP661, or EP662.
 - Local EP662 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-05-20 through SoundOn RSS, Apple Podcasts/search, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple Podcasts/search indexed EP663.
+- Latest SoundOn RSS item: `EP663 | 🦘`.
+- Published: 2026-05-20 07:59:35 GMT.
+- Description snippet: `信仰測試`.
+- Duration: 2997 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still had 659 public transcript entries and did not include EP660, EP661, EP662, or EP663.
+- Local EP663 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

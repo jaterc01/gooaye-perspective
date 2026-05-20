@@ -292,3 +292,33 @@ Ask:
 Output rule:
 
 > Better tools are not the same as better outcomes; ask where the product and shipment are.
+
+## 21. Faith test after a crowded move
+
+EP663 frames pullbacks in strong groups as a "faith test": when many holders have large gains and late entrants have weak conviction, the same news can produce fast selling without breaking the core thesis.
+
+Ask:
+
+- Is the position old low-cost inventory, a fresh chase, or leveraged exposure?
+- Did the pullback break the revenue/profit mechanism, or only shake out crowded holders?
+- Which group still has observable order, pricing, or product-cycle evidence behind it?
+- Is the user asking for comfort, or is there a specific falsification signal?
+
+Output rule:
+
+> A pullback is not automatically a broken thesis; retest mechanism, cost basis, and conviction separately.
+
+## 22. Capacity discipline in shortage cycles
+
+EP663 extends the passive-component and memory shortage model: price hikes matter more when suppliers are not rushing to expand capacity, while broad expansion would shorten the shortage window.
+
+Ask:
+
+- Are suppliers raising prices because demand is strong, because capacity is constrained, or because low-margin filler products are being displaced?
+- Are major suppliers expanding aggressively, or staying disciplined after prior cycle scars?
+- Are customers seeing lead-time extension, price-hike letters, order control, or auction-like allocation?
+- Which suppliers have enough product quality or customer mix to keep pricing power?
+
+Output rule:
+
+> In a shortage thesis, pricing power is stronger when capacity discipline and customer urgency show up together.

@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP663 Markdown transcripts, including public-synced `EP658.md`/`EP659.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP663.md`
-- Count observed after refresh on 2026-05-20: top-level corpus now includes `EP663.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP664 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
+- Count observed after refresh on 2026-05-23: top-level corpus now includes `EP664.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
@@ -21,7 +21,8 @@ Result:
 - EP660 local title: `股癌逐字稿 EP660｜這樣下去會不會壞掉`.
 - 2026-05-13 refresh: public transcript site still stopped at EP659, while Apple/SoundOn latest was `EP661 | 🚲`, published 2026-05-13 08:00:31 GMT, duration about 2999 seconds. The EP661 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP661.md`, `EP661.raw.txt`, and `EP661.raw.json` (2196 segments, 2998.961625 seconds). Treat EP661 as machine-generated until a public human transcript appears.
 - 2026-05-16 refresh: public transcript site still stopped at EP659, while SoundOn RSS latest was `EP662 | ⛑️`, published 2026-05-16 08:30:49 GMT, duration about 2999 seconds. The EP662 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP662.md`, `EP662.raw.txt`, and `EP662.raw.json` (2187 segments, 2998.961625 seconds). Treat EP662 as machine-generated until a public human transcript appears.
-- 2026-05-20 refresh: public transcript site still stopped at EP659, while SoundOn RSS and Apple Podcasts latest was `EP663 | 🦘`, published 2026-05-20 07:59:35 GMT, duration about 2997 seconds. The EP663 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP663.md`, `EP663.raw.txt`, and `EP663.raw.json` (2213 segments, 2997.4726875 seconds). Treat EP663 as machine-generated until a public human transcript appears.
+- 2026-05-20 refresh: public transcript site still stopped at EP659, while SoundOn RSS and Apple Podcasts latest was `EP663 | 🦘`, published 2026-05-20 07:59:35 GMT, duration about 2997 seconds. The EP663 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP663.md`, `EP663.raw.txt`, and `EP663.raw.json` (2213 segments, 2997.4726875 seconds).
+- 2026-05-23 refresh: public transcript site advanced to EP663, so `EP663.md` was replaced with the public transcript version while its earlier `.raw.*` machine artifacts remain as provenance. SoundOn RSS and Apple Podcasts latest was `EP664 | 🐟`, published 2026-05-23 07:59:15 GMT, duration about 2999 seconds. The EP664 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP664.md`, `EP664.raw.txt`, and `EP664.raw.json` (2216 segments, 2998.961625 seconds). Treat EP664 as machine-generated until a public human transcript appears.
 
 ## EP656 anchor
 
@@ -207,13 +208,13 @@ Distilled signals:
 
 ## EP663 anchor
 
-`EP663.md` title: `股癌逐字稿 EP663｜信仰測試`
+`EP663.md` title: `股癌逐字稿 EP663｜健身減重誌與被動元件大潮`
 
 Generation note:
 
-- Public transcript source stopped at EP659 when checked on 2026-05-20.
-- EP663 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
-- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+- Public transcript source stopped at EP659 when checked on 2026-05-20, so EP663 was first transcribed locally from SoundOn audio.
+- On 2026-05-23, `whatmkreallysaid.com/episodes.json` exposed EP663 as `健身減重誌與被動元件大潮`; the local `EP663.md` was replaced with the public transcript version.
+- Earlier raw machine artifacts remain available for provenance, but the Markdown transcript now follows the public transcript source.
 
 Major segments:
 
@@ -233,6 +234,33 @@ Distilled signals:
 - A strong thesis still needs "faith testing": after a pullback, separate broken stories from high-quality names resting after a crowded move.
 - Do not chase social accounts for stock tips; prioritize industry operators, price behavior, and the mechanism behind why money is moving.
 - Wealth should buy experience and resilience, not only a higher comparison ladder. The reference point should be the user's own life, not the loudest winner nearby.
+
+## EP664 anchor
+
+`EP664.md` title: `股癌逐字稿 EP664｜差一點捏破`
+
+Generation note:
+
+- Public transcript source stopped at EP663 when checked on 2026-05-23.
+- EP664 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor/business segment: enterprise tax planning is framed as operational hygiene; after-tax profit, contracts, invoices, shareholder flows, and cross-border tax risk are part of the real business system.
+- Positioning segment: many held names entered disposal trading or 20-minute matching, so the episode treats being unable to trade as a forced discipline rather than a reason to overreact.
+- Wine/sample segment: restaurant wine programs become a way to test expensive bottles without taking full bottle risk; the point is still sample-building and preference calibration.
+- AI demand segment: Anthropic profitability and Colossus-style compute payback make AI hardware capex look more durable, because compute can earn directly or be rented out.
+- TPU/ASIC segment: Google plus Blackstone-style TPU cloud moves TPU from internal-use story toward external supply; the right question is not only total AI demand but who owns the cloud, accelerator, and supply-chain route.
+- Passive component segment: MLCC, aluminum capacitor, inductor, resistor and power-component moves are separated into real bottlenecks versus follow-on sympathy trades; after a group rerates, price behavior can temporarily become the faster filter than fundamentals.
+- Housing/life Q&A: home-buying preferences are personal utility functions; west-facing rooms, top floors, large square footage, and lower liquidity can be rational if they match the actual family use case and are not intended for quick resale.
+
+Distilled signals:
+
+- A hard-to-trade winner can become a discipline device; if the mechanism is intact, forced stillness may be safer than trying to micromanage every tick.
+- AI capex skepticism weakens when model operators and compute owners show payback; still separate total demand expansion from competitive pressure between GPU, TPU, ASIC, and neo-cloud routes.
+- In a crowded sector move, fundamentals matter most before consensus forms; after consensus forms, watch who recovers first after pullbacks, then re-check which names own the real bottleneck.
+- Buying a home is not only resale optimization. Start from the user's actual life, family size, sunlight/noise preferences, and holding horizon before applying generic market checklists.
 
 ## Repeated transcript patterns
 
@@ -281,7 +309,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

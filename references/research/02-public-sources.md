@@ -80,6 +80,17 @@ Observed on 2026-05-20 through SoundOn RSS, Apple Podcasts/search, and `whatmkre
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` still had 659 public transcript entries and did not include EP660, EP661, EP662, or EP663.
 - Local EP663 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-05-23 through SoundOn RSS, Apple lookup/public page, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to 663 episodes and exposed EP663 as `健身減重誌與被動元件大潮`.
+- Apple Podcasts Taiwan lookup and public page indexed EP664.
+- Latest SoundOn RSS item: `EP664 | 🐟`.
+- Published: 2026-05-23 07:59:15 GMT.
+- Description snippet: `差一點捏破`.
+- Duration: 2999 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` included EP663 but did not include EP664.
+- Local EP663 Markdown was replaced with the public transcript version; local EP664 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

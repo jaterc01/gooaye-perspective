@@ -322,3 +322,33 @@ Ask:
 Output rule:
 
 > In a shortage thesis, pricing power is stronger when capacity discipline and customer urgency show up together.
+
+## 23. Consensus-phase sector filter
+
+EP664 adds a timing layer to the passive-component and AI-hardware cycle. Before a sector is widely believed, deep mechanism work matters most. After the sector has already rerated and everyone is paying experts to explain it, the faster signal becomes which names hold up, recover first, and still have a real bottleneck after the pullback.
+
+Ask:
+
+- Is this still a misunderstood mechanism, or is it now a crowded consensus trade?
+- After a pullback, which names recover first without needing a fresh narrative?
+- Which products are truly capacity-constrained, and which are only follow-on sympathy trades?
+- Is the user trying to add because the thesis improved, or because price action made the group exciting?
+
+Output rule:
+
+> Once consensus forms, use price behavior as a ranking device, then re-check the real bottleneck before adding.
+
+## 24. Utility-first home decisions
+
+EP664's housing Q&A rejects generic property maxims when they do not match the buyer's actual use case. West-facing rooms, top floors, large units, or lower resale liquidity can be acceptable if the household values sunlight, quiet, space, and long holding more than quick resale optionality.
+
+Ask:
+
+- Is the home primarily an investment, a family operating base, or both?
+- Which rule is generic market folklore, and which one matches the user's actual daily life?
+- Does lower liquidity matter if the intended holding period is long?
+- What problems are solvable with money, and what problems are structural to the home?
+
+Output rule:
+
+> Start from the user's lived utility and holding horizon before applying resale checklists.

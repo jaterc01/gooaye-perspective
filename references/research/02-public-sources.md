@@ -91,12 +91,21 @@ Observed on 2026-05-23 through SoundOn RSS, Apple lookup/public page, and `whatm
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` included EP663 but did not include EP664.
 - Local EP663 Markdown was replaced with the public transcript version; local EP664 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-05-27 through Apple Podcasts Taiwan, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to 665 episodes and exposed EP665 as `小天才初現與衛星算力遠眺`.
+- Apple Podcasts Taiwan public page indexed EP665 and showed 665 total episodes.
+- Latest SoundOn RSS item: `EP665`, with description snippet `整組做壞掉了`.
+- Published: 2026-05-27 07:25:44 GMT.
+- RSS enclosure: SoundOn-hosted MP3. This was observed for cross-checking only; public transcript Markdown was already available, so no MP3 download or machine transcription was needed.
+- Local EP665 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.
 - Semiweekly cadence and hundreds of episodes mean the voice is conversational and iterative rather than one-off essay-like.
 - Listener reviews show the show also functions as companionship, family ritual, and identity/community space.
-- Latest episode checks should compare Apple/SoundOn public episode count with `whatmkreallysaid.com/episodes.json`; if Apple/SoundOn is ahead, download the RSS audio, transcribe locally, then replace or reconcile when a public transcript appears.
+- Latest episode checks should compare Apple/SoundOn public episode count with `whatmkreallysaid.com/episodes.json`; if Apple/SoundOn is ahead, download the RSS audio, transcribe locally, then replace or reconcile when a public transcript appears. If the public transcript site is already caught up, prefer the public Markdown and skip local transcription.
 
 ## Facebook
 

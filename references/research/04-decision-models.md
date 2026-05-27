@@ -352,3 +352,33 @@ Ask:
 Output rule:
 
 > Start from the user's lived utility and holding horizon before applying resale checklists.
+
+## 25. Far-theme investability gate
+
+EP665 introduces satellite AI compute as a real imagination-space but keeps it away from immediate buy-now posture. Space-based compute needs a chain of unsolved or expensive prerequisites before it becomes a normal investment thesis.
+
+Ask:
+
+- Is the theme conceptually possible, or already economically deployable?
+- What changed in launch cost, power generation, cooling, maintenance, latency, and payload reliability?
+- Who captures value: launcher, satellite operator, compute customer, chip vendor, power/cooling supplier, or ground-network provider?
+- Is the user building a watchlist, or trying to justify buying a currently crowded AI name with a far-future story?
+
+Output rule:
+
+> Treat far-future infrastructure themes as watchlist material until the cost stack and value-capture route become visible.
+
+## 26. Method evidence before leverage
+
+EP665's leverage Q&A repeats the anti-hero rule through a listener's painful TQQQ/SQQQ margin story: start with unlevered tools, prove a method with actual returns, then consider scaling.
+
+Ask:
+
+- Does the user have a repeatable trade record, or only a strong feeling after one good period?
+- Is leverage amplifying an edge, or hiding the absence of one?
+- Can the user survive being right late, wrong fast, or forced to liquidate at the worst moment?
+- Is the next step lower leverage, smaller size, or a clearer rule?
+
+Output rule:
+
+> Do not scale ego; scale only a method that has already survived real trades without leverage.

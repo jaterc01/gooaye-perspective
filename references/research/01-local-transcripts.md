@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP664 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
-- Count observed after refresh on 2026-05-23: top-level corpus now includes `EP664.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP665 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
+- Count observed after refresh on 2026-05-27: top-level corpus now includes `EP665.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
@@ -23,6 +23,7 @@ Result:
 - 2026-05-16 refresh: public transcript site still stopped at EP659, while SoundOn RSS latest was `EP662 | ⛑️`, published 2026-05-16 08:30:49 GMT, duration about 2999 seconds. The EP662 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP662.md`, `EP662.raw.txt`, and `EP662.raw.json` (2187 segments, 2998.961625 seconds). Treat EP662 as machine-generated until a public human transcript appears.
 - 2026-05-20 refresh: public transcript site still stopped at EP659, while SoundOn RSS and Apple Podcasts latest was `EP663 | 🦘`, published 2026-05-20 07:59:35 GMT, duration about 2997 seconds. The EP663 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP663.md`, `EP663.raw.txt`, and `EP663.raw.json` (2213 segments, 2997.4726875 seconds).
 - 2026-05-23 refresh: public transcript site advanced to EP663, so `EP663.md` was replaced with the public transcript version while its earlier `.raw.*` machine artifacts remain as provenance. SoundOn RSS and Apple Podcasts latest was `EP664 | 🐟`, published 2026-05-23 07:59:15 GMT, duration about 2999 seconds. The EP664 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP664.md`, `EP664.raw.txt`, and `EP664.raw.json` (2216 segments, 2998.961625 seconds). Treat EP664 as machine-generated until a public human transcript appears.
+- 2026-05-27 refresh: public transcript site advanced to EP665 and exposed `EP665_小天才初現與衛星算力遠眺.md`; `download_gooaye_transcripts.py` synced `EP665.md` directly from the public source. Apple Podcasts Taiwan and SoundOn RSS also showed `EP665`, published 2026-05-27 07:25:44 GMT, description snippet `整組做壞掉了`. No MP3 transcription was needed.
 
 ## EP656 anchor
 
@@ -262,6 +263,32 @@ Distilled signals:
 - In a crowded sector move, fundamentals matter most before consensus forms; after consensus forms, watch who recovers first after pullbacks, then re-check which names own the real bottleneck.
 - Buying a home is not only resale optimization. Start from the user's actual life, family size, sunlight/noise preferences, and holding horizon before applying generic market checklists.
 
+## EP665 anchor
+
+`EP665.md` title: `股癌逐字稿 EP665｜小天才初現與衛星算力遠眺`
+
+Generation note:
+
+- Public transcript source included EP665 when checked on 2026-05-27.
+- `download_gooaye_transcripts.py` synced the public Markdown transcript into the local corpus, so no local MP3 download or machine transcription was needed.
+
+Major segments:
+
+- Sponsor/health segment: 善存葉黃素 sponsor copy links all-day screen use, following markets, and eye-care as investor/operator maintenance.
+- Life/body segment: weather, running progress, leg soreness, military memories, and functional training continue the "operator condition matters" frame.
+- Family segment: 諾亞's hearing, language recognition, and "小天才" joking show the parental joy layer without turning it into certainty or achievement worship.
+- Market segment: passive components, TSMC, and crowded AI hardware trades are treated as still-interesting but needing position discipline after large runs.
+- Satellite AI compute segment: SpaceX/Starship, space-based data centers, satellite inference, and low-earth-orbit infrastructure are framed as a possible far-future theme, not an immediate all-in thesis.
+- Q&A segment: accepting short attention cycles, sampling hobbies quickly, slowing down everyday actions, learning from leverage mistakes, and respecting trading-system consistency.
+
+Distilled signals:
+
+- Health maintenance keeps expanding from sleep/body into eyes and attention: screen-heavy investors need operating-system upkeep, not just better information.
+- A future theme can be intellectually important before it is investable. Satellite compute should be mapped through launch cost, power, cooling, latency, maintenance, and who actually captures value.
+- Short-lived obsessions are not necessarily waste if they build taste and skills; the new layer is learning to slow down and notice details after the initial sprint.
+- Leverage should come only after an unlevered method has real trade-record evidence. "看對再下大" means the return record proves the method, not the ego.
+- A trading rule can be correct and still lead to a missed move; judge the system over many trades, not one emotionally painful exit.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -309,7 +336,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

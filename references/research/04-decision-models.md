@@ -382,3 +382,33 @@ Ask:
 Output rule:
 
 > Do not scale ego; scale only a method that has already survived real trades without leverage.
+
+## 27. AI deployment moat
+
+EP666 shifts the software/AI question from model leaderboard talk toward data access, enterprise deployment, business ability and accountability. If public data and base models become similar, the next edge may come from proprietary data, expert data, closed enterprise data, compliance handling, copyright risk control, hallucination control, and a vendor humans can hold responsible.
+
+Ask:
+
+- Is the company only wrapping a model, or does it own data, workflow access, customer trust or deployment relationships?
+- Can it enter the customer's real environment without creating unacceptable legal, privacy, copyright or hallucination risk?
+- Who is accountable when the output fails: a model provider, an SI, a software vendor, or nobody?
+- Is the sales/business motion strong enough to turn technical capability into contracts?
+
+Output rule:
+
+> In AI software, model quality is table stakes; durable value needs data, deployment, business motion and responsibility.
+
+## 28. Expansion timing test
+
+EP666 clarifies that capacity expansion is not automatically bearish. In a shortage cycle, early expansion into a niche or severely constrained product can confirm that supply is scarce and the supplier with inventory or capacity may earn more. Late broad expansion after everyone already knows the product is short can be a warning.
+
+Ask:
+
+- What exactly is being expanded: niche product, server-grade product, consumer-grade product, or broad commodity capacity?
+- Is the cycle early, with customers still scrambling for supply, or late, after consensus and price have already moved?
+- Does new capacity arrive soon enough to solve the current shortage, or only after the profitable window?
+- Is the market reacting to actual supply/demand math, or using a simple "expansion equals sell" shortcut?
+
+Output rule:
+
+> Treat expansion as a timing and product-mix signal, not a one-line bearish trigger.

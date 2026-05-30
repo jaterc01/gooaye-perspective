@@ -2,7 +2,7 @@
 
 股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
 
-這是一個 Codex/Hermes-style skill，基於本機 EP1-EP665 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。
+這是一個 Codex/Hermes-style skill，基於本機 EP1-EP666 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。
 
 ## Install
 

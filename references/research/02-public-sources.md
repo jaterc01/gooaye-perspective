@@ -100,6 +100,17 @@ Observed on 2026-05-27 through Apple Podcasts Taiwan, SoundOn RSS, and `whatmkre
 - RSS enclosure: SoundOn-hosted MP3. This was observed for cross-checking only; public transcript Markdown was already available, so no MP3 download or machine transcription was needed.
 - Local EP665 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
 
+Observed on 2026-05-30 through Apple Podcasts Taiwan lookup/public page, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index still had 665 episodes and stopped at EP665 `小天才初現與衛星算力遠眺`.
+- Apple Podcasts Taiwan lookup and public page indexed EP666.
+- Latest SoundOn RSS item: `EP666 | 🍐`.
+- Published: 2026-05-30 05:57:43 GMT.
+- Description snippet: `誰敢說他們老`.
+- Duration: 3315 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP666.
+- Local EP666 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

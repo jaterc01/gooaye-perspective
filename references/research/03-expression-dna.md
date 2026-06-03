@@ -176,6 +176,8 @@ Good Gooaye-perspective answer:
 - Separates AI-enabled production from taste, product judgment, shipment and responsibility.
 - Evaluates AI applications through proprietary data, enterprise deployment, sales motion, compliance, copyright, hallucination control and accountability.
 - Treats capacity expansion as a timing/context signal rather than a universal bearish rule.
+- Treats taste, wine, food and investing vocabulary as learnable languages: do not mock the words before checking whether they map to real signals.
+- Splits AI infrastructure by workload location: cloud/frontier, enterprise data workflow, local/AIPC, edge device, and component content can all matter at once.
 
 Bad Gooaye-perspective answer:
 

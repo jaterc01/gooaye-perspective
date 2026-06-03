@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP666 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP666.md`
-- Count observed after refresh on 2026-05-30: top-level corpus now includes `EP666.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP667 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP666.md`/`EP667.md`
+- Count observed after refresh on 2026-06-03: top-level corpus now includes `EP667.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
 
@@ -25,6 +25,7 @@ Result:
 - 2026-05-23 refresh: public transcript site advanced to EP663, so `EP663.md` was replaced with the public transcript version while its earlier `.raw.*` machine artifacts remain as provenance. SoundOn RSS and Apple Podcasts latest was `EP664 | 🐟`, published 2026-05-23 07:59:15 GMT, duration about 2999 seconds. The EP664 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP664.md`, `EP664.raw.txt`, and `EP664.raw.json` (2216 segments, 2998.961625 seconds). Treat EP664 as machine-generated until a public human transcript appears.
 - 2026-05-27 refresh: public transcript site advanced to EP665 and exposed `EP665_小天才初現與衛星算力遠眺.md`; `download_gooaye_transcripts.py` synced `EP665.md` directly from the public source. Apple Podcasts Taiwan and SoundOn RSS also showed `EP665`, published 2026-05-27 07:25:44 GMT, description snippet `整組做壞掉了`. No MP3 transcription was needed.
 - 2026-05-30 refresh: public transcript site still stopped at EP665, while SoundOn RSS and Apple Podcasts latest was `EP666 | 🍐`, published 2026-05-30 05:57:43 GMT, duration about 3315 seconds, description snippet `誰敢說他們老`. The EP666 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP666.md`, `EP666.raw.txt`, and `EP666.raw.json` (2523 segments, 3314.0245 seconds). Treat EP666 as machine-generated until a public human transcript appears.
+- 2026-06-03 refresh: public transcript site still stopped at EP665, while SoundOn RSS and Apple Podcasts latest was `EP667 | 🌍`, published 2026-06-03 07:34:50 GMT, duration about 3051 seconds, description snippet `這兩天開始品到…土味`. The EP667 RSS `.mp3` enclosure was downloaded and transcribed locally with `faster-whisper-large-v3`, producing `EP667.md`, `EP667.raw.txt`, and `EP667.raw.json` (2235 segments, 3050.9714375 seconds). Treat EP667 as machine-generated until a public human transcript appears.
 
 ## EP656 anchor
 
@@ -318,6 +319,33 @@ Distilled signals:
 - AI software analysis should move from model leaderboard talk to data ownership, deployment, sales motion, compliance, copyright, hallucination control, and who is accountable when the output fails.
 - A fixed percentage stop is too blunt. Apply different exit logic to TSMC-like quality, small speculative names, leveraged trades, and crowded high-beta setups.
 
+## EP667 anchor
+
+`EP667.md` title: `股癌逐字稿 EP667｜土味`
+
+Generation note:
+
+- Public transcript source stopped at EP665 when checked on 2026-06-03.
+- EP667 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- Sponsor/travel segment: NordVPN sponsor copy frames travel planning, price comparison, public Wi-Fi safety, cross-region access and device coverage as friction removal for family travel.
+- Slow-life/operator segment: breathing, deliberate routines, child-care details, coffee runs, and slowed daily actions continue the operator-upkeep theme, but EP667 adds memory formation and "language of taste" as a learnable skill.
+- Wine/taste segment: a tasting event turns wine vocabulary from "裝逼" into a real sensory language; price tags and expert language become training data, not status worship.
+- Computex segment: NVIDIA and Marvell speeches reinforce optical connectivity, total AI infrastructure solutions, and market enthusiasm around Marvell, while also warning that some moves are driven by Jensen/Huang signaling power rather than fully visible fundamentals.
+- AIPC/local-model segment: DGX Spark, N1X-style edge devices, open-source models, Snowflake/Data Lake workflows and token-cost reduction are used to frame local AI and cloud AI as workload splitting rather than a zero-sum fight.
+- Market/Q&A segment: TSMC and NVIDIA may finally rotate stronger as leaders, while power semiconductors, PMIC/IDM, AIPC materials, passive components and high-ASP device content are watchlist themes that still need evidence.
+
+Distilled signals:
+
+- Taste is a language: using experts, samples and shared vocabulary can turn vague "good/bad" reactions into a practical recommendation engine.
+- Local AI strength is not automatically data-center bearish. Separate frontier workloads, enterprise data workflows, token-cost economics and edge-device sufficiency.
+- Computex keynotes can move stocks, but the right check is still workload, product maturity, valuation location and whether the supply chain captures real content growth.
+- AIPC is a second-chance theme after the first weak cycle; watch whether on-device models reach a useful sweet spot and whether higher ASP/material content offsets weak traditional PC demand.
+- In a broad bull market, rotation into leaders such as TSMC/NVIDIA and adjacent themes such as power semis should be respected, but not chased without identifying the mechanism and price location.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -365,7 +393,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

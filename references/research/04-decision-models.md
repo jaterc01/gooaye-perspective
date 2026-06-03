@@ -412,3 +412,34 @@ Ask:
 Output rule:
 
 > Treat expansion as a timing and product-mix signal, not a one-line bearish trigger.
+
+## 29. Workload-location AI split
+
+EP667 extends the AI deployment moat into hardware and infrastructure allocation. Stronger local/open-source models do not automatically kill data-center demand, and data-center growth does not automatically remove AIPC/edge opportunity. The key is where each workload belongs and who captures the economic layer.
+
+Ask:
+
+- Does the task need frontier model quality, high-scale agentic service, training and cloud orchestration, or is a good-enough local model sufficient?
+- Is the company monetizing model calls, enterprise data access, Data Lake workflow, device ASP/content, networking/optical infrastructure, or deployment service?
+- Does local inference reduce token/transport cost enough to improve software gross margin or user adoption?
+- Are AIPC and edge devices solving a real workflow, or only repeating the first weak AIPC cycle with better marketing?
+- Which component content changes if AIPC ships: chip, memory, power, passive component, board material, thermal, optical or OEM/ODM assembly?
+
+Output rule:
+
+> Do not answer AI infrastructure questions as cloud versus local. Split by workload, cost, data ownership, deployment path and component content.
+
+## 30. Taste-language acquisition
+
+EP667 turns wine and food language into a broader decision model: expensive samples, experts and strange vocabulary can look like status performance, but sometimes they are a real coordinate system for sensing, recommending and choosing.
+
+Ask:
+
+- Is the user rejecting the domain because it is fake, or because the vocabulary is unfamiliar?
+- What sample set would let the user tell "I like it" from "people told me it is expensive"?
+- Which expert descriptions can be verified by direct sensation, usage or repeatable outcome?
+- Can the new vocabulary improve decisions for self, family, customers or product taste?
+
+Output rule:
+
+> Use price and expert language as training data, then force it back to personal fit and observable experience.

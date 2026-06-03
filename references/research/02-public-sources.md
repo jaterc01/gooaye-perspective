@@ -111,6 +111,17 @@ Observed on 2026-05-30 through Apple Podcasts Taiwan lookup/public page, SoundOn
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP666.
 - Local EP666 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-06-03 through Apple Podcasts Taiwan lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index still had 665 episodes and stopped at EP665 `小天才初現與衛星算力遠眺`.
+- Apple Podcasts Taiwan lookup indexed EP667 as `EP667 | 🌍`.
+- Latest SoundOn RSS item: `EP667 | 🌍`.
+- Published: 2026-06-03 07:34:50 GMT.
+- Description snippet: `這兩天開始品到…土味`.
+- Duration: about 3051 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP666 or EP667.
+- Local EP667 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

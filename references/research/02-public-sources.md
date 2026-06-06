@@ -122,6 +122,18 @@ Observed on 2026-06-03 through Apple Podcasts Taiwan lookup, SoundOn RSS, and `w
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP666 or EP667.
 - Local EP667 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-06-06 through Apple Podcasts Taiwan lookup/public page, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to EP667 and exposed EP666 `生命節奏誌與AI業務論` plus EP667 `品酒問道誌與AIPC新局`.
+- Apple Podcasts Taiwan lookup indexed latest as `EP688 | 🦞`.
+- Apple Podcasts public page also contained `EP688`, upload date 2026-06-06, duration PT50M2S, and episode URL `https://podcasts.apple.com/tw/podcast/ep688/id1500839292?i=1000771432762`.
+- Latest SoundOn RSS item: `EP688 | 🦞`.
+- Published: 2026-06-06 08:12:15 GMT.
+- Description snippet: `賈偷島`.
+- Duration: about 3002 seconds.
+- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP688.
+- Local EP666/EP667 Markdown was synced from `whatmkreallysaid.com/episodes.json`; local EP688 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

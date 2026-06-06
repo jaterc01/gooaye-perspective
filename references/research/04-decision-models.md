@@ -443,3 +443,33 @@ Ask:
 Output rule:
 
 > Use price and expert language as training data, then force it back to personal fit and observable experience.
+
+## 31. Human-taste automation boundary
+
+EP688 sharpens the AI replacement model by splitting commodity automation from personal-output work. Retail discount messages, repeated formatting and low-trust production can be automated aggressively. But creators, teachers, directors, consultants and personal brands sell taste, judgment, accountability and "味道"; fully outsourcing that layer to AI can destroy the trust and engagement the work depends on.
+
+Ask:
+
+- Is the AI replacing repetitive labor, or replacing the identity/taste layer the audience actually values?
+- Does the user need speed, or do they need a recognizable point of view and someone accountable for the result?
+- Would the output still be trusted if people knew it was fully automated?
+- Is the right workflow human-in-the-loop, AI-assisted drafting, or full automation?
+
+Output rule:
+
+> Automate commodity labor, but do not outsource the human flavor when that flavor is the product.
+
+## 32. Practical AI demo test
+
+EP688 treats Computex more positively when demos become concrete: faster Adobe workflows, RTX Spark / local AI, large unified memory, gaming plus creator workflows, and token-cost payback. The better question is no longer "is AI the future?" but whether the product changes work, entertainment or cost today enough that a user would pay.
+
+Ask:
+
+- What existing workflow gets faster or cheaper: editing, rendering, gaming, agentic research, enterprise monitoring or deployment?
+- Does the device have enough memory, software support and model capacity for the workflow, or only an AI label?
+- Can local inference save enough token/cloud cost to justify the hardware?
+- Is the product useful to mainstream buyers through gaming/creator value, not only to AI-heavy power users?
+
+Output rule:
+
+> Prefer AI demos that make someone say "I can use this now" over demos that only ask people to imagine the future.

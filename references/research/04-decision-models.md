@@ -446,7 +446,7 @@ Output rule:
 
 ## 31. Human-taste automation boundary
 
-EP688 sharpens the AI replacement model by splitting commodity automation from personal-output work. Retail discount messages, repeated formatting and low-trust production can be automated aggressively. But creators, teachers, directors, consultants and personal brands sell taste, judgment, accountability and "味道"; fully outsourcing that layer to AI can destroy the trust and engagement the work depends on.
+EP668 sharpens the AI replacement model by splitting commodity automation from personal-output work. Retail discount messages, repeated formatting and low-trust production can be automated aggressively. But creators, teachers, directors, consultants and personal brands sell taste, judgment, accountability and "味道"; fully outsourcing that layer to AI can destroy the trust and engagement the work depends on.
 
 Ask:
 
@@ -461,7 +461,7 @@ Output rule:
 
 ## 32. Practical AI demo test
 
-EP688 treats Computex more positively when demos become concrete: faster Adobe workflows, RTX Spark / local AI, large unified memory, gaming plus creator workflows, and token-cost payback. The better question is no longer "is AI the future?" but whether the product changes work, entertainment or cost today enough that a user would pay.
+EP668 treats Computex more positively when demos become concrete: faster Adobe workflows, RTX Spark / local AI, large unified memory, gaming plus creator workflows, and token-cost payback. The better question is no longer "is AI the future?" but whether the product changes work, entertainment or cost today enough that a user would pay.
 
 Ask:
 

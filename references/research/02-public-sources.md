@@ -122,17 +122,17 @@ Observed on 2026-06-03 through Apple Podcasts Taiwan lookup, SoundOn RSS, and `w
 - RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP666 or EP667.
 - Local EP667 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
-Observed on 2026-06-06 through Apple Podcasts Taiwan lookup/public page, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+Observed on 2026-06-07 through Apple Podcasts Taiwan lookup/public page, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
 
-- Public transcript site index advanced to EP667 and exposed EP666 `生命節奏誌與AI業務論` plus EP667 `品酒問道誌與AIPC新局`.
-- Apple Podcasts Taiwan lookup indexed latest as `EP688 | 🦞`.
-- Apple Podcasts public page also contained `EP688`, upload date 2026-06-06, duration PT50M2S, and episode URL `https://podcasts.apple.com/tw/podcast/ep688/id1500839292?i=1000771432762`.
-- Latest SoundOn RSS item: `EP688 | 🦞`.
+- Public transcript site index advanced to EP668 and exposed EP668 `電腦展見聞錄與槓桿天譴論`.
+- Apple Podcasts Taiwan lookup reported 668 episodes and the public page contained `EP668 | 🦞`.
+- Apple Podcasts public page showed upload date 2026-06-06, duration PT50M2S, and episode URL `https://podcasts.apple.com/tw/podcast/ep668/id1500839292?i=1000771432762`.
+- Latest SoundOn RSS item: `EP668 | 🦞`.
 - Published: 2026-06-06 08:12:15 GMT.
 - Description snippet: `賈偷島`.
 - Duration: about 3002 seconds.
-- RSS enclosure: SoundOn-hosted MP3. This was used because `whatmkreallysaid.com/episodes.json` did not include EP688.
-- Local EP666/EP667 Markdown was synced from `whatmkreallysaid.com/episodes.json`; local EP688 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+- RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP668.
+- Local EP668 Markdown was synced from `whatmkreallysaid.com/episodes.json`; the prior misnumbered `EP688.*` machine artifacts were quarantined and should not be used as latest-episode evidence.
 
 Skill implications:
 

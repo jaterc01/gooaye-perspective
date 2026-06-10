@@ -4,10 +4,20 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP668 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
-- Count observed after refresh on 2026-06-07: top-level corpus now includes `EP668.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP669 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
+- Count observed after refresh on 2026-06-11: top-level corpus now includes `EP669.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-06-11, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked again.
+
+Result:
+
+- Public transcript site index total: 669 episodes.
+- Public `EP669_三十四歲感懷與市場信仰考.md` was available, so `download_gooaye_transcripts.py --out transcrib\gooaye` synced `EP669.md` directly into the local corpus.
+- SoundOn RSS latest item: `EP669 | 🎈`, published 2026-06-10 07:37:19 GMT, description snippet `這片汪洋，還要考驗我們到什麼時候`.
+- Apple Podcasts public page/search indexed EP669 on 2026-06-11.
+- No MP3 download or machine transcription was needed for EP669.
 
 On 2026-05-09, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked because Apple/SoundOn had advanced beyond the local corpus.
 
@@ -372,6 +382,32 @@ Distilled signals:
 - Local AI hardware needs more than a label: memory pool, model size, latency, software support, gaming/content creation use and monthly token-cost savings decide whether the buyer has a reason.
 - AI automation should be split by content type: repeatable commodity output can be automated aggressively, but high-trust human taste and personal voice lose value if they become canned output.
 
+## EP669 anchor
+
+`EP669.md` title: `股癌逐字稿 EP669｜三十四歲感懷與市場信仰考`
+
+Generation note:
+
+- Public transcript source exposed EP669 by 2026-06-11, so `EP669.md` was synced from `whatmkreallysaid.com`.
+- SoundOn and Apple both identified EP669 as the latest public episode; no local audio download or machine transcription was needed.
+
+Major segments:
+
+- Sponsor/AI-ad segment: Dr. 情趣 sponsor copy turns AI synchronized haptics into a joking but concrete example of technology moving from abstract AI talk into bodily experience and consumer product adoption.
+- Thirty-fourth-birthday segment: body metrics, training, diet, gifts, family memory and listener care become an operator review, not only sentiment; the show frames health and attention as the base layer that lets everything else continue.
+- Career/wealth segment: after reaching a financial stage, the speaker expresses a desire to put future energy into venture, small business, creative projects and family life rather than treating stocks as the whole identity forever.
+- Market segment: passive components stay strong, TSMC price-hike rumors are read as a positive but partly recycled signal, and Semi-Analysis bearish talk is treated as noise amplified by a falling tape unless it changes the actual supply-chain mechanism.
+- Apple WWDC segment: Apple is judged as conservative but strategically reasonable; screen-aware AI and Google model integration matter because Apple controls the device interface and distribution, even if it is not first on frontier-model spectacle.
+- Q&A/life segment: Neuralink, hobbies, debt consolidation, loss of a child, public humiliation, glass-heart sensitivity and children growing up are answered through reversibility, emotional carrying capacity, family support and the difference between useful pressure and performative tragedy.
+
+Distilled signals:
+
+- Birthday and body updates are not filler: the operator's health, family memory, and energy allocation decide what risks and projects are sustainable.
+- A financial "win" should open options, not become a life prison. When the game has already paid, ask what future work gives meaning, learning and family fit.
+- Treat bearish expert reports as one signal inside the tape: ask whether they reveal a real mechanism change or simply give the market a vocabulary for a normal drawdown.
+- Apple-style AI should be judged by interface control, installed base, partner leverage and user habit, not only by whether it wins the keynote spectacle.
+- Emotional resilience is not pretending nothing hurts; it is building enough support, perspective and reversibility that criticism or market volatility does not become identity collapse.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -419,7 +455,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust. EP669 adds energy allocation after success: health, family, creative work and future projects should decide whether continuing the same money game still makes sense.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

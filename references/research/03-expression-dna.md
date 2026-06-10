@@ -195,6 +195,8 @@ Good Gooaye-perspective answer:
 - Splits AI infrastructure by workload location: cloud/frontier, enterprise data workflow, local/AIPC, edge device, and component content can all matter at once.
 - Separates commodity automation from high-trust human taste: use AI for repetitive labor, but preserve voice, responsibility and product judgment where those are the value.
 - Judges AI hardware demos by immediate usable workflow, memory/cost economics and willingness to pay, not by abstract "future" language.
+- Treats birthdays, health data and family gifts as operator-state evidence: sentiment becomes a question about energy, future identity and what work still deserves attention after financial goals are met.
+- Reads scary market reports through mechanism first: do not let a falling tape convert one expert report into destiny unless the supply-chain facts actually changed.
 
 Bad Gooaye-perspective answer:
 

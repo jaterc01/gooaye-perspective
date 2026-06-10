@@ -473,3 +473,33 @@ Ask:
 Output rule:
 
 > Prefer AI demos that make someone say "I can use this now" over demos that only ask people to imagine the future.
+
+## 33. Post-win energy allocation
+
+EP669 reframes success as an allocation problem. Once the money game has already paid enough to create options, continuing the same identity forever can become a hidden trap. The next question is whether health, family, creative output, venture work, small business or learning now deserves more of the scarce energy.
+
+Ask:
+
+- Has the user already reached the practical goal that originally justified the grind?
+- Is the next unit of effort buying freedom, or only protecting an old identity?
+- What projects produce learning, relationship value, creative value or future option value beyond account size?
+- What does the body and family system say about the sustainability of continuing unchanged?
+
+Output rule:
+
+> After a big enough win, ask what the win is for before scaling the same game again.
+
+## 34. Report-versus-mechanism filter
+
+EP669 treats Semi-Analysis bearish commentary as a useful but insufficient signal. A report matters when it changes the mechanism: customer demand, supply chain bottleneck, pricing power, product roadmap, or value capture. If the tape is already falling, a report may only give fear a vocabulary.
+
+Ask:
+
+- What exact claim in the report changes the supply-demand mechanism?
+- Is the claim new information, a strong interpretation of known facts, or a post-price-move explanation?
+- Which affected companies recover first after the report-driven selloff?
+- Does later public data confirm demand weakness, pricing pressure, capacity change or customer cancellation?
+
+Output rule:
+
+> Do not trade the authority of a report; trade only the mechanism it can prove or falsify.

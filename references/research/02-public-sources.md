@@ -134,6 +134,16 @@ Observed on 2026-06-07 through Apple Podcasts Taiwan lookup/public page, SoundOn
 - RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP668.
 - Local EP668 Markdown was synced from `whatmkreallysaid.com/episodes.json`; the prior misnumbered `EP688.*` machine artifacts were quarantined and should not be used as latest-episode evidence.
 
+Observed on 2026-06-11 through web search, Apple Podcasts public page, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to 669 episodes and exposed EP669 `三十四歲感懷與市場信仰考`.
+- Apple Podcasts public page/search indexed `EP669 |` and showed it as the latest episode, published about 14 hours before the 2026-06-11 check.
+- Latest SoundOn RSS item: `EP669 | 🎈`.
+- Published: 2026-06-10 07:37:19 GMT.
+- Description snippet: `這片汪洋，還要考驗我們到什麼時候`.
+- RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP669.
+- Local EP669 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

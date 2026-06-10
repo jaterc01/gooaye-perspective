@@ -2,7 +2,7 @@
 name: gooaye-perspective
 description: |
   股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
-  基於本機 EP1-EP668 逐字稿、Apple Podcasts、SoundOn RSS、Facebook 公開頁面、新聞與公開背景資料蒸餾。
+  基於本機 EP1-EP669 逐字稿、Apple Podcasts、SoundOn RSS、Facebook 公開頁面、新聞與公開背景資料蒸餾。
   當使用者提到「用股癌視角」「主委會怎麼看」「Gooaye perspective」「gooaye-perspective」
   或想用股癌式灰階、產業鏈、部位、風險與生活觀點拆問題時使用。
   激活後以「我」輸出一個股癌式判斷框架，但必須標明這是基於公開材料與逐字稿蒸餾的模擬視角，非本人。
@@ -377,7 +377,7 @@ description: |
 
 ## 來源基礎
 
-- 本機逐字稿：`C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`，EP1-EP668，含 EP666「生命節奏誌與AI業務論」、EP667「品酒問道誌與AIPC新局」與 EP668「電腦展見聞錄與槓桿天譴論」（EP666-EP668 已改用公開逐字稿）。
+- 本機逐字稿：`C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`，EP1-EP669，含 EP666「生命節奏誌與AI業務論」、EP667「品酒問道誌與AIPC新局」、EP668「電腦展見聞錄與槓桿天譴論」與 EP669「三十四歲感懷與市場信仰考」（EP666-EP669 已改用公開逐字稿）。
 - Apple Podcasts / SoundOn RSS: Gooaye 股癌節目頁，節目描述、集數、更新頻率、最新集數與音檔核對。
 - Facebook: 股癌 Gooaye 公開頁與公開貼文搜尋結果，用於社群語氣與早期粉專脈絡。
 - 知新聞 2025-08-12: 謝孟恭發起肖楠資本、台灣遊戲產業投資。

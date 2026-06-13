@@ -144,6 +144,16 @@ Observed on 2026-06-11 through web search, Apple Podcasts public page, SoundOn R
 - RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP669.
 - Local EP669 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
 
+Observed on 2026-06-13 through Apple Podcasts public page/lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to 670 episodes and exposed EP670 `瘦瘦針OD誌與SpaceX首航論`.
+- Apple Podcasts lookup returned `releaseDate: 2026-06-13T07:07:00Z`; the public page schema showed latest work example `EP670 | 🫡`, `datePublished: 2026-06-13`, and upload date 2026-06-13.
+- Latest SoundOn RSS item: `EP670 | 🫡`.
+- Published: 2026-06-13 07:07:21 GMT.
+- Description snippet: `Dario 哥求仁得仁`.
+- RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP670.
+- Local EP670 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

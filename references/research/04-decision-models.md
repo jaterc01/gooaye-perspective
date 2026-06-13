@@ -503,3 +503,63 @@ Ask:
 Output rule:
 
 > Do not trade the authority of a report; trade only the mechanism it can prove or falsify.
+
+## 35. Instruction-manual risk gate
+
+EP670 turns the weight-loss-drug OD story into a general rule: improvisation is charming only when the downside is small and reversible. When the object is dosage, leverage, contracts, taxes, medical risk or position rules, reading the instructions is not bureaucracy; it is the cheapest risk control.
+
+Ask:
+
+- What happens if the user is wrong: embarrassment, small cost, health damage, legal exposure, forced liquidation or permanent loss?
+- Is the operation reversible, or does one mistake create an outsized downside?
+- What instruction, label, contract, margin rule, fee table, dosage note or exit condition has not been read yet?
+- Can the user slow down long enough to remove the avoidable error before deciding?
+
+Output rule:
+
+> Use hard-work energy after reading the rules, not as a substitute for reading them.
+
+## 36. Attention mute filter
+
+EP670 treats attention as a scarce asset. Negative feedback, family/social pressure, low-quality online comments, comparison culture and performative wealth can all consume decision bandwidth. The mature move is not to win every argument; it is to mute inputs that do not improve truth, support, or execution.
+
+Ask:
+
+- Is this input giving useful information, honest care, social pressure, comparison bait or pure emotional drag?
+- Does responding improve the user's decision, or only feed an attention loop?
+- What can be muted, blocked, delayed, unfollowed or bounded without violating basic obligations?
+- Is the user confusing politeness with the need to please everyone?
+
+Output rule:
+
+> Protect attention like capital: spend it on signal, support and execution, not on every person trying to enter the notification center.
+
+## 37. Dream-premium valuation split
+
+EP670 uses SpaceX to split valuation into current engine, future option value and belief premium. Satellite cash flow may be real, rockets and orbital AI/data centers may be long-dated options, and related listed names can become exit liquidity when rumor turns into public news.
+
+Ask:
+
+- Which layer is being bought: current cash flow, visible growth, far-future option value, community belief or pure liquidity momentum?
+- Is the user early enough that later buyers may still arrive, or late enough that early holders may be selling into the story?
+- What related names move after the public catalyst, and do they recover or keep leaking?
+- Does the user need a precise fair value, or a clear thesis for why the market will keep paying the premium?
+
+Output rule:
+
+> Do not dismiss dream premium automatically; identify which layer of the dream is being priced and who may be using the public story as liquidity.
+
+## 38. Frontier-to-edge workload map
+
+EP670 connects Meta's new model, export controls, Dario-style AI-risk rhetoric and edge computing. Frontier models can keep pushing the ceiling while older or open capabilities become good enough for local devices. The practical question is where each workload lands: frontier cloud, enterprise model, open model, AIPC, edge device, or embedded component.
+
+Ask:
+
+- Does the task require the best frontier model, or would a one-year-lag/open/local model be enough?
+- Does regulation restrict access, cost, deployment or customer reach?
+- Which hardware layer benefits if capability moves local: memory, thermal, edge device, endpoint software, component content or service wrapper?
+- Does the product have a real workflow and buyer, or only a model-quality headline?
+
+Output rule:
+
+> Stronger frontier models do not kill local AI; they can define what becomes good enough to move down into cheaper, closer devices.

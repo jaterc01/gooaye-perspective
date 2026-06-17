@@ -154,6 +154,16 @@ Observed on 2026-06-13 through Apple Podcasts public page/lookup, SoundOn RSS, a
 - RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP670.
 - Local EP670 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
 
+Observed on 2026-06-17 through Apple Podcasts public page/lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to 671 episodes and exposed EP671 `離散元件覓蹤與隨機人生論`.
+- Apple Podcasts lookup returned `trackCount: 671`; the public page schema showed latest work example `EP671 | 🌼` and upload date 2026-06-17.
+- Latest SoundOn RSS item: `EP671 | 🌼`.
+- Published: 2026-06-17 06:29:22 GMT.
+- Description snippet: `不可能一關再關吧`.
+- RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP671.
+- Local EP671 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

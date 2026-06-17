@@ -4,10 +4,20 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP670 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
-- Count observed after refresh on 2026-06-13: top-level corpus now includes `EP670.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP671 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
+- Count observed after refresh on 2026-06-17: top-level corpus now includes `EP671.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-06-17, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked again.
+
+Result:
+
+- Public transcript site index total: 671 episodes.
+- Public `EP671_離散元件覓蹤與隨機人生論.md` was available, so `download_gooaye_transcripts.py --out transcrib\gooaye` synced `EP671.md` directly into the local corpus.
+- SoundOn RSS latest item: `EP671 | 🌼`, published 2026-06-17 06:29:22 GMT, description snippet `不可能一關再關吧`.
+- Apple Podcasts public page indexed EP671 on 2026-06-17 and showed upload date 2026-06-17.
+- No MP3 download or machine transcription was needed for EP671.
 
 On 2026-06-13, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked again.
 
@@ -443,6 +453,30 @@ Distilled signals:
 - Dream valuation is not automatically wrong; the question is whether the user knows which part is current cash flow, which part is option value, and who may be selling into the public story.
 - When frontier models advance, ask what capability will later become good enough locally or at the edge.
 
+## EP671 anchor
+
+`EP671.md` title: `股癌逐字稿 EP671｜離散元件覓蹤與隨機人生論`
+
+Generation note:
+
+- Public transcript source exposed EP671 by 2026-06-17, so `EP671.md` was synced from `whatmkreallysaid.com`.
+- SoundOn and Apple both identified EP671 as the latest public episode; no local audio download or machine transcription was needed.
+
+Major segments:
+
+- Opening segment: fake accounts, market rumors and social short-video noise are treated as attention-risk and information-quality problems rather than things worth fighting one by one.
+- Lifestyle/restaurant segment: Lin-kou dining, real estate and side-business ideas are framed through actual use, local demand, rent/cost structure and whether the operator really wants the daily work.
+- Market breadth segment: Taiwan's rally is described as broadening from AI/electronics into financials and mid/small caps; the risk is later convergence, but the tape first deserves respect.
+- Discrete-component / power-semiconductor segment: the next market search moves away from crowded passive-component trades toward IDM signals, non-China sourcing, PMIC, DrMOS, 800V DC, board-space constraints and supply-demand spillover.
+- Q&A/life segment: career regret, office conflict, credit-card installment, wine, medical work, premature birth and restart questions are answered through reversibility, support systems and not judging a life path only by final outcome.
+
+Distilled signals:
+
+- When a theme becomes crowded, do not automatically say it is wrong; ask where the demand, validation or shortage pressure may spill next.
+- Supply-chain stories should be classified as bottleneck shortage, cost pass-through, second-source validation, non-China substitution or inventory pull-forward.
+- A low headline penetration rate can still be meaningful when the market is huge and content value per system rises.
+- Life decisions should be managed with reversible experiments, cash-flow runway and emotional carrying capacity instead of hindsight blame.
+
 ## Repeated transcript patterns
 
 ### 1. Industry knowledge is useful only when connected to price
@@ -490,7 +524,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust. EP669 adds energy allocation after success: health, family, creative work and future projects should decide whether continuing the same money game still makes sense. EP670 adds instruction-manual humility and attention hygiene: the operator protects health, capital and mood by reading high-risk rules and muting low-quality inputs.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust. EP669 adds energy allocation after success: health, family, creative work and future projects should decide whether continuing the same money game still makes sense. EP670 adds instruction-manual humility and attention hygiene: the operator protects health, capital and mood by reading high-risk rules and muting low-quality inputs. EP671 adds random-path humility: do not judge a career, side business or life turn only by its final result; manage experiment size, support and reversibility.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

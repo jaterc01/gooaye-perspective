@@ -563,3 +563,48 @@ Ask:
 Output rule:
 
 > Stronger frontier models do not kill local AI; they can define what becomes good enough to move down into cheaper, closer devices.
+
+## 39. Crowded-theme spillover search
+
+EP671 moves from a crowded passive-component market into discrete components and power semiconductors. The point is not to deny the hot theme; it is to respect price strength while asking where marginal demand, validation pressure, or supply displacement may spill next.
+
+Ask:
+
+- Is the current theme already crowded enough that new buyers mostly provide liquidity to earlier buyers?
+- Which adjacent component, supplier tier, geography or customer qualification path is receiving spillover?
+- Are large suppliers moving toward higher-margin products and leaving mid/low-spec orders for second sources?
+- Is the new area still unnamed enough that risk/reward is better, or has the market already written the same essay?
+
+Output rule:
+
+> Do not chase the loudest room; map where the crowding may push real orders next.
+
+## 40. Supply-chain mechanism classifier
+
+EP671 separates discrete-component and power-semiconductor stories from simple shortage language. Some moves come from cost pass-through, some from non-China sourcing, some from AI server content value, some from second-source validation, and only some from bottleneck scarcity.
+
+Ask:
+
+- Is this bottleneck shortage, cost pass-through, specification upgrade, second-source qualification, non-China substitution or inventory pull-forward?
+- Which public evidence would confirm the mechanism: IDM commentary, quote changes, customer validation, delivery lead time, foreign ownership, or related-component pricing?
+- Does a low penetration rate still imply large content value because system size, board-space pressure, or per-server component count is high?
+- What would prove the story is only a temporary trade rather than a structural demand shift?
+
+Output rule:
+
+> A supply-chain story is useful only after naming the mechanism and the evidence that would prove or kill it.
+
+## 41. Random-path life sizing
+
+EP671 answers life and career questions with humility about randomness. A path can look obvious only after the result is known; before that, the practical work is sizing the experiment, keeping support, and not turning one outcome into an identity sentence.
+
+Ask:
+
+- What could the user reasonably know at the time, and what was unknowable?
+- Is the decision reversible, partially reversible, or identity/career/health locked in?
+- What cash-flow runway, family support, professional support or emotional capacity exists if the attempt fails?
+- Can the user test the new path at smaller scale before treating it as a total life verdict?
+
+Output rule:
+
+> Do not judge a life path only by the ending; size the experiment so a bad branch does not destroy the operator.

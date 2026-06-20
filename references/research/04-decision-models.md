@@ -608,3 +608,34 @@ Ask:
 Output rule:
 
 > Do not judge a life path only by the ending; size the experiment so a bad branch does not destroy the operator.
+
+## 42. New-high portfolio separation
+
+EP672 uses Taiwan index new highs to separate aggregate market evidence from personal portfolio experience. A user's own holdings can be weak while the market is still broad or healthy; treating personal pain as macro truth creates bad timing and wrong blame.
+
+Ask:
+
+- Is the index, sector leadership, breadth or liquidity actually weak, or only the user's current holdings?
+- Which groups are making new highs, recovering first, or attracting fresh stories?
+- Is the user trying to short the whole tape because their book is underperforming?
+- What evidence would show the new high is fragile: narrowing leadership, failed breakouts, credit tightening, forced selling, or broken earnings?
+
+Output rule:
+
+> Do not infer the market from one portfolio. Respect the aggregate tape first, then diagnose why the user's holdings are not participating.
+
+## 43. AI labor transition split
+
+EP672 reframes AI job anxiety by separating pandemic-era over-hiring, real automation, new tool leverage and product responsibility. Software work may shift away from raw coding toward product design, workflow ownership and using AI to build more surface area, while low-accountability organizational slack becomes less protected.
+
+Ask:
+
+- Is the job pressure caused by AI replacement, over-hiring cleanup, interest-rate discipline, or a real demand change?
+- Does the person only produce code, or can they define products, judge output, integrate systems and own responsibility?
+- Does AI shrink the same fixed workload, or make new workflows and small projects economically possible?
+- What cost constraints matter: token spend, human review, deployment risk, liability, customer trust or maintenance?
+- Is the next move reskilling into AI-assisted product/workflow ownership, or defending a task that tools can now do cheaply?
+
+Output rule:
+
+> Do not answer AI career questions as zero-sum replacement. Split tool leverage, organizational slack, new TAM and responsibility before telling someone to stay or leave.

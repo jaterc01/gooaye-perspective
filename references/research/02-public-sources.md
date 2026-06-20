@@ -164,6 +164,17 @@ Observed on 2026-06-17 through Apple Podcasts public page/lookup, SoundOn RSS, a
 - RSS enclosure: SoundOn-hosted MP3. This was checked but not downloaded because `whatmkreallysaid.com/episodes.json` already included EP671.
 - Local EP671 Markdown was synced from `whatmkreallysaid.com/episodes.json`.
 
+Observed on 2026-06-20 through Apple Podcasts public page/lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index still had 671 episodes and stopped at EP671 `離散元件覓蹤與隨機人生論`.
+- Apple Podcasts public page indexed `EP672 | 🐣`, upload date 2026-06-20, release date 2026-06-20T05:40:47Z, duration 3205 seconds, and episode URL `https://podcasts.apple.com/tw/podcast/ep672/id1500839292?i=1000773499374`.
+- Apple lookup API was behind the public page at check time and returned latest episode data only through EP671.
+- Latest SoundOn RSS item: `EP672 | 🐣`.
+- Published: 2026-06-20 05:40:47 GMT.
+- Description snippet: `又新高拉`.
+- RSS enclosure: SoundOn-hosted MP3. This was downloaded and transcribed because `whatmkreallysaid.com/episodes.json` did not include EP672.
+- Local EP672 Markdown was generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

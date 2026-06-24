@@ -175,8 +175,9 @@ Observed on 2026-06-20 through Apple Podcasts public page/lookup, SoundOn RSS, a
 - RSS enclosure: SoundOn-hosted MP3. This was downloaded and transcribed because `whatmkreallysaid.com/episodes.json` did not include EP672.
 - Local EP672 Markdown was generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
-Observed on 2026-06-24 through Apple lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+Observed on 2026-06-24 through Apple Podcasts public page, Apple lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
 
+- Apple Podcasts public page showed `EP673 | 韓國人真的很會玩`, total episodes 673, and duration 51 minutes.
 - Apple lookup exposed `EP673 | 🥬`, release date 2026-06-24T08:09:45Z, and the SoundOn-hosted MP3 enclosure.
 - Latest SoundOn RSS item: `EP673 | 🥬`.
 - SoundOn description snippet: `韓國人真的很會玩`.

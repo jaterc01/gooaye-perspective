@@ -15,7 +15,7 @@ Result:
 
 - Public transcript source now exposes 672 episodes and includes `EP672_功率元件缺貨論與軟體職涯重整.md`, so local `EP672.md` was replaced with the public transcript version.
 - SoundOn RSS latest item: `EP673 | 🥬`, published 2026-06-24 08:09:45 GMT, description snippet `韓國人真的很會玩`.
-- Apple lookup also exposed `EP673 | 🥬` with the same SoundOn MP3 enclosure; the Apple public page request from PowerShell failed, but Apple lookup and SoundOn agreed on the latest item.
+- Apple lookup exposed `EP673 | 🥬` with the same SoundOn MP3 enclosure; Apple Podcasts public page also showed `EP673 | 韓國人真的很會玩` and total episodes 673.
 - Because no public EP673 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP673.mp3` and transcribed locally with `faster-whisper-large-v3`.
 - New top-level transcript artifacts: `EP673.md`, `EP673.raw.txt`, and `EP673.raw.json`.
 - EP673 machine transcript metadata: 3056.927375 seconds, 2222 segments, language `zh`, language probability 1.0.

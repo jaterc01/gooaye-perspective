@@ -4,10 +4,22 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP672 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP672.md`
-- Count observed after refresh on 2026-06-20: top-level corpus now includes `EP672.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP673 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP673.md`
+- Count observed after refresh on 2026-06-24: top-level corpus now includes `EP673.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-06-24, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source now exposes 672 episodes and includes `EP672_功率元件缺貨論與軟體職涯重整.md`, so local `EP672.md` was replaced with the public transcript version.
+- SoundOn RSS latest item: `EP673 | 🥬`, published 2026-06-24 08:09:45 GMT, description snippet `韓國人真的很會玩`.
+- Apple lookup also exposed `EP673 | 🥬` with the same SoundOn MP3 enclosure; the Apple public page request from PowerShell failed, but Apple lookup and SoundOn agreed on the latest item.
+- Because no public EP673 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP673.mp3` and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript artifacts: `EP673.md`, `EP673.raw.txt`, and `EP673.raw.json`.
+- EP673 machine transcript metadata: 3056.927375 seconds, 2222 segments, language `zh`, language probability 1.0.
+- Treat EP673 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript.
 
 On 2026-06-20, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
@@ -19,7 +31,7 @@ Result:
 - Because no public EP672 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP672.mp3` and transcribed locally with `faster-whisper-large-v3`.
 - New top-level transcript artifacts: `EP672.md`, `EP672.raw.txt`, and `EP672.raw.json`.
 - EP672 machine transcript metadata: 3204.049 seconds, 2358 segments, language `zh`, language probability 1.0.
-- Treat EP672 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript.
+- Historical status at 2026-06-20: treat EP672 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript. This was superseded on 2026-06-24 when the public EP672 Markdown became available and replaced the local Markdown.
 
 On 2026-06-17, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, and Apple Podcasts were checked again.
 
@@ -491,13 +503,12 @@ Distilled signals:
 
 ## EP672 anchor
 
-`EP672.md` title: `股癌逐字稿 EP672｜又新高拉`
+`EP672.md` title: `股癌逐字稿 EP672｜功率元件缺貨論與軟體職涯重整`
 
 Generation note:
 
-- Public transcript source still stopped at EP671 when checked on 2026-06-20.
-- EP672 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
-- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+- Public transcript source still stopped at EP671 when checked on 2026-06-20, so EP672 was first generated from the SoundOn RSS enclosure with `faster-whisper-large-v3`.
+- Public transcript source exposed EP672 by 2026-06-24, so `EP672.md` was replaced with the public Markdown. The earlier `.raw.*` machine artifacts remain as provenance.
 
 Major segments:
 
@@ -517,6 +528,34 @@ Distilled signals:
 - Do not worship prediction accuracy; update the view when the tape and mechanism change.
 - AI labor disruption is not only replacement. Separate over-hiring cleanup, tool leverage, new TAM, cost constraints and product responsibility.
 - Taste and lifestyle answers should preserve subjectivity: filter genuinely bad experiences, but avoid fake precision when choices are simply different good options.
+
+## EP673 anchor
+
+`EP673.md` title: `股癌逐字稿 EP673｜韓國人真的很會玩`
+
+Generation note:
+
+- Public transcript source stopped at EP672 when checked on 2026-06-24, so EP673 was generated from SoundOn audio.
+- EP673 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
+- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
+
+Major segments:
+
+- 全聯酒品 task: sample widely, use ratings as a first-pass filter, then build a personal taste vocabulary instead of worshipping price tags.
+- Market pullback: after a fast rally, separate ordinary pullback from false breakout or structural break; do not force a dramatic explanation when the tape has not broken.
+- Korea/leveraged-crowd contagion: Korean retail leverage, ETFs, crypto and hot U.S. names can create cross-market pressure, but this is not automatically a Taiwan fundamental change.
+- Position rotation: moving between TSM, mid-cap, passive components and power components should depend on whether the original group is actually dead and who first recovers.
+- MediaTek/Google ASIC line: Triggerfish-style early awards are useful option-value evidence, but should not be modeled as standalone financial contribution before roadmap/volume evidence.
+- Passive components: resistor tightness can emerge after capacitor/inductor supply pressure and procurement fear spill over; classify pull-in, real demand, pricing and capacity constraints separately.
+- Work pressure/freedom: muting toxic people is easiest when one has built income, role and family support; for students or employees trapped under professors/managers, the practical goal is building an exit route.
+- Functional training: body awareness, joint mobility and whole-chain force transfer become operator infrastructure, not just gym aesthetics.
+
+Distilled signals:
+
+- Do not let a normal pullback become a total worldview flip unless leadership, breadth or mechanism also breaks.
+- Short-term external deleveraging can be a trigger without being the root cause of a local industry story.
+- Treat early ASIC/product awards as option value until volume, roadmap and customer evidence become firmer.
+- For unavoidable toxic environments, the useful answer is not only emotional toughness; build the cash-flow, credential or support route that makes exit possible.
 
 ## Repeated transcript patterns
 

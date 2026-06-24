@@ -175,12 +175,23 @@ Observed on 2026-06-20 through Apple Podcasts public page/lookup, SoundOn RSS, a
 - RSS enclosure: SoundOn-hosted MP3. This was downloaded and transcribed because `whatmkreallysaid.com/episodes.json` did not include EP672.
 - Local EP672 Markdown was generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-06-24 through Apple lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple lookup exposed `EP673 | 🥬`, release date 2026-06-24T08:09:45Z, and the SoundOn-hosted MP3 enclosure.
+- Latest SoundOn RSS item: `EP673 | 🥬`.
+- SoundOn description snippet: `韓國人真的很會玩`.
+- `whatmkreallysaid.com/episodes.json` exposed 672 public transcript entries and now included `EP672_功率元件缺貨論與軟體職涯重整.md`, but did not include EP673.
+- Local EP672 Markdown was replaced with the public transcript version.
+- RSS enclosure for EP673 was downloaded and transcribed because `whatmkreallysaid.com/episodes.json` did not include EP673.
+- Local EP673 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.
 - Semiweekly cadence and hundreds of episodes mean the voice is conversational and iterative rather than one-off essay-like.
 - Listener reviews show the show also functions as companionship, family ritual, and identity/community space.
 - Latest episode checks should compare Apple/SoundOn public episode count with `whatmkreallysaid.com/episodes.json`; if Apple/SoundOn is ahead, download the RSS audio, transcribe locally, then replace or reconcile when a public transcript appears. If the public transcript site is already caught up, prefer the public Markdown and skip local transcription.
+- When a previously provisional local transcript becomes available publicly, replace the Markdown with the public version but keep `.raw.*` artifacts as provenance unless there is an explicit cleanup request.
 
 ## Facebook
 

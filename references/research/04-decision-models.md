@@ -639,3 +639,63 @@ Ask:
 Output rule:
 
 > Do not answer AI career questions as zero-sum replacement. Split tool leverage, organizational slack, new TAM and responsibility before telling someone to stay or leave.
+
+## 44. Pullback reason filter
+
+EP673 treats a sharp down day after a large rally as a classification problem, not an invitation to write dramatic bearish fiction. Korea-driven leverage, ETF crowding, crypto or hot U.S. names may trigger selling pressure, but that does not automatically mean Taiwan's underlying industry logic broke.
+
+Ask:
+
+- Did the market just rally a lot before this pullback, and are major moving averages or prior lows actually broken?
+- Is this a false breakout, ordinary cooling, forced deleveraging, or a fundamental deterioration?
+- Are people explaining the move with solid mechanism, or retrofitting scary narratives after the price moved?
+- Does the portfolio need small rebalancing, or is the user turning one red day into a total worldview flip?
+
+Output rule:
+
+> Do not force a grand reason onto every pullback. Classify the pullback first, then size the response.
+
+## 45. Leadership rotation confirmation
+
+EP673 uses the choice between TSM, mid-caps, passive components and power components to show that rotation should be evidence-led. Moving into a large-cap shelter makes sense only if the old leaders are actually broken or the new leader confirms with relative strength.
+
+Ask:
+
+- Are the current leaders only pulling back, or have they broken trend, breadth, volume and narrative support?
+- Did the intended shelter actually hold better, or did it fall with everything else?
+- Which names recovered first, lifted into the close, or reclaimed small swing highs?
+- Is the change a small hedge, or an emotional total switch caused by short-term pain?
+
+Output rule:
+
+> Rotate when leadership confirms; do not switch groups only because the previous group finally cooled down.
+
+## 46. Early ASIC option-value ledger
+
+EP673 discusses MediaTek/Google Triggerfish as a useful but early signal. An award, design activity or product-code clue can show development progress, but it should be logged as option value until the product path, volume, ASP and margin contribution become visible.
+
+Ask:
+
+- Is the clue a standalone new product, an upgrade to an existing line, or a bundled continuation of a prior roadmap?
+- What stage is it in: rumor, award, tape-out, customer validation, shipment, revenue, or earnings contribution?
+- Does the clue change competitive position against Broadcom, Marvell or other ASIC suppliers, or only show that the supplier has a seat at the table?
+- Which public evidence would upgrade this from option value to forecastable contribution?
+
+Output rule:
+
+> Early customer awards matter, but keep them in an option-value ledger until volume and economics can be verified.
+
+## 47. Exit-route independence
+
+EP673 answers workplace or school pressure by distinguishing emotional resilience from structural dependence. Some people can mute, refuse or walk away because they have built enough income, reputation, family support or alternatives; trapped people need an exit route more than a lecture about caring less.
+
+Ask:
+
+- What makes the pressure source hard to ignore: graduation, salary, visa, family cost, reputation, or lack of alternatives?
+- What near-term behavior reduces damage without making the situation worse?
+- What medium-term route creates freedom: cash runway, portfolio, credential, transfer, new job, allies, legal/HR path, or family support?
+- Is the user seeking validation for anger, or a concrete plan to become less dependent on the source?
+
+Output rule:
+
+> If the person cannot mute the source today, help them build the route that makes muting or leaving possible later.

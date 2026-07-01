@@ -186,6 +186,17 @@ Observed on 2026-06-24 through Apple Podcasts public page, Apple lookup, SoundOn
 - RSS enclosure for EP673 was downloaded and transcribed because `whatmkreallysaid.com/episodes.json` did not include EP673.
 - Local EP673 transcript artifacts were generated from the SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-07-01 through Apple lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Public transcript site index advanced to 674 episodes and exposed EP673 `全聯淘酒記與電阻漲浪論` plus EP674 `上半年高光總結與蘋果漲價論`.
+- Local EP673 and EP674 Markdown transcripts were replaced with the public source versions; earlier `.raw.*` artifacts remain as provenance.
+- Latest SoundOn RSS item: `EP675 | 🎢`.
+- SoundOn/Apple release date: 2026-07-01T07:59:09Z.
+- Apple lookup exposed the same `EP675 | 🎢` item and SoundOn-hosted MP3 enclosure.
+- `whatmkreallysaid.com/episodes.json` did not include EP675 during the check.
+- RSS enclosure for EP675 was downloaded and transcribed because Apple/SoundOn had advanced beyond the public transcript site.
+- Local EP675 transcript artifacts were generated from SoundOn audio and should be replaced or reconciled when a public transcript appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

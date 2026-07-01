@@ -699,3 +699,78 @@ Ask:
 Output rule:
 
 > If the person cannot mute the source today, help them build the route that makes muting or leaving possible later.
+
+## 48. Mark-date flow test
+
+EP674 and EP675 treat half-year / quarter-end marks, rebalance programs and tail-end sell programs as flow windows that can change the tape without automatically changing the fundamental story.
+
+Ask:
+
+- Is the market move happening near month-end, quarter-end, half-year mark or fund rebalance timing?
+- Did a large sell program, tail-end dump or index/fund flow likely distort short-term price action?
+- After the window passes, which sectors or names still move without the forced flow?
+- Is the user reading a performance highlight as durable trend, or using it as one checkpoint?
+
+Output rule:
+
+> Separate flow-window relief from fundamental confirmation; require follow-through after the mark date.
+
+## 49. Price-hike mechanism ladder
+
+EP674 and EP675 add a stricter price-hike test. Apple device pricing, IC design price adjustments, DDIC or passive-component price letters can mean very different things depending on whether the driver is cost, supply, demand or inventory behavior.
+
+Ask:
+
+- Is the price hike driven by cost pass-through, demand-driven pricing power, bottleneck shortage, product-mix upgrade or customer pull-forward?
+- What evidence exists beyond the headline: part number, material, customer, order quantity, margin impact, shipment timing or company guidance?
+- Can the company keep the price increase, or is it only passing upstream cost to the customer?
+- Which future public data should confirm the claim: revenue, gross margin, backlog, utilization, inventory days or sell-through?
+
+Output rule:
+
+> Do not treat "price hike" as one signal; classify the mechanism before translating it into margin or EPS.
+
+## 50. Consensus-lag signal filter
+
+EP675 warns that broad social consensus can still work in a bull market, but it is not the same as early, high-purity information. When the market moves from mechanism work to everyone writing similar essays and guessing monthly revenue, the risk/reward changes.
+
+Ask:
+
+- Did the signal appear before the move, during the move, or after everyone needed a reason for the move?
+- Is the source a high-purity operator / supply-chain signal, a specialist interpretation, broad KOL repetition or late promotional narrative?
+- Is the user joining because the mechanism improved, or because social agreement reduced anxiety?
+- If the story is already consensus, what price behavior would show the market still wants to sponsor it?
+
+Output rule:
+
+> Consensus is not automatically wrong, but late consensus requires smaller sizing, clearer exits and stronger verification.
+
+## 51. Long-hold replacement discipline
+
+EP675 distinguishes index-style long holding from single-stock faith. A broad index can replace weak constituents, while a single company can be displaced, mismanaged or technologically stranded.
+
+Ask:
+
+- Is the user holding an index/ETF with built-in rebalancing, or a single stock that requires active thesis review?
+- What mechanism keeps weak assets from staying in the portfolio forever?
+- Has the company's product, customer base, technology, management or capital allocation structurally weakened?
+- Is "long term" being used as a process, or as an excuse not to admit the thesis changed?
+
+Output rule:
+
+> Long-term holding still needs a weak-to-strong replacement mechanism; indexes do it automatically, single-stock investors must do it deliberately.
+
+## 52. Creative-capital exit-route map
+
+EP675 updates the Shaonan Capital / Taiwan game industry lens: creative investing should combine player passion with capital discipline, publishing capability, IP development and founder exit routes.
+
+Ask:
+
+- Is the project only loved by insiders, or does it have a distribution, publishing and marketing path?
+- Does the team have enough capital runway to finish, launch and iterate instead of dying before the market can judge it?
+- Can the IP expand into sequels, merchandise, publishing leverage or international markets?
+- What exit route exists for founders and early capital: revenue share, acquisition, publisher partnership, follow-on financing or partial liquidity?
+
+Output rule:
+
+> For games and creative industries, passion finds the signal; capital design keeps the team alive long enough for the signal to compound.

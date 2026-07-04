@@ -195,7 +195,16 @@ Observed on 2026-07-01 through Apple lookup, SoundOn RSS, and `whatmkreallysaid.
 - Apple lookup exposed the same `EP675 | 🎢` item and SoundOn-hosted MP3 enclosure.
 - `whatmkreallysaid.com/episodes.json` did not include EP675 during the check.
 - RSS enclosure for EP675 was downloaded and transcribed because Apple/SoundOn had advanced beyond the public transcript site.
-- Local EP675 transcript artifacts were generated from SoundOn audio and should be replaced or reconciled when a public transcript appears.
+- Local EP675 transcript artifacts were generated from SoundOn audio; the Markdown was later replaced with the public transcript on 2026-07-04, while raw ASR artifacts remain as provenance.
+
+Observed on 2026-07-04 through Apple lookup, SoundOn RSS, Apple Podcasts public page, Facebook public-page search snippets, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple Podcasts public page showed 676 total episodes.
+- Apple lookup exposed `EP676 | 🐬`, release date 2026-07-04T07:45:37Z, and the SoundOn-hosted MP3 enclosure.
+- SoundOn RSS latest item matched `EP676 | 🐬`, published 2026-07-04 07:45:37 GMT.
+- Facebook public-page search snippets also showed `EP676 | 他有很多有錢的客人`.
+- `whatmkreallysaid.com/episodes.json` exposed 676 public transcript entries, including EP675 `蕭南資本造夢記與動能追高論` and EP676 `凱杜飯店遛娃記與祖克柏癡漢論`.
+- Local EP675 Markdown was replaced with the public transcript version; EP676 was downloaded from the public transcript site. No EP676 MP3 transcription was needed.
 
 Skill implications:
 

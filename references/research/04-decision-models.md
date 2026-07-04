@@ -774,3 +774,93 @@ Ask:
 Output rule:
 
 > For games and creative industries, passion finds the signal; capital design keeps the team alive long enough for the signal to compound.
+
+## 53. Family-flexibility asset test
+
+EP676 uses the choice between buying an Yilan vacation home and staying in family-friendly hotels to show that lifestyle assets should be judged by recurring logistics, not only by the fantasy of easy weekends.
+
+Ask:
+
+- Is the user buying actual recurring utility, or buying a picture of future weekends?
+- How much packing, cleaning, maintenance, travel fatigue and child-schedule conflict comes with the asset?
+- Does the asset increase flexibility, or create guilt and obligation because "we bought it so we have to go"?
+- What stage are the children in: infant logistics, toddler dependency, school-age friends, or teenage independence?
+
+Output rule:
+
+> Price the hidden recurring load before calling a lifestyle asset worth it; flexibility can be the better asset.
+
+## 54. Post-correction leadership confirmation
+
+EP676 frames the market after a small correction as a ranking exercise. Passive components and power components turned first; packaging/testing may follow, but the confirmation comes from price leadership and index follow-through, not from wanting a story to work.
+
+Ask:
+
+- Which groups turned up first after the correction, and which only looked cheap?
+- Did the index reclaim or make new highs, or is the move still just a bounce?
+- Are early buyers being shaken out by trapped sellers, or has the group truly failed?
+- Is the user moving with confirmed leadership, or chasing the group that was hot last month?
+
+Output rule:
+
+> After a correction, rank leadership by recovery behavior and follow-through, not by how good the old story sounds.
+
+## 55. Component-capacity bottleneck map
+
+EP676 extends the passive-component and power-component thesis into MOSFET shortage, IDM advantage, secured foundry/package capacity and packaging/testing pricing power. Small parts can matter when AI demand pulls on every layer of the supply chain.
+
+Ask:
+
+- Is the shortage in the component itself, wafer capacity, package/test capacity, inventory, or customer pull-forward?
+- Does the company control capacity as an IDM, secure capacity through group resources, or depend on tight outside suppliers?
+- Are price hikes visible in actual orders, lead times, gross margin, backlog or customer behavior?
+- Has the market already priced two or three times the story before public letters appear?
+
+Output rule:
+
+> Map the bottleneck layer before naming winners; capacity control and pricing evidence matter more than the part sounding small.
+
+## 56. AI capex outlet economics
+
+EP676 reads Meta's Neo Cloud move as possible double-down, not automatic retreat. Renting older or less frontier compute can create an outlet for legacy assets and make further buildout easier to justify.
+
+Ask:
+
+- Is compute being rented because the company is abandoning AI, or because legacy capacity has a monetizable outlet?
+- Does the rental business reduce waste, satisfy CFO pressure and unlock more capex?
+- Who is hurt by the new entrant: AI capex suppliers, existing Neo Cloud players, or neither?
+- What would verify the thesis later: capex guidance, GPU orders, utilization, cloud pricing, customer wins or margin disclosure?
+
+Output rule:
+
+> Do not treat compute rental as bearish by default; test whether it is retreat, recycling, or capex acceleration.
+
+## 57. Trading-career runway test
+
+EP676 answers a listener who turned a small account into about 3.6M TWD by separating possibility from proof. A person can try full-time trading with less money than outsiders think, but a bull-market account high is not a complete evidence set.
+
+Ask:
+
+- How much runway exists after living costs, family obligations, tax, insurance and emergency reserves?
+- Was the performance made in a broad bull market, a strategy-specific regime, or across different markets?
+- Is the user left-side averaging, right-side momentum, multi-strategy, or just improvising?
+- Can the user survive a large drawdown without being forced back to work at the worst moment?
+
+Output rule:
+
+> Treat full-time trading as a reversible risk budget decision; require runway and regime evidence, not only a peak net worth.
+
+## 58. AI tool-routing stack
+
+EP676 splits daily AI use by task shape: Claude for interactive work and reasoning, Perplexity Comet for multi-page research, Google for one-hop search, and NotebookLM for videos or long-source digestion.
+
+Ask:
+
+- Is the task a conversation, a coding/reasoning workflow, a multi-source web research pass, a simple lookup, or long-form source digestion?
+- Does the answer need citations, source comparison, memory over uploaded materials, or fast direct retrieval?
+- Is the user choosing the tool by habit, or by the information shape?
+- What is the cheapest tool that preserves enough accuracy and workflow speed?
+
+Output rule:
+
+> Route the AI tool by task shape: conversation, research, lookup and long-source digestion are different jobs.

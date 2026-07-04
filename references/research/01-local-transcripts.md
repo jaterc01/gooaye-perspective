@@ -4,22 +4,32 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP675 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP675.md`
-- Count observed after refresh on 2026-07-01: top-level corpus now includes `EP675.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP676 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
+- Count observed after refresh on 2026-07-04: top-level corpus now includes `EP676.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-07-04, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source now exposes 676 episodes and includes `EP675_蕭南資本造夢記與動能追高論.md` and `EP676_凱杜飯店遛娃記與祖克柏癡漢論.md`.
+- Local `EP675.md` was replaced with the public transcript version; prior `EP675.raw.*` artifacts remain as provenance.
+- SoundOn RSS latest item: `EP676 | 🐬`, published 2026-07-04 07:45:37 GMT.
+- Apple lookup also exposed `EP676 | 🐬` with the same SoundOn MP3 enclosure.
+- New top-level transcript file: `EP676.md`, sourced from the public transcript site. No EP676 MP3 or local ASR run was needed.
 
 On 2026-07-01, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
 Result:
 
-- Public transcript source now exposes 674 episodes and includes `EP673_全聯淘酒記與電阻漲浪論.md` and `EP674_上半年高光總結與蘋果漲價論.md`, so local `EP673.md` and `EP674.md` were replaced with the public transcript versions.
+- Public transcript source exposed 674 episodes and included `EP673_全聯淘酒記與電阻漲浪論.md` and `EP674_上半年高光總結與蘋果漲價論.md`, so local `EP673.md` and `EP674.md` were replaced with the public transcript versions.
 - SoundOn RSS latest item: `EP675 | 🎢`, published 2026-07-01 07:59:09 GMT.
 - Apple lookup also exposed `EP675 | 🎢` with the same SoundOn MP3 enclosure.
-- Because no public EP675 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP675.mp3` and transcribed locally with `faster-whisper-large-v3`.
-- New top-level transcript artifacts: `EP675.md`, `EP675.raw.txt`, and `EP675.raw.json`.
+- Because no public EP675 transcript was available then, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP675.mp3` and transcribed locally with `faster-whisper-large-v3`.
+- Top-level transcript artifacts created then: `EP675.md`, `EP675.raw.txt`, and `EP675.raw.json`.
 - EP675 machine transcript metadata: 2997.4726875 seconds, 2225 segments, language `zh`, language probability 1.0.
-- Treat EP675 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript.
+- EP675 is no longer provisional after the 2026-07-04 public transcript replacement.
 
 On 2026-06-24, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
@@ -594,15 +604,14 @@ Distilled signals:
 
 ## EP675 anchor
 
-`EP675.md` title: `EP675 | 🎢`
+`EP675.md` title: `蕭南資本造夢記與動能追高論`
 
 Generation note:
 
-- Public transcript site stopped at EP674 when checked on 2026-07-01.
+- Public transcript site stopped at EP674 when checked on 2026-07-01, then exposed EP675 on 2026-07-04.
 - SoundOn RSS and Apple lookup identified EP675 as the latest episode, published 2026-07-01 07:59:09 GMT.
-- EP675 audio came from the SoundOn RSS enclosure and was transcribed locally with `faster-whisper-large-v3`.
-- The artifact was generated with `condition_on_previous_text=False`, converted to Taiwan traditional Chinese, and corrected for high-confidence Gooaye/industry terminology. Treat it as machine-generated until a public human transcript appears.
-- EP675 machine transcript metadata: 2997.4726875 seconds, 2225 segments, language `zh`, language probability 1.0.
+- EP675 audio was originally transcribed locally with `faster-whisper-large-v3`.
+- On 2026-07-04, `EP675.md` was replaced with the public transcript from `whatmkreallysaid.com`; the earlier raw ASR artifacts remain as provenance.
 
 Major segments:
 
@@ -622,6 +631,33 @@ Distilled signals:
 - Generic price-hike essays are lower quality than component-level evidence.
 - Broad consensus is often a later-stage signal; prefer pre-move mechanism signals when possible.
 - Indexes self-rebalance; individual stocks require explicit weak-to-strong replacement discipline.
+
+## EP676 anchor
+
+`EP676.md` title: `凱杜飯店遛娃記與祖克柏癡漢論`
+
+Generation note:
+
+- Public transcript site exposed EP676 on 2026-07-04.
+- SoundOn RSS and Apple lookup identified EP676 as `EP676 | 🐬`, published 2026-07-04 07:45:37 GMT.
+- EP676 was downloaded from the public Markdown source; no MP3 download or machine transcription was needed.
+
+Major segments:
+
+- Family summer logistics: summer camp as distance-management, family-friendly hotels, Yilan travel, and why hotel flexibility can beat buying a vacation home when children are young.
+- Market after correction: passive components and power components led the first recovery, with MOSFET shortages, IDM control and package/test capacity becoming the next bottleneck map.
+- Meta Neo Cloud: renting legacy or less-frontier compute may be a way to monetize idle assets and justify more AI buildout, not proof of quitting AI.
+- Trading-career Q&A: a 3.6M TWD account can be enough to try, but not enough to prove durable skill without runway and bear-market evidence.
+- AI tool routing: Claude for conversational/reasoning work, Perplexity Comet for multi-page research, Google for one-hop lookup and NotebookLM for long-source digestion.
+- Market Q&A: securities pledge liquidity is hard to size as a market-wide shock; optical communications can be right but idle until capital rotates back; IC design transitions can rerate before business improvement is obvious.
+
+Distilled signals:
+
+- Family assets should be evaluated by recurring load, flexibility and child-stage timing, not only the dream of weekends away.
+- After a correction, leadership should be ranked by who turns first and confirms with the index, not who sounds cheapest.
+- Component shortages need a capacity map: IDM, secured foundry supply, package/test availability, inventory courage and customer pricing all matter.
+- AI capex outlets can turn "unused compute" from waste into a reason to keep building.
+- Professional trading should be treated as a runway and regime-test problem, not a single account-high celebration.
 
 ## Repeated transcript patterns
 
@@ -670,7 +706,7 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 ### 6. The operator is part of the portfolio
 
-EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust. EP669 adds energy allocation after success: health, family, creative work and future projects should decide whether continuing the same money game still makes sense. EP670 adds instruction-manual humility and attention hygiene: the operator protects health, capital and mood by reading high-risk rules and muting low-quality inputs. EP671 adds random-path humility: do not judge a career, side business or life turn only by its final result; manage experiment size, support and reversibility. EP672 adds family-phase and taste-context humility: temporary conflict, social energy, food preference and operator fatigue should be sized and handled without turning one moment into a permanent identity sentence. EP673 adds independence-building: freedom to mute, refuse or leave depends on cash flow, credentials and support routes. EP674 adds highlight-reel humility: first-half performance should be reviewed without letting a mark date become identity. EP675 adds public commitment and health maintenance: signing up for a 10K is a way to make the operator keep paying attention to the body.
+EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust. EP669 adds energy allocation after success: health, family, creative work and future projects should decide whether continuing the same money game still makes sense. EP670 adds instruction-manual humility and attention hygiene: the operator protects health, capital and mood by reading high-risk rules and muting low-quality inputs. EP671 adds random-path humility: do not judge a career, side business or life turn only by its final result; manage experiment size, support and reversibility. EP672 adds family-phase and taste-context humility: temporary conflict, social energy, food preference and operator fatigue should be sized and handled without turning one moment into a permanent identity sentence. EP673 adds independence-building: freedom to mute, refuse or leave depends on cash flow, credentials and support routes. EP674 adds highlight-reel humility: first-half performance should be reviewed without letting a mark date become identity. EP675 adds public commitment and health maintenance: signing up for a 10K is a way to make the operator keep paying attention to the body. EP676 adds family-logistics realism: parenting, travel, real estate and summer planning should be judged by recurring load, flexibility and the short window when children still want shared time.
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 

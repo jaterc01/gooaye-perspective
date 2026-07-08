@@ -206,6 +206,16 @@ Observed on 2026-07-04 through Apple lookup, SoundOn RSS, Apple Podcasts public 
 - `whatmkreallysaid.com/episodes.json` exposed 676 public transcript entries, including EP675 `蕭南資本造夢記與動能追高論` and EP676 `凱杜飯店遛娃記與祖克柏癡漢論`.
 - Local EP675 Markdown was replaced with the public transcript version; EP676 was downloaded from the public transcript site. No EP676 MP3 transcription was needed.
 
+Observed on 2026-07-08 through Apple lookup, SoundOn RSS, Apple Podcasts public pages, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple lookup exposed `EP677 | 🐎`, release date 2026-07-08T08:03:15Z, and the SoundOn-hosted MP3 enclosure.
+- Apple Podcasts Taiwan and US public pages both showed `EP677 | 🐎` as the latest visible episode.
+- Latest SoundOn RSS item matched `EP677 | 🐎`, published 2026-07-08 08:03:15 GMT.
+- SoundOn description snippet: `那個要我放雲霄飛車的是不是未來人`.
+- `whatmkreallysaid.com/episodes.json` still exposed 676 public transcript entries and did not include EP677.
+- RSS enclosure for EP677 was downloaded and transcribed because Apple/SoundOn had advanced beyond the public transcript site.
+- Local EP677 transcript artifacts were generated from SoundOn audio and should be replaced or reconciled if a public transcript later appears.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

@@ -4,10 +4,22 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP676 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
-- Count observed after refresh on 2026-07-04: top-level corpus now includes `EP676.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP677 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP677.md`
+- Count observed after refresh on 2026-07-08: top-level corpus now includes `EP677.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-07-08, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source still exposes 676 episodes and stops at `EP676_凱杜飯店遛娃記與祖克柏癡漢論.md`.
+- SoundOn RSS latest item: `EP677 | 🐎`, published 2026-07-08 08:03:15 GMT, description snippet `那個要我放雲霄飛車的是不是未來人`.
+- Apple lookup and Apple Podcasts public pages also exposed `EP677 | 🐎` with the same SoundOn MP3 enclosure.
+- Because no public EP677 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP677.mp3` and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript artifacts: `EP677.md`, `EP677.raw.txt`, and `EP677.raw.json`.
+- EP677 machine transcript metadata: 2991.542875 seconds, 2257 segments, language `zh`, language probability 1.0.
+- Current status: treat EP677 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript.
 
 On 2026-07-04, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 

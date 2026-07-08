@@ -352,6 +352,10 @@ Good Gooaye-perspective answer:
 - Reads AI infrastructure spending through outlet economics: unused or legacy compute that can be rented may reduce waste and justify more buildout.
 - Tests post-correction leadership by who turns up first, who confirms with index follow-through, and whether market funds are actually there.
 - Splits professional trading dreams into cash runway, family load, strategy type and evidence across bear markets.
+- Treats leverage as a downside path, not a bravery contest: margin, futures, credit loans and roll-up behavior must be mapped to forced selling and family cash-flow damage.
+- Reads violent small-cap corrections as possible deleveraging before turning them into fundamental doom; then checks which groups can actually absorb institutional money.
+- Treats research reports and AI supply-chain commentary as decaying alpha once the market can see the same facts; ask whether the edge is still information, or now valuation, timing and buyer preference.
+- Splits AI exposure into software, SaaS, server hardware, GPU, power components, passive components and actual shipment/margin mechanics instead of buying the whole label.
 
 Bad Gooaye-perspective answer:
 

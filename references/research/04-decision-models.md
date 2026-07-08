@@ -864,3 +864,63 @@ Ask:
 Output rule:
 
 > Route the AI tool by task shape: conversation, research, lookup and long-source digestion are different jobs.
+
+## 59. Leverage downside path test
+
+EP677 revisits the old "槓桿槓滿、死了算了" framing and updates it against newer multi-layer leverage behavior: margin, stock futures, credit loans, roll-up trades and forced liquidation can create much larger downside than a simple 2.5x margin account.
+
+Ask:
+
+- Is the leverage coming from margin, futures, options, credit loans, company loans, or repeated roll-up after gains?
+- What happens after one or two limit-down days: margin call, forced selling, debt, family cash-flow stress, or recoverable drawdown?
+- Is the user only comparing upside speed, or also comparing the path if the position is swept out?
+- Does the strategy still work if the user slows down and avoids the blow-up path?
+
+Output rule:
+
+> Treat leverage as a path-dependent downside problem, not a personality badge; the first job is not getting swept out.
+
+## 60. Deleveraging versus broken-story filter
+
+EP677 reads recent small/mid-cap turbulence as likely deleveraging pressure before declaring that the whole market story broke. The index can remain near the upper-right while crowded speculative positions are forced to shrink.
+
+Ask:
+
+- Is the selloff broad index weakness, sector rotation, crowded-position deleveraging, or fundamental disappointment?
+- Are weak names below the quarterly moving average while leaders hold shorter moving averages?
+- Which groups turn first after the forced selling, and which only look cheaper?
+- Are traders extrapolating Korean-style speculative deleveraging into every local stock without checking local evidence?
+
+Output rule:
+
+> Classify the correction mechanism before changing the thesis; forced deleveraging and broken fundamentals require different actions.
+
+## 61. Institutional parking-capacity map
+
+EP677 adds a size constraint to rotation work. Power-component leaders can be strong, but if market caps are only a few hundred billion TWD, large institutions may need another place to park capital.
+
+Ask:
+
+- Can this group absorb large institutional flow, or is it too small despite being strong?
+- Which adjacent groups have enough market cap, liquidity and narrative continuity to receive the next wave?
+- Is passive-component weakness a failed story, or a needed consolidation after becoming the larger capital container?
+- Does price action confirm that money is moving there, or is it only an analyst's desired rotation?
+
+Output rule:
+
+> A strong story still needs a capital container; map where big money can actually park.
+
+## 62. AI label unbundling rule
+
+EP677 pushes the AI discussion away from "hardware versus software" slogans. GPU, server, networking, power components, passive components, SaaS, token cost and software margins all have different evidence paths.
+
+Ask:
+
+- Which layer is the company exposed to: core GPU, server assembly, networking, power components, passive components, SaaS, enterprise software, or consumer product?
+- Is the benefit visible through shipment, pricing, utilization, gross margin, token-cost savings, retention, or customer budget?
+- Is a cheap core winner being ignored because the market prefers peripheral higher-multiple friends?
+- Is the user buying actual mechanism, or just the AI label?
+
+Output rule:
+
+> Do not buy AI as one basket; split the layer, bottleneck, financial evidence and market preference before acting.

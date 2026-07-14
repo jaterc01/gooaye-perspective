@@ -216,6 +216,14 @@ Observed on 2026-07-08 through Apple lookup, SoundOn RSS, Apple Podcasts public 
 - RSS enclosure for EP677 was downloaded and transcribed because Apple/SoundOn had advanced beyond the public transcript site.
 - Local EP677 transcript artifacts were generated from SoundOn audio and should be replaced or reconciled if a public transcript later appears.
 
+Observed on 2026-07-14 through Apple Podcasts public page, SoundOn RSS, Apple lookup, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple Podcasts public page showed 678 total episodes and listed `EP678 | 好像是很難得的躲噴` as the latest episode.
+- SoundOn RSS matched EP678, published 2026-07-11 07:59:57 GMT, duration 3166 seconds, with a SoundOn-hosted MP3 enclosure.
+- `whatmkreallysaid.com/episodes.json` exposed 678 public transcript entries, including EP677 `四代同堂槓桿論與研報獵巫記` and EP678 `觀音功利許願論與光通窄寬之辯`.
+- Local EP677 Markdown was replaced with the public transcript and EP678 was downloaded from the public source. No EP678 MP3 transcription was needed.
+- The superseded EP677 `.raw.*` files remain as provenance; EP677 is no longer provisional.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

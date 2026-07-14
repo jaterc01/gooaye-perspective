@@ -4,10 +4,20 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP677 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP677.md`
-- Count observed after refresh on 2026-07-08: top-level corpus now includes `EP677.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP678 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md`/`EP677.md`/`EP678.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
+- Count observed after refresh on 2026-07-14: 678 top-level Markdown transcripts through `EP678.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-07-14, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source now exposes 678 episodes, including `EP677_四代同堂槓桿論與研報獵巫記.md` and `EP678_觀音功利許願論與光通窄寬之辯.md`.
+- Apple Podcasts and SoundOn identify EP678 as the latest episode, published 2026-07-11 07:59:57 GMT; the Apple public description begins `好像是很難得的躲噴`.
+- Local `EP677.md` was replaced with the public transcript version, and `EP678.md` was added from the public transcript source.
+- Existing `EP677.raw.txt` and `EP677.raw.json` remain as provenance for the superseded machine transcript.
+- No EP678 MP3 download or local ASR run was needed.
 
 On 2026-07-08, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
@@ -19,7 +29,7 @@ Result:
 - Because no public EP677 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP677.mp3` and transcribed locally with `faster-whisper-large-v3`.
 - New top-level transcript artifacts: `EP677.md`, `EP677.raw.txt`, and `EP677.raw.json`.
 - EP677 machine transcript metadata: 2991.542875 seconds, 2257 segments, language `zh`, language probability 1.0.
-- Current status: treat EP677 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript.
+- Historical status: EP677 was machine-generated and provisional on 2026-07-08. This was superseded on 2026-07-14 when the public EP677 Markdown replaced the local machine transcript.
 
 On 2026-07-04, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
@@ -670,6 +680,33 @@ Distilled signals:
 - Component shortages need a capacity map: IDM, secured foundry supply, package/test availability, inventory courage and customer pricing all matter.
 - AI capex outlets can turn "unused compute" from waste into a reason to keep building.
 - Professional trading should be treated as a runway and regime-test problem, not a single account-high celebration.
+
+## EP678 anchor
+
+`EP678.md` title: `觀音功利許願論與光通窄寬之辯`
+
+Generation note:
+
+- Public transcript site exposed EP678 on 2026-07-14.
+- SoundOn RSS and Apple Podcasts identified EP678 as the latest episode, published 2026-07-11 07:59:57 GMT.
+- EP678 was downloaded from the public Markdown source; no MP3 download or machine transcription was needed.
+- EP677 was reconciled in the same refresh by replacing the provisional Markdown with the public source while retaining `.raw.*` provenance.
+
+Major segments:
+
+- Operator health and time: exercise materially changed blood pressure and heart rate, which changed the perceived value of longer market hours and constant screen time.
+- Meta compute rental: external rental can be a double-down, lower unit compute prices and create a secondary outlet for older GPUs.
+- Compute economics: lower unit prices can coexist with higher total token use; more stable rental pricing can improve application economics while compressing dream-premium multiples.
+- Component pricing: memory pricing remains strong but growth rates may normalize; most passive-component price increases are succeeding; power components and lead frames show shortages, longer lead times and possible utilization-driven margin expansion.
+- Optical narrative rotation: narrow-and-fast and wide-and-slow architectures can serve different distance/workload layers, even while market capital temporarily sells one story to fund another.
+
+Distilled signals:
+
+- Separate compute unit price, total usage and software gross margin before calling cheaper compute bullish or bearish.
+- Price discovery can improve business visibility while reducing the multiple paid for uncertainty.
+- Architecture competition should be mapped by distance, bandwidth, cost and deployment layer, not by a single replacement slogan.
+- A market rotation is evidence about capital preference, not sufficient proof that the underlying technology became obsolete.
+- Participation time has an operator cost; more trading hours are not automatically better if they degrade health and family systems.
 
 ## Repeated transcript patterns
 

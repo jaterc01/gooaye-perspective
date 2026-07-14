@@ -924,3 +924,48 @@ Ask:
 Output rule:
 
 > Do not buy AI as one basket; split the layer, bottleneck, financial evidence and market preference before acting.
+
+## 63. Compute unit-price versus total-spend split
+
+EP678 argues that more compute-rental competition can lower unit prices while reasoning models, longer inference and new applications consume more tokens. Lower price per unit and higher total spending can coexist.
+
+Ask:
+
+- Is the relevant metric price per token, total tokens, utilization, customer spend or software gross margin?
+- Does cheaper compute expand usage enough to offset price compression?
+- Which layer captures the benefit: GPU owner, cloud renter, AI-native software, customer or end user?
+- Is a margin improvement visible, or only assumed from lower input cost?
+
+Output rule:
+
+> Split unit price, total demand and margin capture; cheaper compute is a catalyst, not a universal winner signal.
+
+## 64. Price-discovery multiple compression
+
+EP678 adds a valuation consequence to compute rental. As more large providers expose rental prices, utilization and contract economics, the terminal return becomes easier to estimate and some dream-premium multiples can converge even if earnings keep growing.
+
+Ask:
+
+- Are rental price, utilization, contract length, depreciation and capital cost becoming measurable?
+- Is the company growing earnings fast enough to offset a lower valuation multiple?
+- Was the old multiple paid for scarcity, uncertainty or real durable economics?
+- Does a new large provider expand the market, compress pricing, or both?
+
+Output rule:
+
+> Better business visibility can coexist with lower multiples; test whether earnings growth outruns price discovery.
+
+## 65. Interconnect workload and narrative-rotation map
+
+EP678 compares narrow-and-fast optical links with wide-and-slow alternatives and revisits the earlier optical-versus-copper debate. Different architectures can coexist across in-rack, scale-up, scale-out, distance, bandwidth and cost layers even when market capital temporarily treats them as substitutes.
+
+Ask:
+
+- Which deployment layer and distance is being solved: in-rack, scale-up, scale-out or scale-across?
+- What are the bandwidth, cost, power, redesign and timing tradeoffs?
+- Is the market selling an old architecture because it is obsolete, or because a new narrative needs funding?
+- Is the proposed solution shipping now, entering validation, or still a 2030-style roadmap story?
+
+Output rule:
+
+> Map the workload before declaring replacement; capital rotation is not technical obsolescence.

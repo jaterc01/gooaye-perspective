@@ -4,10 +4,21 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP678 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md`/`EP677.md`/`EP678.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`
-- Count observed after refresh on 2026-07-14: 678 top-level Markdown transcripts through `EP678.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP679 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md`/`EP677.md`/`EP678.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP679.md`
+- Count observed after refresh on 2026-07-15: 679 top-level Markdown transcripts through `EP679.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-07-15, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source still exposes 678 episodes and stops at `EP678_觀音功利許願論與光通窄寬之辯.md`.
+- SoundOn RSS and Apple Podcasts expose `EP679 | 🧌`, published 2026-07-15 08:26:43 GMT, description `金融恐怖份子`, and duration 3234 seconds.
+- Because no public EP679 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP679.mp3` and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript artifacts: `EP679.md`, `EP679.raw.txt`, and `EP679.raw.json`.
+- EP679 machine transcript metadata: 3233.7763125 seconds, 2340 segments, language `zh`, language probability 1.0.
+- Treat EP679 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcript. Retain the temporary MP3 until GitHub and Hermes HEAD/content verification complete.
 
 On 2026-07-14, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
@@ -707,6 +718,34 @@ Distilled signals:
 - Architecture competition should be mapped by distance, bandwidth, cost and deployment layer, not by a single replacement slogan.
 - A market rotation is evidence about capital preference, not sufficient proof that the underlying technology became obsolete.
 - Participation time has an operator cost; more trading hours are not automatically better if they degrade health and family systems.
+
+## EP679 anchor
+
+`EP679.md` provisional title: `金融恐怖份子`
+
+Generation note:
+
+- Public transcript site stopped at EP678 when checked on 2026-07-15.
+- SoundOn RSS and Apple Podcasts identified `EP679 | 🧌`, published 2026-07-15 08:26:43 GMT, with description `金融恐怖份子`.
+- EP679 was generated from the SoundOn MP3 with `faster-whisper-large-v3`, `condition_on_previous_text=False`, then regenerated from raw after high-confidence terminology cleanup.
+- Machine artifacts contain 2340 timestamped segments across 3233.7763125 seconds. Model names, wine names, listener names, company names and some English terms remain provisional.
+
+Major segments:
+
+- AI cost and governance: model quality for research summarization can reach a task-specific sweet spot while token spend, repeated verification and autonomous top-ups keep rising.
+- Domain verification: test AI with questions whose answers the operator already knows; use domain knowledge to detect bad entity matching, price outliers and unnecessary reruns before trusting high-risk outputs.
+- Layered leverage contagion: a concentrated high-volatility index, leveraged products, margin and borrowed principal can stack into forced liquidation and cross-market spillover.
+- Shrinking breadth: when fewer names remain above monthly or quarterly moving averages, capital crowds into the surviving leaders and can turn them into the next crowded exit.
+- Position adaptation: if a rebound fails or price breaks the prior low, remove recent adds first, then trim the base and raise cash while explicitly accepting cash drag.
+- Industry follow-through: passive components, CCL, substrates and packaging still show long lead times, price increases, utilization and tight capacity, but favorable industry evidence must be separated from stretched price risk.
+
+Distilled signals:
+
+- Frontier-model intelligence does not remove the need for token budgets, stop conditions, known-answer tests and human review proportional to harm.
+- Calculate the full leverage chain, not only the visible ETF or margin multiple.
+- Momentum works differently when market breadth is broad versus when only a few crowded survivors remain.
+- A drawdown-control plan should specify which adds are cut first, which market signals trigger base-position reductions, and what cash drag is acceptable.
+- Research conviction needs an external correction loop; a thesis can be directionally right yet too early, too expensive or operationally unusable.
 
 ## Repeated transcript patterns
 

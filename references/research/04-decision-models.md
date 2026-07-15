@@ -969,3 +969,63 @@ Ask:
 Output rule:
 
 > Map the workload before declaring replacement; capital rotation is not technical obsolescence.
+
+## 66. AI known-answer and harm-weighted governance gate
+
+EP679 argues that a model should first be tested on a domain whose correct answers the operator already understands. Better reasoning can still create hallucinated entities, bad outlier handling, unnecessary verification loops and uncontrolled token spending.
+
+Ask:
+
+- Has the model been tested on known-answer tasks from the user's actual domain?
+- What does an error cost: embarrassment, wasted money, contract exposure, regulatory breach, safety failure or loss of life?
+- Are token budgets, stop conditions, source checks and human approval points explicit?
+- Does a more expensive model produce materially better decisions, or only longer traces and more cost?
+
+Output rule:
+
+> Test AI where you can catch it, then scale autonomy only as far as the error budget allows.
+
+## 67. Full leverage-chain and forced-selling map
+
+EP679 treats visible leverage as only one layer. A volatile concentrated index, leveraged ETF, margin loan and borrowed principal can multiply one another, while forced liquidation and quantitative arbitrage transmit stress across markets.
+
+Ask:
+
+- How volatile and concentrated is the underlying market before any product leverage?
+- Is exposure multiplied through ETF structure, futures, margin, securities-backed lending or unsecured credit?
+- Which actor becomes a forced seller first, and what collateral or correlated assets will they liquidate?
+- Is the user's drawdown proportionate to the index and intended leverage, or evidence of hidden concentration?
+
+Output rule:
+
+> Calculate the entire leverage chain and liquidation path; the label on one product is not the true effective leverage.
+
+## 68. Shrinking-breadth momentum trap
+
+EP679 compares a narrowing market to disappearing floor tiles. When fewer stocks remain above monthly or quarterly moving averages, capital crowds into the surviving leaders; the same strength that attracts money can become the next crowded exit.
+
+Ask:
+
+- Is the number of stocks above key moving averages expanding or shrinking?
+- Are rotations lasting long enough to establish leadership, or failing after one short burst?
+- Is the surviving strong group supported by earnings and capacity, or mainly by being the last place momentum can still hide?
+- Would an interval or earnings-confirmation strategy reduce the need to chase each narrowing leader?
+
+Output rule:
+
+> Apply weak-to-strong rotation only with breadth context; the last strong tile can still collapse under the crowd.
+
+## 69. Drawdown versus cash-drag exchange
+
+EP679 makes risk reduction a staged tradeoff rather than a market-timing claim. If a rebound fails or price breaks the prior low, recent additions can be removed first, then the base reduced and cash raised, accepting that an immediate recovery would create cash drag.
+
+Ask:
+
+- Which shares are recent adds, which are core, and which thesis or price signals govern each layer?
+- What rebound failure, new low, quarterly-moving-average break or leadership failure triggers the next reduction?
+- How much missed upside or cash drag is acceptable to prevent another large drawdown?
+- Has the user's objective shifted from maximum return toward capital preservation because of life stage or accumulated gains?
+
+Output rule:
+
+> State the price of protection and stage the response; reducing drawdown and maximizing upside are different objectives.

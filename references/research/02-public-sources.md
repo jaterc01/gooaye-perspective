@@ -224,6 +224,14 @@ Observed on 2026-07-14 through Apple Podcasts public page, SoundOn RSS, Apple lo
 - Local EP677 Markdown was replaced with the public transcript and EP678 was downloaded from the public source. No EP678 MP3 transcription was needed.
 - The superseded EP677 `.raw.*` files remain as provenance; EP677 is no longer provisional.
 
+Observed on 2026-07-15 through Apple Podcasts public page, Apple episode lookup, SoundOn RSS, and `whatmkreallysaid.com/episodes.json`:
+
+- Apple Podcasts and SoundOn both expose `EP679 | 🧌`, published 2026-07-15 08:26:43 GMT; the description begins `金融恐怖份子`.
+- SoundOn reports duration 3234 seconds and GUID `23fa0bcd-2051-41e5-b7a8-ae58366f43a7`; Apple episode lookup matches the same GUID and release time.
+- `whatmkreallysaid.com/episodes.json` still contains 678 public transcript entries and stops at EP678, so no public EP679 Markdown was available.
+- The SoundOn enclosure was downloaded and transcribed locally, producing `EP679.md`, `EP679.raw.txt`, and `EP679.raw.json`.
+- EP679 remains provisional and machine-generated until the public transcript source catches up; its MP3 cleanup is conditional on GitHub and Hermes verification.
+
 Skill implications:
 
 - The core public promise is not "stock tips"; it is translation of difficult finance into direct, accessible language.

@@ -1029,3 +1029,63 @@ Ask:
 Output rule:
 
 > State the price of protection and stage the response; reducing drawdown and maximizing upside are different objectives.
+
+## 70. Speed-premium test
+
+EP680 uses SpaceX procurement to show that delivery time can be part of the product. Paying materially more may be rational when faster hardware buys launch cadence, earlier validation and a competitive window, but speed must still map to a measurable outcome.
+
+Ask:
+
+- What opportunity, learning cycle or revenue window disappears if delivery is late?
+- Is the quoted speed repeatable, or dependent on heroics and hidden reliability costs?
+- Does shorter lead time accelerate validation and iteration, or merely move inventory earlier?
+- What price premium is justified by the avoided delay?
+
+Output rule:
+
+> Compare the price premium with the value of time gained; speed is valuable only when it changes the outcome.
+
+## 71. Good-news price-response regime check
+
+EP680 separates strong TSMC operating evidence from a weak stock-price response. When a high-quality catalyst cannot lift price, expectations, valuation, breadth or liquidity may have changed even if company fundamentals remain intact.
+
+Ask:
+
+- Was the good news already embedded in estimates and positioning?
+- Did peers and market breadth confirm or reject the catalyst?
+- Is the company thesis broken, or is the market temporarily unwilling to pay the old multiple?
+- What price or earnings evidence would show that the regime has stabilized?
+
+Output rule:
+
+> Treat catalyst failure as information about market state, not automatic proof that the business deteriorated.
+
+## 72. Long-term and momentum book separation
+
+EP680 warns against converting a failed momentum trade into a long-term investment after the fact. A single stock can sit in two books, but each layer needs its own thesis, size, evidence and exit rule.
+
+Ask:
+
+- Was the original entry justified by price structure, valuation, industry evidence or a mixture?
+- Which shares belong to the momentum layer and which to the long-term layer?
+- What invalidates each layer, and what is only temporary price noise?
+- Is a small trial position enough to preserve option value without hiding a broken trade?
+
+Output rule:
+
+> Label the book before entry and follow its rule; do not use long-term conviction to excuse a failed momentum setup.
+
+## 73. Selective family-transmission map
+
+EP680 frames parenting as selective transmission: preserve positive childhood experiences and values while redesigning disciplinary processes that produced fear or harm.
+
+Ask:
+
+- Which experiences should the next generation genuinely receive?
+- Which methods caused harm even if the intended value was useful?
+- Can the same standard be taught with explanation, repair and proportional consequences?
+- Are there emotional-safety signals that require family or professional support rather than rhetorical advice?
+
+Output rule:
+
+> Copy the value, not every method; preserve what was good and redesign what was harmful.

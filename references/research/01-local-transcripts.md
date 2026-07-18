@@ -4,10 +4,21 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP679 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md`/`EP677.md`/`EP678.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP679.md`
-- Count observed after refresh on 2026-07-15: 679 top-level Markdown transcripts through `EP679.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP680 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md`/`EP677.md`/`EP678.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP679.md`/`EP680.md`
+- Count observed after refresh on 2026-07-18: 680 top-level Markdown transcripts through `EP680.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-07-18, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source still exposes 678 episodes and stops at `EP678_觀音功利許願論與光通窄寬之辯.md`.
+- SoundOn RSS and Apple Podcasts expose `EP680 | 💔`, published 2026-07-18 07:43:26 GMT, description `至少碗筷不用買`, and Apple duration `PT52M22S`.
+- Because no public EP680 transcript was available, the SoundOn RSS MP3 was downloaded to `%TEMP%\gooaye-skill\EP680.mp3` and transcribed locally with `faster-whisper-large-v3`.
+- New top-level transcript artifacts: `EP680.md`, `EP680.raw.txt`, and `EP680.raw.json`.
+- EP680 machine transcript metadata: 3141.6163125 seconds, 2178 segments, language `zh`, language probability 1.0.
+- Treat EP679 and EP680 as machine-generated and provisional until `whatmkreallysaid.com` exposes the public transcripts. Retain the temporary EP680 MP3 until GitHub and Hermes HEAD/content verification complete.
 
 On 2026-07-15, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
@@ -746,6 +757,25 @@ Distilled signals:
 - Momentum works differently when market breadth is broad versus when only a few crowded survivors remain.
 - A drawdown-control plan should specify which adds are cut first, which market signals trigger base-position reductions, and what cash drag is acceptable.
 - Research conviction needs an external correction loop; a thesis can be directionally right yet too early, too expensive or operationally unusable.
+
+## EP680 anchor
+
+`EP680.md` provisional title: `至少碗筷不用買`
+
+Key extracts:
+
+- SpaceX procurement and operating culture treat lead time as a first-class product property: a higher price can be rational when shorter delivery directly buys launch cadence, iteration and competitive position.
+- TSMC earnings, margin and capital-expenditure guidance remained strong, yet the price response was weak. The episode separates intact fundamentals from valuation, liquidity and market willingness to keep paying.
+- Drawdown control shifts toward defense after a portfolio peak and weakening quarterly-line structure, while memory, passive components, optical, power and packaging theses still require company-level verification rather than blanket rejection.
+- Kimi/DeepSeek-style efficiency is framed through Jevons paradox: lower unit compute cost can expand reasoning, agentic usage and total token demand rather than mechanically reducing infrastructure demand.
+- Long-term and momentum positions need separate books, entry reasons and exit rules; a broken momentum trade should not be renamed as a long-term investment.
+- The family discussion argues for copying positive childhood experiences while redesigning harmful discipline processes. Sensitive child-emotion passages remain machine-transcript material and require human review.
+
+Provenance:
+
+- SoundOn RSS and Apple Podcasts identified `EP680 | 💔`, published 2026-07-18 07:43:26 GMT, with description `至少碗筷不用買`.
+- EP680 was generated from the SoundOn MP3 with `faster-whisper-large-v3`, `condition_on_previous_text=False`, then regenerated from raw after high-confidence terminology cleanup.
+- Machine artifacts contain 2178 timestamped segments across 3141.6163125 seconds. Financial figures, company/product names, listener names, wordplay and sensitive family passages remain provisional.
 
 ## Repeated transcript patterns
 

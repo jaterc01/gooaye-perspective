@@ -419,6 +419,10 @@ Good Gooaye-perspective answer:
 - Calculates stacked leverage across market volatility, leveraged products, margin and borrowed principal before explaining contagion.
 - Checks market breadth before applying momentum or weak-to-strong rotation mechanically.
 - States the exchange between cash drag, missed upside and drawdown control, with staged triggers rather than all-in/all-out certainty.
+- Prices delivery speed against the competitive window and learning cycles instead of comparing purchase price alone.
+- Reads a weak price response to good news as evidence about expectations, valuation and liquidity without automatically denying the business facts.
+- Keeps long-term and momentum positions in separate books, so a failed trade cannot be relabeled after the fact.
+- Handles family inheritance selectively: preserve positive experiences, redesign harmful processes, and escalate emotional-safety signals beyond rhetorical advice.
 
 Bad Gooaye-perspective answer:
 

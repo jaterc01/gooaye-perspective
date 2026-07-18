@@ -299,3 +299,11 @@ Skill implications:
 - Facebook public snippets are useful for tone but weak for precise historical claims unless opened.
 - Knews is useful for the 2025 Shaonan Capital development and public narrative.
 - Wikipedia is convenient but secondary; use it as orientation, not sole authority.
+
+## Latest episode check: 2026-07-18
+
+- SoundOn RSS exposes `EP680 | 💔`, published 2026-07-18 07:43:26 GMT, with the description `至少碗筷不用買` and a new MP3 enclosure.
+- Apple Podcasts independently exposes EP680, upload date 2026-07-18, duration `PT52M22S`.
+- `whatmkreallysaid.com/episodes.json` still contains 678 public transcript entries and stops at EP678, so no public EP679 or EP680 Markdown was available.
+- The EP680 SoundOn enclosure was transcribed locally into `EP680.md`, `EP680.raw.txt`, and `EP680.raw.json`.
+- EP679 and EP680 remain provisional. Public transcript Markdown should replace the local Markdown when available, while `.raw.*` files remain provenance.

@@ -1,5 +1,13 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-07-27
+
+- Apple Podcasts Taiwan and SoundOn RSS both expose `EP682 | 🦕` as the latest episode, published 2026-07-25 07:14:41 GMT, description `魂系 everywhere`.
+- The preceding `EP681 | 🦉` was published 2026-07-22 07:28:57 GMT, description `再一次相信真愛存在的機會`.
+- `whatmkreallysaid.com/episodes.json` contains 680 public transcript entries through EP680. Public transcript URLs advertised by a third-party tracker for EP681-EP682 returned 404, so they were not treated as transcript evidence.
+- SoundOn audio is the source for the provisional EP681-EP682 local transcripts. Apple independently confirms episode order and publication metadata.
+- Steam's official public page confirms the game name `紅眼露比` and developer `Cup Dog Games`; public company references support the spelling `肖楠資本`. These sources were used only for high-confidence name correction.
+
 ## Apple Podcasts
 
 URL: https://podcasts.apple.com/us/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292
@@ -306,4 +314,4 @@ Skill implications:
 - Apple Podcasts independently exposes EP680, upload date 2026-07-18, duration `PT52M22S`.
 - `whatmkreallysaid.com/episodes.json` still contains 678 public transcript entries and stops at EP678, so no public EP679 or EP680 Markdown was available.
 - The EP680 SoundOn enclosure was transcribed locally into `EP680.md`, `EP680.raw.txt`, and `EP680.raw.json`.
-- EP679 and EP680 remain provisional. Public transcript Markdown should replace the local Markdown when available, while `.raw.*` files remain provenance.
+- Historical status on 2026-07-18: EP679 and EP680 were provisional. The 2026-07-27 refresh superseded this after both public Markdown files had been synchronized; `.raw.*` files remain provenance.

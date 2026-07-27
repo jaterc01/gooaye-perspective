@@ -1089,3 +1089,48 @@ Ask:
 Output rule:
 
 > Copy the value, not every method; preserve what was good and redesign what was harmful.
+
+## 74. Four-layer investability gate
+
+EP681 separates business quality, valuation, price structure and catalysts. A correct industry thesis can remain capital-inefficient when the market has no reason or capacity to pay now.
+
+Ask:
+
+- Is the business evidence improving, and is valuation actually supportive?
+- Has price structure stabilized or recovered key moving averages?
+- What event can attract new buyers: earnings, shipment, product launch or peer confirmation?
+- Is one stock moving alone, or is the group and market breadth confirming?
+
+Output rule:
+
+> Fundamentals earn attention; valuation, structure and catalysts decide whether the market pays now.
+
+## 75. AI revenue-to-inference-cost bridge
+
+EP682 treats AI monetization and AI cost as the same model. Token usage, model routing, human review and data-center investment can make incremental service materially more expensive than traditional SaaS.
+
+Ask:
+
+- What AI revenue is incremental rather than bundled?
+- What are inference, token, review and infrastructure costs per workload?
+- Is negative free cash flow caused by demand weakness or capacity investment?
+- When should capital spending produce revenue, utilization and margin?
+
+Output rule:
+
+> Do not import zero-marginal-cost SaaS assumptions into AI software without rebuilding the cost bridge.
+
+## 76. Irreplaceable-time allocation test
+
+EP682 uses the experience of building and playing `紅眼露比` to frame time as an irreversible asset. Money and performance can recover; a life stage, health window or family period cannot.
+
+Ask:
+
+- Is the activity worth the specific years and attention it consumes?
+- What health, relationship or sleep cost cannot be recovered later?
+- Can the decision be tested reversibly before becoming a long commitment?
+- Even if the result fails, does the process leave skill, work, relationships or a life worth having?
+
+Output rule:
+
+> Put irreversible time beside financial return; do not treat life as free leverage.

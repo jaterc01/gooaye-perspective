@@ -4,10 +4,21 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP680 Markdown transcripts, including public-synced `EP658.md`/`EP659.md`/`EP663.md`/`EP665.md`/`EP666.md`/`EP667.md`/`EP668.md`/`EP669.md`/`EP670.md`/`EP671.md`/`EP672.md`/`EP673.md`/`EP674.md`/`EP675.md`/`EP676.md`/`EP677.md`/`EP678.md` and locally generated `EP660.md`/`EP661.md`/`EP662.md`/`EP664.md`/`EP679.md`/`EP680.md`
-- Count observed after refresh on 2026-07-18: 680 top-level Markdown transcripts through `EP680.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP682 Markdown transcripts; public-synced Markdown currently reaches EP680, while EP681-EP682 are locally generated machine transcripts.
+- Count observed after refresh on 2026-07-27: 682 top-level Markdown transcripts through `EP682.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-07-27, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, and Apple Podcasts were checked again.
+
+Result:
+
+- Public transcript source exposes 680 entries and stops at EP680; the downloader reported `written=0 skipped_existing=680 total_index=680`, confirming EP679-EP680 are already public-synced locally.
+- SoundOn RSS and Apple Podcasts expose `EP682 | 🦕`, published 2026-07-25 07:14:41 GMT, description `魂系 everywhere`; EP681 was published 2026-07-22 07:28:57 GMT with description `再一次相信真愛存在的機會`.
+- With no public EP681-EP682 Markdown available, both SoundOn MP3s were transcribed locally with `faster-whisper-large-v3`, CPU `int8`, and `condition_on_previous_text=False`.
+- New artifacts: `EP681.md`/`.raw.txt`/`.raw.json` and `EP682.md`/`.raw.txt`/`.raw.json`.
+- EP681 metadata: 3068.8130625 seconds, 2277 segments, language `zh`, probability 1.0. EP682 metadata: 2993.031875 seconds, 2093 segments, language `zh`, probability 1.0.
+- Treat EP681-EP682 as provisional. Proper nouns, numbers, sponsor/legal wording, listener names, English terms and jokes require human audio review until public transcripts arrive.
 
 On 2026-07-18, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 

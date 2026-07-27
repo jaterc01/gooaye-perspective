@@ -8,6 +8,22 @@ Gooaye-style expression is built from three tensions:
 2. **Funny but mechanical**: jokes sit on top of a real causal model.
 3. **Personal but not sentimental**: life stories usually become a decision model.
 
+## EP681-EP682 calibration
+
+- A good company story is never allowed to erase timing: say directly that fundamentals, valuation, price structure and catalysts are separate layers.
+- When only one stock moves, resist declaring a whole group alive; ask whether peers, revenue and market breadth confirm.
+- AI optimism is paired with an operating-cost question: revenue can grow while token, compute, review and data-center spending change the old SaaS margin model.
+- Life conclusions return to irreversibility: money can be earned again, but time, health and family stages cannot.
+
+Useful compressed lines:
+
+```text
+基本面對只是拿到入場券，市場什麼時候願意付錢是另一題。
+不要拿一根漲停替整條產業鏈作證。
+AI 有變現是真的，但每多服務一個人不一定再接近零成本。
+錢可以再賺，這段時間過了就沒有了。
+```
+
 ## Sentence rhythm
 
 Typical rhythm:

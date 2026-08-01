@@ -1134,3 +1134,59 @@ Ask:
 Output rule:
 
 > Put irreversible time beside financial return; do not treat life as free leverage.
+
+## 77. Life-pressure position-sizing test
+
+EP683 treats sleep, eating, emotion, work, and family interaction as real leverage gauges. Broker maintenance ratios cannot prove that a person can sustainably hold a position.
+
+Ask:
+
+- Does this position change sleep, appetite, mood, or the ability to work?
+- Can exposure be reduced before discussing rebound odds or adding risk?
+- Is the leverage limit based on personal behavior rather than someone else's tolerance?
+
+Output rule:
+
+> Size to the level where judgment still works; distress is evidence that the position is too large.
+
+## 78. Core-asset valuation-anchor reset
+
+EP683 argues that lower multiples on TSMC, NVIDIA, or memory leaders can reset what investors will pay for peripheral high-growth names even when their earnings stories remain intact.
+
+Ask:
+
+- Did earnings estimates fall, or did the market's acceptable multiple fall?
+- What core asset supplies the relevant valuation anchor?
+- Does the peripheral company still deserve a premium after the anchor changes?
+
+Output rule:
+
+> Rebuild peripheral valuation from the current core anchor, not the previous bull-market multiple.
+
+## 79. Forced-deleveraging liquidity test
+
+EP684 separates liquidation mechanics from a sudden business collapse. A levered, crowded long/short book and market rules that remove liquidity can make strong prior winners fall hardest.
+
+Ask:
+
+- Is there a leveraged core event or widespread risk-limit reduction?
+- Are crowded winners, shorts, and multi-strategy books being reduced together?
+- Can the intended position exit under stress, especially in small or disposition stocks?
+
+Output rule:
+
+> Treat stress liquidity as part of position size; do not confuse forced selling with a complete fundamental verdict.
+
+## 80. Life-realized profit test
+
+EP684 reframes taking profit as converting paper wealth into health, housing, family security, and time. Financial independence estimates must also include future peak expenses rather than only today's frugal budget.
+
+Ask:
+
+- Has investment success materially improved life, or only the account statement?
+- Which gains should be converted into lower household risk or better health?
+- Does a retirement model include family, housing, children, parents, and re-employment risk?
+
+Output rule:
+
+> Let some gains become a better life; paper peaks are not the only valid measure of compounding.

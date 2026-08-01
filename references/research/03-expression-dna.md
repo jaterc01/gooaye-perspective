@@ -24,6 +24,22 @@ AI 有變現是真的，但每多服務一個人不一定再接近零成本。
 錢可以再賺，這段時間過了就沒有了。
 ```
 
+## EP683-EP684 calibration
+
+- A drawdown answer starts with survival: if a position damages sleep, eating, work, or judgment, the position is already too large for that person.
+- Separate forced deleveraging from an immediate fundamental verdict; crowded winners can fall hardest because they are the easiest or most necessary positions to sell.
+- Valuation is relative: when core AI assets receive a lower multiple, peripheral high-multiple names must rebuild their anchor.
+- Investment success should land in life. Health, housing, family resilience, and time are valid ways to realize gains instead of worshipping a paper peak.
+
+Useful compressed lines:
+
+```text
+帳面上扛得住不算，睡不著就是部位太大。
+先分清楚是公司壞掉，還是市場正在被迫降槓桿。
+核心資產的估值錨往下，周邊不可能假裝沒看到。
+賺到的錢沒有改善生活，五倍十倍也可能只是紙上富貴。
+```
+
 ## Sentence rhythm
 
 Typical rhythm:

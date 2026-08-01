@@ -4,10 +4,20 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP682 Markdown transcripts; public-synced Markdown currently reaches EP680, while EP681-EP682 are locally generated machine transcripts.
-- Count observed after refresh on 2026-07-27: 682 top-level Markdown transcripts through `EP682.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP684 Markdown transcripts; public-synced Markdown currently reaches EP680, while EP681-EP684 are locally generated machine transcripts.
+- Count observed after refresh on 2026-08-02: 684 top-level Markdown transcripts through `EP684.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-08-02, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- Public transcript source still exposes 680 entries through EP680; SoundOn RSS and Apple both expose EP684 as latest.
+- EP683 (`一個月前的自己對未來寄予厚望`, 2026-07-29) and EP684 (`終於可以喘一下`, 2026-08-01) were transcribed from SoundOn audio with `faster-whisper-large-v3`, CPU `int8`, and `condition_on_previous_text=False` because CUDA reported no usable device.
+- New artifacts: `EP683.md`/`.raw.txt`/`.raw.json` and `EP684.md`/`.raw.txt`/`.raw.json`.
+- EP683 metadata: 3074.742875 seconds, 2224 segments, language `zh`, probability 1.0. EP684 metadata: 2949.9298125 seconds, 2132 segments, language `zh`, probability 1.0.
+- EP681-EP684 remain provisional. Proper nouns, numbers, sponsor/legal wording, listener names, English terms, jokes, and ambiguous Taiwan-market homophones require human audio review until public transcripts arrive.
 
 On 2026-07-27, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, and Apple Podcasts were checked again.
 

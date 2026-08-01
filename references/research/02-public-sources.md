@@ -1,5 +1,12 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-01
+
+- Apple Podcasts Taiwan and SoundOn RSS both expose `EP684 | 🔦` as the latest episode, published 2026-08-01 05:01:55 GMT, description `終於可以喘一下`.
+- The preceding `EP683 | 🚑` was published 2026-07-29 07:23:59 GMT, description `一個月前的自己對未來寄予厚望`.
+- `whatmkreallysaid.com/episodes.json` still contains 680 public transcript entries through EP680, so SoundOn audio is the transcript source for provisional EP683-EP684 and Apple independently confirms order and metadata.
+- Apple episode metadata reports no closed captions. SoundOn enclosure URLs were used only for the local transcription fallback.
+
 ## Latest episode check: 2026-07-27
 
 - Apple Podcasts Taiwan and SoundOn RSS both expose `EP682 | 🦕` as the latest episode, published 2026-07-25 07:14:41 GMT, description `魂系 everywhere`.

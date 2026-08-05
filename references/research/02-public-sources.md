@@ -1,11 +1,18 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-06
+
+- Apple Podcasts Taiwan and SoundOn RSS both expose `EP685 | 🤓` as the latest episode, published 2026-08-05 08:25:19 GMT; Apple shows the episode URL and the same SoundOn enclosure.
+- `whatmkreallysaid.com/episodes.json` now contains 685 public transcript entries through `EP685_奧德賽觀影與幸福無聊論.md`.
+- The public transcript source now covers EP681-EP685, so no SoundOn MP3 or local ASR was needed in this refresh. EP681-EP684 were replaced locally with their public Markdown versions, and EP685 was added directly from the public source.
+- EP685 public summary covers the short-lived deep-value window after a sharp deleveraging selloff, HBM down-spec and TPU delay as cost/timing questions rather than automatic roadmap failure, optical-component ban headlines as a supply-chain/mechanism question, Palantir as evidence that AI changes software COGS without erasing accountable software delivery, and the value of boring low-drama life.
+
 ## Latest episode check: 2026-08-01
 
-- Apple Podcasts Taiwan and SoundOn RSS both expose `EP684 | 🔦` as the latest episode, published 2026-08-01 05:01:55 GMT, description `終於可以喘一下`.
+- Apple Podcasts Taiwan and SoundOn RSS both exposed `EP684 | 🔦` as the latest episode, published 2026-08-01 05:01:55 GMT, description `終於可以喘一下`.
 - The preceding `EP683 | 🚑` was published 2026-07-29 07:23:59 GMT, description `一個月前的自己對未來寄予厚望`.
-- `whatmkreallysaid.com/episodes.json` still contains 680 public transcript entries through EP680, so SoundOn audio is the transcript source for provisional EP683-EP684 and Apple independently confirms order and metadata.
-- Apple episode metadata reports no closed captions. SoundOn enclosure URLs were used only for the local transcription fallback.
+- At that time `whatmkreallysaid.com/episodes.json` still contained 680 public transcript entries through EP680, so SoundOn audio was the transcript source for provisional EP683-EP684 and Apple independently confirmed order and metadata.
+- Apple episode metadata reported no closed captions. SoundOn enclosure URLs were used only for the historical local transcription fallback; both episodes are now superseded by public Markdown.
 
 ## Latest episode check: 2026-07-27
 

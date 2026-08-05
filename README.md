@@ -2,7 +2,7 @@
 
 股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
 
-這是一個 Codex/Hermes-style skill，基於本機 EP1-EP684 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。`whatmkreallysaid.com` 公開稿目前已同步到 EP680；EP681「再一次相信真愛存在的機會」、EP682「魂系 everywhere」、EP683「一個月前的自己對未來寄予厚望」與 EP684「終於可以喘一下」為 SoundOn 音檔的 `faster-whisper-large-v3` provisional 初校稿，待公開逐字稿出現後取代或重新對照。
+這是一個 Codex/Hermes-style skill，基於本機 EP1-EP685 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。`whatmkreallysaid.com` 公開稿目前已同步到 EP685；EP681「人道走廊與沙沙西瓜」、EP682「紅眼路比與魂系股災」、EP683「DUV鬼故事與黃金葛玄學」、EP684「五歲家書與降槓桿浩劫」與 EP685「奧德賽觀影與幸福無聊論」均已用公開稿取代先前的 provisional 初校稿，歷史 `.raw.*` 檔案若存在仍保留作為溯源。
 
 ## Install
 

@@ -1190,3 +1190,86 @@ Ask:
 Output rule:
 
 > Let some gains become a better life; paper peaks are not the only valid measure of compounding.
+
+## 81. Boring-life safety signal
+
+EP685 reframes boredom as possible evidence of safety rather than lack of meaning. When there is no urgent work, legal threat, family crisis or survival pressure demanding immediate action, a quiet afternoon can be a real life asset.
+
+Ask:
+
+- Is the boredom actually emptiness, or is it the first calm period after prolonged stress?
+- Does the person have enough cash flow, support and choice to let a day remain uneventful?
+- Are high-risk trades, conflict and constant stimulation being used to avoid feeling safe?
+- What small, low-pressure activity would add meaning without recreating crisis?
+
+Output rule:
+
+> Do not confuse drama with vitality; stable optionality and quiet time can be evidence that life is working.
+
+## 82. V-recovery without a required second leg
+
+EP685 warns against treating a textbook W-bottom as mandatory. After a sharp deleveraging event, a recovery can move quickly, while the second leg is shallow, brief or absent; waiting for a perfect retest can become a short or missed-entry trap.
+
+Ask:
+
+- Has the liquidation trigger been identified, and has leverage or forced selling visibly eased?
+- Which prices, moving averages or leaders have been recovered, and how fast?
+- Is valuation repair still likely to take time even if the oversold zone has been reclaimed?
+- Can exposure be rebuilt in stages without betting on the exact low or exact second leg?
+
+Output rule:
+
+> Do not demand a W-bottom from the market; classify the recovery, respect the evidence and keep the position size reversible.
+
+## 83. Roadmap versus temporary specification or timing change
+
+EP685 treats HBM down-spec, TPU delays and intermediate power architectures as questions about cost, yield, shortage and sequencing before they become evidence of broken long-term demand.
+
+Ask:
+
+- Is the change a temporary down-spec, cost optimization, supply allocation or an actual customer cancellation?
+- Did the product roadmap, workload and customer validation change, or only the next quarter?
+- Which suppliers, orders and later specification upgrades can confirm or reject the explanation?
+- Has prior deleveraging made the market unusually sensitive to neutral headlines?
+
+Output rule:
+
+> Separate roadmap damage from timing flexibility; a delayed or cheaper intermediate step is not automatically a cancelled destination.
+
+## 84. AI software as stable accountable delivery
+
+EP685 extends the AI cost model: simple wrappers may be displaced, but software that integrates data, constrains randomness, supports enterprise workflow and carries compliance responsibility can remain valuable even as inference becomes a real cost of goods.
+
+Ask:
+
+- Does the product own useful data, workflow integration, permissions, auditability or domain context?
+- Can it produce stable, repeatable output instead of an impressive but random demo?
+- Are inference, token, human review and support costs visible in the margin model?
+- When the system fails, is there a product, vendor or operator who can be held accountable?
+
+Output rule:
+
+> AI can compress thin functionality without eliminating software; the investable moat is repeatable delivery with visible costs and responsibility.
+
+## 85. Evidence-updated market judgment
+
+EP685 explains why two similar-looking rebounds can deserve different judgments. New information about liquidation, financing, earnings, price response and market leadership changes the causal background, so a responsible view should update instead of preserving a forecast for rhetorical consistency.
+
+Ask:
+
+- What was known when the original judgment was made, and what was still unknown?
+- Did a liquidation event, financing change, earnings response or leader confirmation alter the market state?
+- What is the conservative action before confirmation, and what evidence permits partial re-entry?
+- Is the person changing the model because facts changed, or merely chasing price and emotion?
+
+Output rule:
+
+> A changed view is not a contradiction when the evidence changed; record the update, the new risk and the cost of being early or late.
+
+## EP685 model mapping
+
+- `幸福無聊論` maps to operator-state and life-allocation questions.
+- `不必等第二隻腳` maps to pullback classification, staged re-entry and short-risk control.
+- `HBM 降規 / TPU 遞延 / 800V 中繼` maps to roadmap, cost, yield and timing analysis.
+- `Palantir 與 AI 不會整包幹掉軟體` maps to inference cost, stable delivery, data integration and accountability.
+- `動態盤面判讀` maps to evidence updates rather than fixed predictions.

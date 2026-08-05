@@ -4,10 +4,22 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP684 Markdown transcripts; public-synced Markdown currently reaches EP680, while EP681-EP684 are locally generated machine transcripts.
-- Count observed after refresh on 2026-08-02: 684 top-level Markdown transcripts through `EP684.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP685 Markdown transcripts; public-synced Markdown currently reaches EP685.
+- Count observed after refresh on 2026-08-06: 685 top-level Markdown transcripts through `EP685.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-08-06, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
+
+Result:
+
+- Public transcript source now exposes 685 entries through EP685. SoundOn RSS and Apple also expose EP685 as latest: `EP685 | 🤓`, published 2026-08-05 08:25:19 GMT, public title `奧德賽觀影與幸福無聊論`.
+- The local sync replaced the provisional EP681-EP684 Markdown with public text and added public `EP685.md`; the top-level corpus now contains 685 continuous episode numbers.
+- No EP685 MP3 download or speech-to-text run was needed. Any existing `EP681.raw.*` through `EP684.raw.*` files remain only as historical provenance for the superseded machine transcripts.
+- EP685 adds current anchors for calm/boring life as a safety signal, V-shaped recovery without a required second leg, roadmap-versus-temporary-spec interpretation, AI software as stable accountable delivery, and updating market judgments as new evidence arrives.
+- No current machine-transcription risk remains for EP681-EP685, but older raw artifacts should not be treated as the public source of truth.
+
+On 2026-08-02, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 
 On 2026-08-02, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
 

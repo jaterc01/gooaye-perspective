@@ -1,5 +1,13 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-10
+
+- SoundOn RSS exposes `EP686 | 🕸️`, published 2026-08-08 06:40:06 GMT; the description begins `各位 88 快樂！` and provides the SoundOn MP3 enclosure used for local transcription.
+- The Apple Podcasts Taiwan public page exposes EP686 and 686 total episodes. Apple lookup also reports `trackCount=686`, although its `releaseDate` field still shows the previous EP685 timestamp.
+- `whatmkreallysaid.com/episodes.json` remains at 685 entries through EP685, so no public EP686 Markdown was available during this refresh.
+- EP686 was downloaded and transcribed locally with `faster-whisper-medium`; it is provisional until the public transcript is published and manually reconciled.
+- `各位 88 快樂` is the RSS description lead used for the local filename/title; it should be treated as a provisional episode label rather than a confirmed public transcript title.
+
 ## Latest episode check: 2026-08-06
 
 - Apple Podcasts Taiwan and SoundOn RSS both expose `EP685 | 🤓` as the latest episode, published 2026-08-05 08:25:19 GMT; Apple shows the episode URL and the same SoundOn enclosure.

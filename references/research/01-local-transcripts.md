@@ -4,10 +4,23 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP685 Markdown transcripts; public-synced Markdown currently reaches EP685.
-- Count observed after refresh on 2026-08-06: 685 top-level Markdown transcripts through `EP685.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP686 Markdown transcripts; public-synced Markdown currently reaches EP685, with EP686 provisional local ASR artifacts.
+- Count observed after refresh on 2026-08-10: 686 top-level Markdown transcripts through `EP686.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh
+
+On 2026-08-10, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
+
+Result:
+
+- `whatmkreallysaid.com/episodes.json` still exposes 685 public entries through EP685, while SoundOn RSS and Apple expose EP686 (`各位 88 快樂`) as the newest episode.
+- The EP686 SoundOn MP3 was downloaded to `%TEMP%\\gooaye-skill\\EP686.mp3`; size `49,680,831` bytes and SHA256 `77A26D674605F321F6976B25A66AC37F8C4832501F747050AF7B04E07B1842D3`.
+- Local `EP686.md`, `EP686.raw.txt`, and `EP686.raw.json` were generated with `faster-whisper-medium`, CPU `int8`, and `condition_on_previous_text=False`; metadata reports 3001.939625 seconds, 1721 segments, language `zh`, probability 1.0.
+- An initial `distil-large-v3` attempt was rejected because it produced English-like hallucinated output; the local artifacts were overwritten by the multilingual medium transcript.
+- Treat EP686 as provisional. Main human-review risks are proper nouns and finance terms (`Saily`, eSIM, MTK, Delta, C-CAP, Micro LED, CPO, 800V, ASP, S&P/SPX, 0050, Cloudflare, Palantir and Power), exact numbers, sponsor/legal wording, listener names, homophones, jokes, and sensitive family/health passages.
+- Retain EP683, EP684, and EP686 MP3s until GitHub and Hermes HEAD/content verification completes.
+
+## Previous refresh: 2026-08-06
 
 On 2026-08-06, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
 

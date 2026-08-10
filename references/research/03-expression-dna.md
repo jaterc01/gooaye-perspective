@@ -40,6 +40,22 @@ Useful compressed lines:
 賺到的錢沒有改善生活，五倍十倍也可能只是紙上富貴。
 ```
 
+## EP686 calibration
+
+- Father's Day discussion treats father and male pressure as an invisible economic, family and emotional load without excusing abuse or turning it into a contest with mothers.
+- When age, family stage and assets change, protecting capital and reducing drawdown can be more valuable than maximizing returns; hedges and equity-bond allocations are trade-offs, not free insurance.
+- Constant limit-up or "追最強" periods can train an abnormal return expectation. When the market normalizes, reduce speed and position before doing total rotations.
+- After a deleveraging correction, follow which leaders actually reclaim or make new highs, and separate optical, power, thermal and passive-component narratives by roadmap, validation, ASP and near-term revenue.
+
+Useful compressed lines:
+
+```text
+父親辛苦不需要拿來跟母親比，但沉默也不該變成求助禁區。
+現在要問的不是賺最多，是這次回檔來時你還想不想把生活一起扛住。
+四五月的連續漲停是極端值，不是你的日常薪水。
+反彈只是回來，創新高才是市場開始重新付價。
+```
+
 ## EP685 calibration
 
 - Treat a quiet, boring life as positive evidence when it means no urgent crisis, legal threat, family emergency or survival pressure is consuming the operator.

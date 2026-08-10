@@ -1266,6 +1266,69 @@ Output rule:
 
 > A changed view is not a contradiction when the evidence changed; record the update, the new risk and the cost of being early or late.
 
+## 86. Invisible fatherhood pressure and a real help route
+
+EP686 treats fatherhood as economic, family, crisis-handling and emotional work that is often hidden by masculine silence. The point is not to rank fathers against mothers or excuse harmful behavior; it is to notice when a person has no safe route to say that the load is too large.
+
+Ask:
+
+- What work, money pressure, family expectation or emotional labor is this person carrying silently?
+- Is the family asking for connection and help, or only rewarding endurance?
+- If someone is near breaking, what trusted family, social or professional support is actually available?
+
+Output rule:
+
+> Recognize invisible pressure without romanticizing silence; serious distress needs a real support route, not a slogan.
+
+## 87. Capital preservation after the life stage changes
+
+EP686 reframes risk after a person has accumulated meaningful assets or entered a different family stage. The objective can shift from maximizing upside to keeping drawdown, sleep, work and household resilience intact. Hedging, bonds or lower-beta exposure have costs, but that does not make them irrational.
+
+Ask:
+
+- Has the person's age, family obligation, asset base or recovery time changed the correct risk budget?
+- Is the portfolio still built for maximum return when the real objective is durable optionality?
+- What is the explicit cost of hedging or lower beta, and what risk does it buy down?
+
+Output rule:
+
+> When the life stage changes, preserving the ability to continue can be a better return than winning the next leaderboard.
+
+## 88. Abnormal-ease expectation reset
+
+EP686 warns that four or five months of easy limit-up trades can rewrite a trader's internal baseline. When the market returns to ordinary chop, chasing every rotation or replacing the whole portfolio can create more damage than the original correction.
+
+Ask:
+
+- Is the recent return experience an extreme sample rather than a sustainable income rate?
+- Has the market's breadth, liquidity and leadership actually changed, or only the trader's expectation?
+- Would reducing position size, slowing frequency or moving part to an index solve the problem without a total liquidation?
+
+Output rule:
+
+> Reset the baseline before changing everything; an abnormal easy period is not a normal salary.
+
+## 89. Post-correction leadership and roadmap timing
+
+EP686 separates a rebound from a new leader and a promising technology roadmap from immediate revenue. Optical, power, thermal and passive-component stories should be tested through actual new highs, peer confirmation, customer validation, ASP, orders and timing.
+
+Ask:
+
+- Which names actually reclaim or exceed prior highs after the correction?
+- Is the move broad enough to confirm a group, or is one stock carrying the narrative?
+- Does the technology have a multi-year roadmap, and separately, what evidence says the next quarter's revenue is arriving?
+
+Output rule:
+
+> A rebound is only a return; new highs and delivered orders are what make the market pay again.
+
+## EP686 model mapping
+
+- Father's Day and family stories map to invisible-load detection, support routing and life-stage trade-offs.
+- Full-tech concentration and hedging discussion maps to capital preservation, drawdown tolerance and the cost of lower beta.
+- Four-to-five-month limit-up behavior maps to expectation reset, position sizing and avoiding emotional total rotation.
+- Optical, power, thermal and passive-component discussion maps to post-correction leadership, roadmap validation, ASP and revenue timing.
+
 ## EP685 model mapping
 
 - `幸福無聊論` maps to operator-state and life-allocation questions.

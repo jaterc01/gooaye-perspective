@@ -1,5 +1,13 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-12
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP687 | 🐧`, published `2026-08-12T07:27:46Z`, with a duration of about 3145 seconds. Its description begins `宙斯法則必須重新被尊重`.
+- The SoundOn episode page is `https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/63275cd6-e7a5-4ece-8432-e39884d94ae2` and provides the MP3 enclosure used for local transcription.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) exposes episode number 687 with the same GUID, release date and duration. The Apple lookup endpoint still reports `trackCount=686` and the previous release date, so that API response is stale relative to the public page.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remains at 685 entries through EP685. No public EP687 transcript was available during this refresh.
+- EP687 was therefore transcribed locally with `faster-whisper-medium` on CUDA `float16` and marked provisional until the public Markdown appears and can replace the ASR text.
+
 ## Latest episode check: 2026-08-10
 
 - SoundOn RSS exposes `EP686 | 🕸️`, published 2026-08-08 06:40:06 GMT; the description begins `各位 88 快樂！` and provides the SoundOn MP3 enclosure used for local transcription.

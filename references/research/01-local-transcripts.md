@@ -874,6 +874,18 @@ EP659 makes the health/body point explicit: weight, mobility, functional trainin
 
 Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
 
+## Latest transcript refresh: 2026-08-12
+
+On 2026-08-12, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
+
+Result:
+
+- SoundOn RSS and the Apple Podcasts Taiwan public page expose `EP687 | 🐧`, published `2026-08-12T07:27:46Z` (Taipei 15:27:46), with a duration of about 3145 seconds. The SoundOn description begins `宙斯法則必須重新被尊重`.
+- `whatmkreallysaid.com/episodes.json` still exposes 685 public transcript entries through EP685. No public EP686 or EP687 Markdown was available, so the local corpus remains provisional for both episodes.
+- EP687 was downloaded from the SoundOn enclosure and transcribed into `EP687.md`, `EP687.raw.txt`, and `EP687.raw.json` with `faster-whisper-medium`, CUDA `float16`, `condition_on_previous_text=False`; metadata reports 3144.5943125 seconds, language `zh`, probability `1.0`.
+- The transcript applies only high-confidence corrections for recurring finance, technology, place, brand and homophone terms. Proper nouns, English, sponsor wording, exact numbers, listener names, jokes and ambiguous homophones still require audio or eventual public-transcript review.
+- Retain EP683, EP684, EP686 and EP687 MP3s until GitHub and Hermes HEAD/content verification completes.
+
 ## Expression notes
 
 Common rhetorical moves:

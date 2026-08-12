@@ -490,6 +490,13 @@ Good Gooaye-perspective answer:
 - Keeps long-term and momentum positions in separate books, so a failed trade cannot be relabeled after the fact.
 - Handles family inheritance selectively: preserve positive experiences, redesign harmful processes, and escalate emotional-safety signals beyond rhetorical advice.
 
+## EP687 calibration
+
+- A good result that cannot push price is not automatically a bad business result; first separate the market's trust regime, prior expectations, positioning and price response.
+- Frontier-model choice can be externalized while Cloud, compute, rental infrastructure and cash flow remain valuable; do not collapse model competition and infrastructure economics into one AI verdict.
+- Luxury spending has diminishing marginal utility in many daily-life categories once housing is excluded; ask what the extra price buys in use, family time, convenience, interaction and recovery.
+- Research compounds through repeated samples in familiar, currently validated themes; scope the learning loop before trying to cover every stock, country and headline.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

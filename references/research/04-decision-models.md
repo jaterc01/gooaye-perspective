@@ -1322,6 +1322,65 @@ Output rule:
 
 > A rebound is only a return; new highs and delivered orders are what make the market pay again.
 
+## 90. Zeus-law trust regime
+
+EP687 uses the idea of a Zeus law that must be respected again: when good news is sold or fails to move price, the first question is whether the market's shared trust and positioning rules have broken, not whether every operating fact has reversed.
+
+Ask:
+
+- Was the information already priced, and who is selling into the good news?
+- Is the weak price response isolated, or does breadth, leadership and follow-through show a wider trust-regime problem?
+
+Output rule:
+
+> Separate business facts from the market's willingness to pay for them.
+
+## 91. Frontier-option externalization and cloud-landlord economics
+
+EP687 separates the high-uncertainty frontier-model option from the more durable Cloud, compute, rental and infrastructure position. A company can let outside labs carry part of the frontier bet while still monetizing the picks-and-shovels layer.
+
+Ask:
+
+- Which costs and risks belong to model research, and which belong to Cloud, TPU/procurement, rental utilization and cash flow?
+- Is the market repricing a narrative, or are revenue, margins, customers and infrastructure returns changing too?
+
+Output rule:
+
+> AI is not one bet: frontier choice and infrastructure economics need separate ledgers.
+
+## 92. Luxury marginal utility and life-gap model
+
+EP687 treats many high-end daily-life upgrades as a marginal-utility question after housing is excluded. The price gap can be much larger than the lived difference, while family, time, interaction and recovery may matter more than status.
+
+Ask:
+
+- How often will the upgrade be used, and who in the household actually benefits?
+- Does the extra price buy time, convenience, connection or recovery, or mainly social display?
+
+Output rule:
+
+> Price the life function, not the prestige label.
+
+## 93. Scoped research compounding
+
+EP687 argues that no investor can know every stock at once. Familiar companies and current hot spots create repeated samples, pattern recognition and a reusable vocabulary; breadth can expand after the first learning loop is real.
+
+Ask:
+
+- What small set of industries, products and metrics can be followed continuously?
+- Does a new name add a testable comparison, or only add another headline to the queue?
+
+Output rule:
+
+> Start with familiar, currently validated themes and widen one layer at a time.
+
+## EP687 model mapping
+
+- `宙斯法則必須重新被尊重` maps to trust-regime analysis, good-news price response and market-wide rule restoration.
+- Google/Meta frontier-model discussion maps to externalized option value, Cloud/compute landlord economics, infrastructure rental and cash-flow separation.
+- Bali and high-end consumption discussion maps to marginal utility, family/time/interaction value and the difference between price and lived experience.
+- Research-scope discussion maps to repeated samples, familiar hot spots, pattern compounding and staged expansion of the learning universe.
+
 ## EP686 model mapping
 
 - Father's Day and family stories map to invisible-load detection, support routing and life-stage trade-offs.

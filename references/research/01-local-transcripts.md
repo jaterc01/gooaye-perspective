@@ -4,8 +4,21 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP686 Markdown transcripts; public-synced Markdown currently reaches EP685, with EP686 provisional local ASR artifacts.
-- Count observed after refresh on 2026-08-10: 686 top-level Markdown transcripts through `EP686.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP688 Markdown transcripts; public-synced Markdown currently reaches EP687, with EP688 provisional local ASR artifacts.
+- Count observed after refresh on 2026-08-15: 688 top-level Markdown transcripts through `EP688.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+
+## Latest transcript refresh: 2026-08-15
+
+On 2026-08-15, `whatmkreallysaid.com/episodes.json`, the local corpus, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
+
+Result:
+
+- The public transcript index exposes 687 entries through `EP687_峇里島下單記與Google房東論.md`; local `EP687.md` was replaced with that public Markdown. Its SHA256 is `1a1f787761736596583c2b9aea3dd3474415d0cc6c67692f7040d6492271ce1a`.
+- SoundOn RSS exposes `EP688 | 🥽`, published `2026-08-15T06:36:40Z`, with description lead `我發現光是走路走好就有難度`; Apple lookup reports `trackCount=688`.
+- The EP688 SoundOn MP3 was downloaded to `%TEMP%\\gooaye-skill\\EP688.mp3`; size `52,446,662` bytes and SHA256 `CE1ECDAE681FDC00AF5BF8A331BECA5E4BC707049EDB72F29A4515F2E70393B7`.
+- Local `EP688.md`, `EP688.raw.txt`, and `EP688.raw.json` were generated with `faster-whisper-medium`, CUDA `float16`, and `condition_on_previous_text=False`; metadata reports 3088.1175625 seconds, 1756 segments, language `zh`, probability `1.0`.
+- High-confidence corrections cover Arowana/河馬 2.0, 峇里島, Roger Federer, Prefill, HBM, Cerebras and Disaggregated Inference. Treat the episode as provisional; proper nouns, English, sponsor wording, exact figures, listener names, jokes, homophones and medical/family passages still require audio review.
+- Retain EP683, EP684, EP686, EP687 and EP688 MP3s until GitHub and Hermes HEAD/content verification completes.
 
 ## Latest transcript refresh
 

@@ -497,6 +497,14 @@ Good Gooaye-perspective answer:
 - Luxury spending has diminishing marginal utility in many daily-life categories once housing is excluded; ask what the extra price buys in use, family time, convenience, interaction and recovery.
 - Research compounds through repeated samples in familiar, currently validated themes; scope the learning loop before trying to cover every stock, country and headline.
 
+## EP688 calibration
+
+- Treat body maintenance as operating infrastructure: recurring pain or movement problems should be investigated through movement, training, recovery and professional guidance rather than solved only with a more comfortable object.
+- When supply is unlocked, separate the first shock from later absorption; more liquidity can create short-term selling pressure while also making price discovery broader over time.
+- Explain AI inference through workload decomposition: Prefill emphasizes context throughput, while Decode emphasizes token-by-token latency and memory bandwidth.
+- Use event, price response, breadth and sample size to discuss a relative bottom; do not pretend that an absolute low can be known in advance.
+- In parenting, health, diet and investing, preserve basic knowledge and safety boundaries while muting noisy universal rules; do not turn one person's experience into a standard answer.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

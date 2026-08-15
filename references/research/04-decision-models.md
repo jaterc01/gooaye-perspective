@@ -1374,6 +1374,79 @@ Output rule:
 
 > Start with familiar, currently validated themes and widen one layer at a time.
 
+## 94. Body as operating infrastructure
+
+EP688 treats movement, gait, training and recovery as part of the operator's infrastructure. A chair, pillow or temporary workaround may change symptoms without fixing the movement pattern; personal experience must still be separated from medical diagnosis.
+
+Ask:
+
+- Is the proposed fix changing the underlying behavior, or only making the current pattern more comfortable?
+- Which parts are personal observation, professional assessment and still-unknown causality?
+
+Output rule:
+
+> Maintain the operator, but do not turn a podcast anecdote into a diagnosis.
+
+## 95. Unlock supply and absorption curve
+
+EP688 separates the initial price shock from the later absorption of newly unlocked shares. The relevant variables are release schedule, seller urgency, buyer breadth, liquidity and whether price can absorb supply without repeated forced selling.
+
+Ask:
+
+- Is this a single unlock or a long release band, and who is likely to sell?
+- Does later trading show broader ownership and improving absorption, or repeated supply pressure?
+
+Output rule:
+
+> Supply is a time series, not a one-day label.
+
+## 96. Prefill/Decode workload split
+
+EP688 explains AI inference as at least two linked workloads: Prefill processes long context with throughput as a central concern, while Decode generates token by token and cares more about memory bandwidth and latency. Hardware claims should be mapped to the bottleneck they actually solve.
+
+Ask:
+
+- Which workload, customer and bottleneck does the architecture target?
+- Are capacity, cost, utilization, ecosystem and revenue evidence strong enough to move beyond a technical demo?
+
+Output rule:
+
+> Do not buy an AI label when the real question is which workload gets cheaper or faster.
+
+## 97. Relative-bottom evidence stack
+
+EP688 rejects perfect-bottom thinking. Event interpretation, price response, market breadth and sample size can support a relative zone, but no single signal proves an absolute low.
+
+Ask:
+
+- Was the event disclosed before or after price moved, and how broad was the response?
+- Is the rebound an ordinary beta bounce, a forced-selling reset or a durable leadership change?
+
+Output rule:
+
+> Preserve optionality because relative confidence is not absolute certainty.
+
+## 98. No standard answer, keep the safety boundary
+
+EP688 applies the same humility to parenting, health, diet and investing: basic knowledge, personal context and professional help matter more than a universal online formula. Reduce noisy advice without pretending uncertainty has disappeared.
+
+Ask:
+
+- What is the reversible next step, and which risks require a doctor, trusted support or more evidence?
+- Is the advice helping the person function, or only adding another standard they can fail?
+
+Output rule:
+
+> Keep the useful principle, mute the noise, and do not oversell certainty.
+
+## EP688 model mapping
+
+- Functional training, gait and prolonged-sitting discussion maps to body-as-infrastructure, operator sustainability and the separation of anecdote from diagnosis.
+- SpaceX/Cerebras unlock discussion maps to supply schedules, initial shock, buyer breadth, liquidity and absorption over time.
+- Prefill/Decode, HBM, SRAM and disaggregated inference discussion maps to workload-specific AI economics rather than one-chip narratives.
+- Relative-bottom discussion maps to event, price response, breadth, sample size, staged entry and preserved optionality.
+- Parenting, postpartum anxiety, diet and family questions map to no-standard-answer reasoning, basic knowledge, professional support and noise reduction.
+
 ## EP687 model mapping
 
 - `宙斯法則必須重新被尊重` maps to trust-regime analysis, good-news price response and market-wide rule restoration.

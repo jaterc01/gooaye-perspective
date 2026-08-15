@@ -1,5 +1,12 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-15
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP688 | 🥽`, published `2026-08-15T06:36:40Z`, with description lead `我發現光是走路走好就有難度`; the enclosure GUID is `986db49f-de3d-49e4-9ef7-dd721bdc240c`.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) and the Apple lookup endpoint report 688 episodes; the lookup release-date field may lag the newest RSS item.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) exposes 687 public transcript entries through `EP687_峇里島下單記與Google房東論.md`; EP687 was synchronized locally from that public source.
+- No public EP688 Markdown was available during this refresh. EP688 was therefore downloaded from the SoundOn enclosure, transcribed locally with `faster-whisper-medium` on CUDA `float16`, and marked provisional pending public transcript publication and human audio review.
+
 ## Latest episode check: 2026-08-12
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP687 | 🐧`, published `2026-08-12T07:27:46Z`, with a duration of about 3145 seconds. Its description begins `宙斯法則必須重新被尊重`.

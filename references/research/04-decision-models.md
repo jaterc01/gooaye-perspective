@@ -1439,6 +1439,134 @@ Output rule:
 
 > Keep the useful principle, mute the noise, and do not oversell certainty.
 
+## 99. Motivation before method
+
+EP689 uses functional training and language learning to show that a visible desired result or strong personal interest can make a method durable. The method name is less important than whether the person keeps showing up.
+
+Ask:
+
+- What concrete result, person or experience makes the user want to continue?
+- Can the first step be made small, visible and repeatable?
+
+Output rule:
+
+> Find the reason to come back before optimizing the curriculum.
+
+## 100. Child utility versus adult price
+
+EP689 contrasts an expensive resort with a child's simple delight in a pool, a small space, a card pack or shared attention. Family spending should be priced through lived utility, stage and interaction rather than status alone.
+
+Ask:
+
+- What will the child actually use, remember or share with the family?
+- Is the extra price buying flexibility and recovery, or only adult comparison?
+
+Output rule:
+
+> Price the experience the family will live, not the prestige adults can describe.
+
+## 101. Personal drawdown and breadth gate
+
+EP689 treats a frightening market report as a hypothesis and uses annual performance, drawdown, breadth, leadership recovery and new highs to decide whether to keep participating or pause.
+
+Ask:
+
+- How much of the user's own annual result has been given back, and what is the maximum tolerable damage?
+- Are multiple groups recovering, or is the index being held up by a few crowded names?
+
+Output rule:
+
+> External fear is a warning; personal drawdown and price breadth decide the speed.
+
+## 102. Components, bottleneck and value-add ledger
+
+EP689 separates scarce components, capacity bottlenecks and value added by product or software iteration. A pause in shortage pricing does not automatically mean the industry story is broken.
+
+Ask:
+
+- Is the return coming from shortage price, constrained capacity, or durable customer value?
+- When the first trade pauses, which layer can actually confirm with revenue, margin or new highs?
+
+Output rule:
+
+> Do not buy the whole label when the mechanism has three different ledgers.
+
+## 103. Adjacent-island research compounding
+
+EP689 describes learning Bus Bar, cables, connectors and server architecture through repeated company research and adjacent comparisons. Voice or information access can accelerate discovery, but it cannot replace the underlying work.
+
+Ask:
+
+- Which familiar product or component is the bridge into the new industry?
+- Can public calls, specifications, unit price, volume, yield and margin triangulate the claim?
+
+Output rule:
+
+> Learn one island deeply, then use its structure to reach the next island.
+
+## 104. Report truth versus investability
+
+EP689 distinguishes a report's factual quality from whether the stock can rise. Share, ASP, market expectations, positioning and price response can overwhelm a technically correct explanation.
+
+Ask:
+
+- Is the report meant to explain reality or generate a position?
+- Which assumptions about TAM, share, ASP and EPS are observable, and which are promotional extrapolations?
+
+Output rule:
+
+> A correct report earns understanding; a tradable thesis still needs a buyer and a price.
+
+## 105. Compensation and team trade-off
+
+EP689 rejects the vague "we are family" promise as a substitute for compensation. Company name, team quality, learning, cash flow and the size of the pay gap need separate prices.
+
+Ask:
+
+- Is the premium small enough that a good team and daily life dominate?
+- Does a materially larger offer change the user's runway, freedom or family risk?
+
+Output rule:
+
+> Do not let corporate identity hide the contract; calculate the cash-flow difference.
+
+## 106. AI language-practice routing
+
+EP689 treats AI voice mode as an efficient way to repeat basic English conversation, while a job may spend most of its time on unrelated professional work. Human tutoring can remain useful for courage, feedback and high-stakes interaction.
+
+Ask:
+
+- Is the goal repetition, pronunciation, confidence, professional vocabulary or real-world performance?
+- Which part is cheap to automate and which part still needs a person?
+
+Output rule:
+
+> Route repetition to AI and responsibility-bearing interaction to humans.
+
+## 107. Creative-capital proof loop
+
+EP689 frames game investment as a resource-and-return experiment rather than charity: trust the developer's craft, add capital and operational support, then test whether the work earns players, revenue and future capital.
+
+Ask:
+
+- What resource gap is the investment solving, and what evidence would show the team can convert it into a product?
+- Is the investor preserving developer autonomy while still measuring adoption, economics and the next funding path?
+
+Output rule:
+
+> Passion starts the project; player value and repeatable economics prove it.
+
+## EP689 model mapping
+
+- Functional training, iPod photo and AI English discussion map to motivation-before-method and AI language-practice routing.
+- Family travel, child reward points and resort-versus-youth-hostel discussion map to child utility versus adult price and operator sustainability.
+- Rates, hidden AI commitments, annual performance and the July pullback map to the personal drawdown and breadth gate.
+- Memory, de-stack, OSAT, bottleneck capacity and Value Add discussion map to the three-ledger component/bottleneck/value-add model.
+- Bus Bar, cable, Connector, Amphenol and adjacent device research map to adjacent-island research compounding.
+- Financial-model and analyst-report discussion maps to report truth versus investability.
+- Micron compensation and company/team choice maps to compensation and team trade-off.
+- Shaonan Capital, Red Eye Ruby and Taiwan game development map to the creative-capital proof loop.
+
 ## EP688 model mapping
 
 - Functional training, gait and prolonged-sitting discussion maps to body-as-infrastructure, operator sustainability and the separation of anecdote from diagnosis.

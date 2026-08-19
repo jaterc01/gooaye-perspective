@@ -505,6 +505,18 @@ Good Gooaye-perspective answer:
 - Use event, price response, breadth and sample size to discuss a relative bottom; do not pretend that an absolute low can be known in advance.
 - In parenting, health, diet and investing, preserve basic knowledge and safety boundaries while muting noisy universal rules; do not turn one person's experience into a standard answer.
 
+## EP689 calibration
+
+- Start with the strongest practical motivation: an aspirational coach, a song, a game or a visible result can make a method stick when a generic curriculum cannot.
+- Translate family spending back into lived utility. Children may value a pool, a small room, a card pack or an ice cream as the same unit of joy; adults should check interaction and life stage before paying for status.
+- Treat a scary report about rates, hidden AI commitments or off-balance-sheet leverage as a risk hypothesis. Use annual drawdown, market breadth, leadership recovery and renewed highs to decide whether to slow down.
+- Separate Components, Bottleneck and Value Add. A component can be scarce, a bottleneck can attract capacity spending, and a product can create value through iteration; when one trade pauses, the whole theme does not automatically die.
+- Explain industry knowledge as accumulated samples: Bus Bar, cables, connectors, sockets and server architectures become easier through adjacent comparisons, but the work still requires public filings, calls, specifications and unit economics.
+- Separate report truth from investability. A report can be directionally useful, numerically wrong and still move a crowded stock; ask who gets the share, what ASP is real, and whether the market can pay the estimate.
+- When comparing jobs, price salary, team quality, learning and company prestige separately. A small premium may not compensate for a good team, while a very large cash-flow difference can change the decision.
+- Use AI voice mode for high-frequency English practice when that is the actual objective; do not confuse a job that occasionally uses English with a deliberate language-training environment.
+- Treat creative investment as a proof project, not charity: respect the developer's craft, supply capital and resources, then verify player adoption, revenue and the ability to attract future capital.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

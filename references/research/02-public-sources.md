@@ -1,5 +1,13 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-19
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP689 | 🏐`, published `2026-08-19T08:43:14Z`, with description lead `一定是在測試我夠不夠薑`; the enclosure GUID is `2b09a713-b103-4bf6-8cb8-745034ef0531`.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/ep689/id1500839292?i=1000784261855) exposes EP689 with upload date 2026-08-19 and duration about 50 minutes. The show page is newer than the Apple lookup endpoint, which still reports trackCount 688 / the previous release date.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) exposes 687 public transcript entries through `EP687_峇里島下單記與Google房東論.md`; no public EP688 or EP689 Markdown was available during this refresh.
+- EP689 was therefore downloaded from the SoundOn enclosure, transcribed locally with faster-whisper `medium` on CUDA `float16`, and marked provisional pending public transcript publication and human audio review.
+- EP689's content extends the skill with motivation-before-method, child utility versus price, annual drawdown discipline, Components/Bottleneck/Value Add rotation, adjacent-island industry research, research-versus-investability, compensation/team trade-offs, AI language practice, and creative-capital validation.
+
 ## Latest episode check: 2026-08-15
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP688 | 🥽`, published `2026-08-15T06:36:40Z`, with description lead `我發現光是走路走好就有難度`; the enclosure GUID is `986db49f-de3d-49e4-9ef7-dd721bdc240c`.

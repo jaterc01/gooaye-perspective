@@ -1556,6 +1556,71 @@ Output rule:
 
 > Passion starts the project; player value and repeatable economics prove it.
 
+## 108. COT versus turnkey economics
+
+EP690 uses Google's Marvell agreement to separate customer-owned tooling from turnkey design. When the customer internalizes high-value design, mask, procurement or tape-out work, an incumbent partner may lose markup while design houses can still earn NRE, IP licensing, design-service fees and capacity value.
+
+Ask:
+
+- Is a confirmed existing project being taken away, or is a new surrounding-chip and accelerator workload being created?
+- Which layer owns the main die, peripheral chips, IP, packaging, procurement and scarce foundry capacity?
+
+Output rule:
+
+> Rebuild the revenue stack before translating COT into a blanket bearish or bullish call.
+
+## 109. Interest price ladder and personal taste
+
+EP690's Burgundy and Pinot Noir discussion treats hobby research as a sample-building process. High price can buy history, culture and feeling, but the strongest personal taste often appears after testing affordable alternatives and observing where marginal utility falls.
+
+Ask:
+
+- What did the next price tier actually add in flavor, history, convenience, interaction or identity?
+- Is the buyer enjoying the object, the story, the logo or the status signal?
+
+Output rule:
+
+> Respect different utility functions, then build your own coordinates through samples rather than price worship.
+
+## 110. AI productivity expansion
+
+EP690 describes AI agents making previously impractical cross-domain work possible. The first consequence of higher productivity may be more tasks, more switching and more responsibility rather than more leisure.
+
+Ask:
+
+- Which new tasks became possible, and who owns the final judgment when the agent is wrong?
+- Did output rise because the workflow improved, or because the worker silently absorbed an unlimited queue?
+
+Output rule:
+
+> Measure throughput and boundary quality together; efficiency without a workload boundary is not freedom.
+
+## 111. Full-time investing runway
+
+EP690 treats full-time investing as a different job, not a holiday. Salary certainty is exchanged for market-dependent income, so family expenses, cash runway, strategy fit, bad-market performance and a return route must be explicit.
+
+Ask:
+
+- How many months of fixed expenses can be funded without selling into a drawdown?
+- What evidence shows the strategy can survive a long weak tape, and what is the fallback if it cannot?
+
+Output rule:
+
+> Buy freedom with runway first; do not finance an identity change with hope.
+
+## 112. Fundamental and technical complementarity
+
+EP690 contrasts research-led investing with line, volume and momentum methods without demanding a total conversion. A person can keep a fundamental core, borrow a technical exit rule and test the combination on a small sample.
+
+Ask:
+
+- What part of the method is responsible for buying, and what part is responsible for exiting?
+- Can a ten-day-line, monthly-line or staged exit be backtested without changing the thesis after the fact?
+
+Output rule:
+
+> Keep the method you understand, then add one measurable tool that repairs the missing side.
+
 ## EP689 model mapping
 
 - Functional training, iPod photo and AI English discussion map to motivation-before-method and AI language-practice routing.
@@ -1566,6 +1631,17 @@ Output rule:
 - Financial-model and analyst-report discussion maps to report truth versus investability.
 - Micron compensation and company/team choice maps to compensation and team trade-off.
 - Shaonan Capital, Red Eye Ruby and Taiwan game development map to the creative-capital proof loop.
+
+## EP690 model mapping
+
+- Project Hail Mary, shared recommendations and audience exchange map to taste, trust and human-interest output rather than generic content production.
+- Burgundy/Pinot Noir, Michelin wine rankings and affordable New World alternatives map to the interest price ladder and personal taste model.
+- Google/Marvell, TPU peripherals, COT, turnkey, Broadcom, MediaTek, AMD, NRE/IP and foundry capacity map to COT versus turnkey economics.
+- Post-correction market recovery, five-day-line strength and avoiding limit-up chasing map to price position, breadth and preserved optionality.
+- Functional training, golf, time as the true cost of participation and family stories map to operator sustainability and the price-to-lived-experience test.
+- Full-time-investor, Micron compensation and employee stock subscription questions map to runway, income risk and compensation/team trade-offs.
+- AI agents, legal work, CFA study and creative production map to AI productivity expansion and human responsibility.
+- Fundamental research, line-based trading and ten-day/monthly exits map to fundamental and technical complementarity.
 
 ## EP688 model mapping
 

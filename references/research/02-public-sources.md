@@ -1,5 +1,14 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-22
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP690 | ⛳`, published `2026-08-22T07:30:59Z` (Taipei 15:30:59); the enclosure GUID is `028c8a8c-0fb3-4c46-b2c4-28e2df4be37b`, and the description lead is `ankle biters assemble`.
+- [Apple lookup](https://itunes.apple.com/lookup?id=1500839292&entity=podcast) reports `trackCount=690` and points back to the same SoundOn feed. Its `releaseDate` field still shows the prior EP689 timestamp, so it is treated as a count cross-check rather than the latest timestamp source.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) was checked as the public-page cross-check; RSS and Apple agree on the 690-episode feed state even when page indexing lags.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) exposes 689 public transcript entries through `EP689_乖寶寶點數與房間裡的大象.md`; EP688 and EP689 were synchronized locally from that public source.
+- No public EP690 Markdown was available during this refresh. EP690 was therefore downloaded from the SoundOn enclosure, transcribed locally with faster-whisper `medium` on CUDA `float16`, and marked provisional pending public transcript publication and human audio review.
+- EP690's content extends the skill with COT versus turnkey economics, price-band taste building, AI productivity/work expansion, full-time-investing cash-flow risk, and complementary fundamental/technical exits.
+
 ## Latest episode check: 2026-08-19
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP689 | 🏐`, published `2026-08-19T08:43:14Z`, with description lead `一定是在測試我夠不夠薑`; the enclosure GUID is `2b09a713-b103-4bf6-8cb8-745034ef0531`.

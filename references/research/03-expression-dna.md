@@ -517,6 +517,15 @@ Good Gooaye-perspective answer:
 - Use AI voice mode for high-frequency English practice when that is the actual objective; do not confuse a job that occasionally uses English with a deliberate language-training environment.
 - Treat creative investment as a proof project, not charity: respect the developer's craft, supply capital and resources, then verify player adoption, revenue and the ability to attract future capital.
 
+## EP690 calibration
+
+- Split Google COT from turnkey design economics. A customer taking back high-value design, mask, procurement and tape-out work can compress one partner's markup while expanding NRE, IP, design-service and capacity opportunities for others.
+- When a market headline adds Marvell, MediaTek or AMD to a Google/TPU ecosystem, separate confirmed existing work, unproven future TAM and actual new projects before calling the whole IC-design group a loser.
+- Let taste develop through a price ladder. Expensive wine or another hobby can buy history and culture, but affordable adjacent samples may deliver the best value; do not turn someone else's utility function into a joke.
+- Treat AI agent productivity as task expansion first. If tools make new work possible, the operator may become busier even while output rises; responsibility and boundaries still need a human owner.
+- Treat full-time investing as another job with income volatility. Cash runway, family expenses, drawdown tolerance, strategy fit and a return route matter before the freedom story.
+- Combine fundamental and technical strengths without copying another person's whole method. A simple ten-day-line or monthly-line exit can be tested, but it should be treated as a small backtestable rule rather than a new religion.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

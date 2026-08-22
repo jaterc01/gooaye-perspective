@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP689 Markdown transcripts; public-synced Markdown currently reaches EP687, with EP688-EP689 provisional local ASR artifacts.
-- Count observed after refresh on 2026-08-19: 689 top-level Markdown transcripts through `EP689.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP690 Markdown transcripts; public-synced Markdown currently reaches EP689, with EP690 a provisional local ASR artifact.
+- Count observed after refresh on 2026-08-22: 690 top-level Markdown transcripts through `EP690.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh: 2026-08-19
 
@@ -899,7 +899,9 @@ Skill implication: when users ask about stops or adding, do not output a single 
 
 EP659 makes the health/body point explicit: weight, mobility, functional training, sleep quality, and recovery are not lifestyle ornaments; they determine how well the person can keep operating through volatile markets. EP660 extends this into sleep and cooling: in overheated markets, the operator needs recovery systems that reduce impulsive decisions. EP661 adds a curiosity discipline: sample widely enough to build taste, but keep recalibrating so the price tag does not become the decision. EP662 adds the medical-risk and support-system layer: health uncertainty, family backup, and trusted experts change how much risk a person can actually carry. EP663 turns body maintenance into a full system: weight, mobility, pain, coaching, and physical therapy all become operator infrastructure. EP664 adds the home/family utility layer: generic liquidity or location rules are secondary to how the household will actually live with the asset. EP665 adds eyes, attention, and deliberate slowness: the operator needs not only stamina but also sustainable sensory input and the ability to notice small details. EP666 turns slowness into a practical feedback loop: noticing breath, posture, small routines, and body tension can directly change physical pain and decision rhythm. EP667 adds taste-language training: slowing down enough to name sensations turns vague preference into a reusable decision vocabulary. EP668 adds personal-output taste: automation should remove commodity labor, not erase the human flavor that creates trust. EP669 adds energy allocation after success: health, family, creative work and future projects should decide whether continuing the same money game still makes sense. EP670 adds instruction-manual humility and attention hygiene: the operator protects health, capital and mood by reading high-risk rules and muting low-quality inputs. EP671 adds random-path humility: do not judge a career, side business or life turn only by its final result; manage experiment size, support and reversibility. EP672 adds family-phase and taste-context humility: temporary conflict, social energy, food preference and operator fatigue should be sized and handled without turning one moment into a permanent identity sentence. EP673 adds independence-building: freedom to mute, refuse or leave depends on cash flow, credentials and support routes. EP674 adds highlight-reel humility: first-half performance should be reviewed without letting a mark date become identity. EP675 adds public commitment and health maintenance: signing up for a 10K is a way to make the operator keep paying attention to the body. EP676 adds family-logistics realism: parenting, travel, real estate and summer planning should be judged by recurring load, flexibility and the short window when children still want shared time. EP689 adds motivation-before-method, child utility over adult price, personal drawdown and breadth, Components/Bottleneck/Value Add separation, adjacent-island industry research, report truth versus investability, compensation/team trade-offs, AI language practice, and creative-capital proof.
 
-Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, and whether the system is sustainable.
+EP690 adds COT economics, price-band taste building, AI productivity that expands work, full-time investing as a high-pressure job, and complementary fundamental/technical methods.
+
+Skill implication: when users ask about performance, execution, career, or burnout, do not only discuss tactics. Ask what is happening to the operator: sleep, attention, body, family time, income runway, and whether the system is sustainable.
 
 ## Latest transcript refresh: 2026-08-12
 
@@ -912,6 +914,18 @@ Result:
 - EP687 was downloaded from the SoundOn enclosure and transcribed into `EP687.md`, `EP687.raw.txt`, and `EP687.raw.json` with `faster-whisper-medium`, CUDA `float16`, `condition_on_previous_text=False`; metadata reports 3144.5943125 seconds, language `zh`, probability `1.0`.
 - The transcript applies only high-confidence corrections for recurring finance, technology, place, brand and homophone terms. Proper nouns, English, sponsor wording, exact numbers, listener names, jokes and ambiguous homophones still require audio or eventual public-transcript review.
 - Retain EP683, EP684, EP686 and EP687 MP3s until GitHub and Hermes HEAD/content verification completes.
+
+## Latest transcript refresh: 2026-08-22
+
+On 2026-08-22, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- SoundOn RSS exposes `EP690 | ⛳`, published `2026-08-22T07:30:59Z` (Taipei 15:30:59), with a roughly 2999-second enclosure. Apple lookup reports `trackCount=690`; its collection release-date field still reflects the prior item, so RSS is the authoritative publication timestamp for this refresh.
+- `whatmkreallysaid.com/episodes.json` now exposes 689 public transcript entries through `EP689_乖寶寶點數與房間裡的大象.md`. Public EP688 and EP689 Markdown replaced the prior local provisional Markdown; their historical `.raw.*` files remain as provenance.
+- EP690 was downloaded from the SoundOn enclosure and transcribed into `EP690.md`, `EP690.raw.txt`, and `EP690.raw.json` with `faster-whisper-medium`, CUDA `float16`, and `condition_on_previous_text=False`; metadata reports 2998.961625 seconds, 1653 corrected segments, language `zh`, probability `1.0`.
+- High-confidence cleanup covers NordVPN, Project Hail Mary, Cabernet Sauvignon, Burgundy/Pinot Noir, Marvell/Broadcom/MediaTek, COT, SerDes, roadmap, hedging, Micron, full-time investing, AI agent and ten-day-line terminology. Proper nouns, English, sponsor wording, exact figures, listener names, jokes, medical passages and ambiguous homophones remain provisional.
+- Retain `EP688.mp3`, `EP689.mp3` and `EP690.mp3` until GitHub and Hermes HEAD/content verification completes.
 
 ## Expression notes
 

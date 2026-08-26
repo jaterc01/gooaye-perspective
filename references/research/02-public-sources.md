@@ -1,5 +1,14 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-26
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP691 | 🎂`, published `2026-08-26T07:30:00Z` (Taipei 15:30), with description lead `門外有人`; the enclosure URL is `https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/00bd1c70-5749-475b-af00-28c1b8751e41/rssFileVip.mp3?timestamp=1787729455630`.
+- [Apple lookup](https://itunes.apple.com/lookup?id=1500839292&entity=podcast) reports `trackCount=691` and points to the same SoundOn feed. Its collection `releaseDate` can lag the newest item, so RSS remains the timestamp authority.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) and the public Apple show page expose EP691; the page is used as a publication and ordering cross-check.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) exposes 690 public transcript entries through `EP690_黑皮諾平替記與Google的COT轉向.md`; EP690 was synchronized locally, while no public EP691 Markdown was available during this refresh.
+- EP691 was therefore downloaded from the SoundOn enclosure and transcribed locally with faster-whisper `medium` on CUDA `float16`, `condition_on_previous_text=False`; the local artifact reports 2994.4946875 seconds, 1581 segments, language `zh`, probability `1.0`.
+- EP691 adds human-front-end/AI-back-end workflow separation, social-signal timing versus AI summarization, task-specific tool routing, confidence versus alpha, human responsibility for leverage, and work/family flexibility. The Markdown remains provisional until a public transcript and human audio review are available.
+
 ## Latest episode check: 2026-08-22
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP690 | ⛳`, published `2026-08-22T07:30:59Z` (Taipei 15:30:59); the enclosure GUID is `028c8a8c-0fb3-4c46-b2c4-28e2df4be37b`, and the description lead is `ankle biters assemble`.

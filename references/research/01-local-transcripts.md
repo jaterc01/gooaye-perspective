@@ -927,6 +927,19 @@ Result:
 - High-confidence cleanup covers NordVPN, Project Hail Mary, Cabernet Sauvignon, Burgundy/Pinot Noir, Marvell/Broadcom/MediaTek, COT, SerDes, roadmap, hedging, Micron, full-time investing, AI agent and ten-day-line terminology. Proper nouns, English, sponsor wording, exact figures, listener names, jokes, medical passages and ambiguous homophones remain provisional.
 - Retain `EP688.mp3`, `EP689.mp3` and `EP690.mp3` until GitHub and Hermes HEAD/content verification completes.
 
+## Latest transcript refresh: 2026-08-26
+
+On 2026-08-26, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts public page were checked again.
+
+Result:
+
+- SoundOn RSS and Apple expose `EP691 | 🎂`, published `2026-08-26T07:30:00Z` (Taipei 15:30). SoundOn provides the MP3 enclosure used for local transcription; Apple lookup reports `trackCount=691` while its collection release-date field may lag.
+- `whatmkreallysaid.com/episodes.json` exposes 690 public transcript entries through EP690. The local `EP690.md` was replaced with the public Markdown version; its historical `.raw.*` files remain as provenance. No public EP691 Markdown was available during this refresh.
+- EP691 was downloaded to `%TEMP%\gooaye-skill\EP691.mp3` and transcribed into `EP691.md`, `EP691.raw.txt`, and `EP691.raw.json` with faster-whisper `medium`, CUDA `float16`, and `condition_on_previous_text=False`. Metadata reports 2994.4946875 seconds, 1581 segments, language `zh`, probability `1.0`; the MP3 SHA-256 is `598D9EB0DD9E1B0C0B1F8EF2B2B2863D8A4E847A4EFE72443DC2C01E6399B44`.
+- High-confidence cleanup covers the opening, Philips sponsor wording, Hokkaido place names, Threads/Perplexity/Anthropic, COT and AI workflow vocabulary, `Placebo`, `戒菸`, and recurring homophones. The transcript has not received line-by-line human audio review; listener names, English jokes, product names, exact figures, medical passages and ambiguous homophones remain provisional.
+- EP691's usable additions are human-front-end signal recognition versus AI back-end processing, source timing versus AI summarization, task-specific tool routing, confidence versus alpha, human ownership of leverage, and family/work flexibility.
+- Retain `EP689.mp3`, `EP690.mp3` and `EP691.mp3` until GitHub and Hermes HEAD/content verification completes.
+
 ## Expression notes
 
 Common rhetorical moves:

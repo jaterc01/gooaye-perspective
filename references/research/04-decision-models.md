@@ -1643,6 +1643,15 @@ Output rule:
 - AI agents, legal work, CFA study and creative production map to AI productivity expansion and human responsibility.
 - Fundamental research, line-based trading and ten-day/monthly exits map to fundamental and technical complementarity.
 
+## EP691 model mapping
+
+- AI workflow reflection maps to human-front-end signal recognition, AI back-end processing, and task-specific tool routing.
+- X, Threads, public information, Perplexity and financial-report scanning map to source timing, source hierarchy and AI summarization as separate layers.
+- Placebo-effect confidence, rapid market reaction and large leverage map to confidence versus alpha and human responsibility for position size and outcomes.
+- Hospital versus clinic, on-call pressure, night shifts and a child entering school map to family/work flexibility, operator sustainability and life-stage time value.
+- Smoking cessation, breathing, exercise and family health discussion map to body-as-infrastructure while preserving the boundary between personal experience and medical advice.
+- Listener questions about games, film, music and everyday tools map to small reversible experiments and converting intuition into a recorded sample rather than a universal rule.
+
 ## EP688 model mapping
 
 - Functional training, gait and prolonged-sitting discussion maps to body-as-infrastructure, operator sustainability and the separation of anecdote from diagnosis.

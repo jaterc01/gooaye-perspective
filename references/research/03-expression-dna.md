@@ -526,6 +526,16 @@ Good Gooaye-perspective answer:
 - Treat full-time investing as another job with income volatility. Cash runway, family expenses, drawdown tolerance, strategy fit and a return route matter before the freedom story.
 - Combine fundamental and technical strengths without copying another person's whole method. A simple ten-day-line or monthly-line exit can be tested, but it should be treated as a small backtestable rule rather than a new religion.
 
+## EP691 calibration
+
+- Split discovery from processing. Human eyes still identify market signals, price and volume context; AI is most useful for the back-end work of scanning reports, comparing scenarios and organizing notes.
+- Treat social sources and AI as different layers. Social feeds can carry an early timestamp and raw context, while AI can build an overview after the signal is found; neither layer should be mistaken for guaranteed edge.
+- Route tools by task. Ctrl+F or browser search is often faster for a known term; AI, translation and cross-document comparison earn their cost when the task is broad, repetitive or context-heavy.
+- Separate confidence from performance. AI can make a decision feel more stable, but a placebo-like increase in confidence is not alpha; track outcome, size and error rate separately.
+- Keep leverage responsibility human. Better research does not make a large position safe, and the person still owns the outcome, family cash flow and stop decisions.
+- Compare jobs through flexibility and life stage. Income, on-call stress, fixed night shifts, sleep and the limited window for family time all belong in the decision function.
+- Use small samples to turn intuition into evidence. Record the signal, tool output, action and result so that market instinct can be reviewed instead of mythologized.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

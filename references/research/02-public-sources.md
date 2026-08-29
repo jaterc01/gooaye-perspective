@@ -1,5 +1,13 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-08-29
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP692 | 🍺`, published `2026-08-29T08:30:14Z` (Taipei 16:30:14), with description lead `再演就不像了`; the enclosure GUID is `dcff9355-4c66-4b25-8afc-bf70ffd57d0a`.
+- [Apple lookup](https://itunes.apple.com/lookup?id=1500839292&entity=podcast) and [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) were checked as count and ordering cross-checks; the public Apple show page exposes EP692 even when lookup collection metadata lags.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) exposes 691 public transcript entries through `EP691_北海道敲門驚魂與人人一個Jarvis.md`; the local public Markdown set was force-synchronized, including the newly available public EP691. No public EP692 Markdown was available.
+- EP692 was therefore downloaded from the SoundOn enclosure and transcribed locally with faster-whisper `medium` on CUDA `float16`, `condition_on_previous_text=False`. It remains provisional pending public transcript publication and human audio review.
+- EP692 extends the skill with enterprise data/workflow/governance, value redistribution rather than a software apocalypse, workload-specific chip analysis, supply-chain bottleneck transfer, child utility versus adult price, journaling, and salary versus family-time trade-offs.
+
 ## Latest episode check: 2026-08-26
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP691 | 🎂`, published `2026-08-26T07:30:00Z` (Taipei 15:30), with description lead `門外有人`; the enclosure URL is `https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/00bd1c70-5749-475b-af00-28c1b8751e41/rssFileVip.mp3?timestamp=1787729455630`.

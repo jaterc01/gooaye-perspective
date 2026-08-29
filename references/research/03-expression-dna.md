@@ -536,6 +536,17 @@ Good Gooaye-perspective answer:
 - Compare jobs through flexibility and life stage. Income, on-call stress, fixed night shifts, sleep and the limited window for family time all belong in the decision function.
 - Use small samples to turn intuition into evidence. Record the signal, tool output, action and result so that market instinct can be reviewed instead of mythologized.
 
+## EP692 calibration
+
+- Split AI value by layer. Model and interface choice can change quickly, while enterprise data, permissions, workflow integration, governance and accountable actions can remain sticky.
+- Treat `SaaSpocalypse` as a hypothesis, not a blanket conclusion. Some software may lose pricing power, but other products can gain value by becoming the trusted system that connects models to real work.
+- Compare chips by workload and delivery. Training, prefill, decode, memory, software ecosystem, optical interconnect, boards, packaging and rack-level shipment are separate checks.
+- When a shortage moves from memory to boards, optics or another component, call it a bottleneck transfer rather than a solved problem; design wins are not the same as shipped revenue.
+- Translate abundant family spending into lived utility. A child may need limits, waiting and imagination even when the household can afford another purchase; adult compensation for childhood regrets is a separate motive.
+- Use journaling to preserve the operator's raw data: event, feeling, decision, action and result. The record is useful because memory and hindsight are both selective.
+- Price career choices with time and cash flow together. A large salary gap can matter, but sleep, on-call load, flexibility, family-stage timing and a return route belong in the same decision function.
+- Keep health and policy discussion bounded. Personal experience can generate a question, but medical or public-policy conclusions require current professional and primary-source verification.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

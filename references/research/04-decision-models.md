@@ -1621,6 +1621,97 @@ Output rule:
 
 > Keep the method you understand, then add one measurable tool that repairs the missing side.
 
+## 113. Enterprise AI moat by layer
+
+EP692's Salesforce/Anthropic discussion separates replaceable model and interface choices from sticky enterprise data, permissions, workflows, governance and accountable actions.
+
+Ask:
+
+- Which layer owns the customer relationship, data access, business rules and final action?
+- Is the integration adding durable workflow value, or merely moving a model into a new screen?
+
+Output rule:
+
+> Follow the data, permissions, workflow and bill—not the loudest model announcement.
+
+## 114. Software value redistribution, not a blanket apocalypse
+
+EP692 rejects a one-cut `SaaSpocalypse` narrative. AI can compress one software layer while increasing the value of trusted data, distribution, integration and delivery responsibility elsewhere.
+
+Ask:
+
+- What product is actually being replaced, and what customer task or budget is expanding?
+- Who is still trusted to connect the model to real records and real-world actions?
+
+Output rule:
+
+> Rebuild the value map before declaring an entire software category dead.
+
+## 115. Workload-specific chip comparison
+
+EP692 compares inference claims by workload rather than by a single benchmark. Training, prefill, decode, memory, software ecosystem, customer switching cost and deployment fit must be separated.
+
+Ask:
+
+- Is the advantage measured in training, prefill, decode, token cost, latency or total system throughput?
+- What software, capacity, customer and fallback constraints remain after the benchmark?
+
+Output rule:
+
+> A fast chip in one workload is evidence, not a complete investment conclusion.
+
+## 116. Bottleneck transfer and delivery proof
+
+EP692's optical, memory, board and rack discussion treats shortages as movable constraints. A design win is not shipment, and shipment is not yet durable revenue.
+
+Ask:
+
+- Did the constraint disappear, or move from memory to boards, optics, packaging or capacity?
+- What evidence connects the roadmap to volume shipment, pricing and financial contribution?
+
+Output rule:
+
+> When the bottleneck moves, update the map; do not mark the system unconstrained.
+
+## 117. Child utility versus adult compensation
+
+EP692's parenting discussion distinguishes a child's actual joy and learning from an adult's attempt to repair childhood scarcity through unlimited purchases.
+
+Ask:
+
+- Is the spending buying interaction, exploration and durable interest, or only the next purchase cycle?
+- Where can waiting, selection and limits protect imagination and appreciation?
+
+Output rule:
+
+> Price the child's lived utility, not the adult's guilt.
+
+## 118. Journal as evidence against hindsight
+
+EP692 treats a simple journal with photos, context and feelings as a way to preserve raw evidence. The same loop applies to trades: signal, reason, action and result.
+
+Ask:
+
+- What did the operator know and feel before the outcome was visible?
+- Can the record distinguish repeatable signal from selective memory?
+
+Output rule:
+
+> Record the process before trusting the story the outcome tells.
+
+## 119. Salary, time and family-stage pricing
+
+EP692's career discussion prices salary against sleep, on-call burden, fixed shifts, flexibility, family timing and the ability to return later.
+
+Ask:
+
+- How large is the cash-flow difference after accounting for time, health and support costs?
+- Which part of the family window is scarce or irreversible, and what fallback route remains?
+
+Output rule:
+
+> A job offer is a portfolio decision whose scarce asset may be time.
+
 ## EP689 model mapping
 
 - Functional training, iPod photo and AI English discussion map to motivation-before-method and AI language-practice routing.
@@ -1651,6 +1742,14 @@ Output rule:
 - Hospital versus clinic, on-call pressure, night shifts and a child entering school map to family/work flexibility, operator sustainability and life-stage time value.
 - Smoking cessation, breathing, exercise and family health discussion map to body-as-infrastructure while preserving the boundary between personal experience and medical advice.
 - Listener questions about games, film, music and everyday tools map to small reversible experiments and converting intuition into a recorded sample rather than a universal rule.
+
+## EP692 model mapping
+
+- Salesforce/Anthropic and the 37-skill enterprise integration map to the enterprise AI moat by layer and software value redistribution models.
+- OAI inference claims, NVIDIA roadmap discussion and custom XPU constraints map to workload-specific chip comparison rather than single-benchmark conclusions.
+- Marvell optical interconnect, memory, boards and rack shipment map to bottleneck transfer and delivery proof.
+- Taiwan Beer promotion, Hokkaido shopping and children's cards map to child utility versus adult compensation and resource-boundary design.
+- Journal, emotional trading notes and questions about salary versus family time map to journaling against hindsight and salary/time/family-stage pricing.
 
 ## EP688 model mapping
 

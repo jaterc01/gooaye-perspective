@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP690 Markdown transcripts; public-synced Markdown currently reaches EP689, with EP690 a provisional local ASR artifact.
-- Count observed after refresh on 2026-08-22: 690 top-level Markdown transcripts through `EP690.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP692 Markdown transcripts; public-synced Markdown currently reaches EP691, with EP692 a provisional local ASR artifact.
+- Count observed after refresh on 2026-08-29: 692 top-level Markdown transcripts through `EP692.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh: 2026-08-19
 
@@ -939,6 +939,20 @@ Result:
 - High-confidence cleanup covers the opening, Philips sponsor wording, Hokkaido place names, Threads/Perplexity/Anthropic, COT and AI workflow vocabulary, `Placebo`, `戒菸`, and recurring homophones. The transcript has not received line-by-line human audio review; listener names, English jokes, product names, exact figures, medical passages and ambiguous homophones remain provisional.
 - EP691's usable additions are human-front-end signal recognition versus AI back-end processing, source timing versus AI summarization, task-specific tool routing, confidence versus alpha, human ownership of leverage, and family/work flexibility.
 - Retain `EP689.mp3`, `EP690.mp3` and `EP691.mp3` until GitHub and Hermes HEAD/content verification completes.
+
+## Latest transcript refresh: 2026-08-29
+
+On 2026-08-29, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
+
+Result:
+
+- SoundOn RSS exposes `EP692 | 🍺`, published `2026-08-29T08:30:14Z` (Taipei 16:30:14), with a 2998.961625-second enclosure. The MP3 SHA-256 is `4AF31BBC8CD96F14E75D9F1F928A6ACBB037BE9255E2A3F356CF31B863DD70E8`.
+- Apple Podcasts' public show page also exposes EP692; the Apple lookup feed count remains a useful cross-check but its collection metadata can lag the newest episode.
+- `whatmkreallysaid.com/episodes.json` exposes 691 public transcript entries through `EP691_北海道敲門驚魂與人人一個Jarvis.md`. The local public Markdown set was force-synchronized, so EP691 now uses the public version while its historical `.raw.*` files remain as provenance. No public EP692 Markdown was available.
+- EP692 was transcribed from the SoundOn enclosure into `EP692.md`, `EP692.raw.txt`, and `EP692.raw.json` with faster-whisper `medium`, CUDA `float16`, and `condition_on_previous_text=False`. Metadata reports 2998.961625 seconds, 1615 segments, language `zh`, probability `1.0`.
+- High-confidence cleanup covers the Taiwan Beer opening, Hokkaido and wine names, LINE POINTS, Anthropic/Claudeforce/SaaSpocalypse, optical interconnect, KV cache and NVIDIA terminology. The transcript has not received line-by-line human audio review; listener names, English phrases, exact figures, OAI chip naming, medical passages and ambiguous homophones remain provisional.
+- EP692's usable additions are enterprise data/workflow/governance as an AI moat, value redistribution rather than a software apocalypse, workload-specific chip analysis, supply-chain bottleneck transfer, child utility versus adult compensation, journaling as evidence, and salary versus family-time trade-offs.
+- Retain `EP690.mp3`, `EP691.mp3` and `EP692.mp3` until GitHub and Hermes HEAD/content verification completes.
 
 ## Expression notes
 

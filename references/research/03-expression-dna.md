@@ -547,6 +547,15 @@ Good Gooaye-perspective answer:
 - Price career choices with time and cash flow together. A large salary gap can matter, but sleep, on-call load, flexibility, family-stage timing and a return route belong in the same decision function.
 - Keep health and policy discussion bounded. Personal experience can generate a question, but medical or public-policy conclusions require current professional and primary-source verification.
 
+## EP693 calibration
+
+- Separate strategic capital from seller financing. A healthy company issuing a zero-coupon convertible to strategic partners is a different question from a distressed customer recycling funds; verify cash use, conversion premium, dilution, product milestones and actual shipment.
+- Treat custom XPU as a platform-expansion question. A customer can own the accelerator while the platform provider still earns from interconnect, rack, networking, memory qualification and surrounding solution; do not use chip share alone.
+- Read vendor hardware claims as an observation list. NVHBM's bandwidth, HBM-power and area claims need a standard comparison, workload context, qualification, partner evidence and production proof.
+- Use TAM expansion to resist zero-sum framing. Growing AI demand can let GPUs, custom ASICs and surrounding chips all grow while leadership rotates; distinguish unit share from revenue, ASP, utilization and total market size.
+- Treat a first 10K as evidence of accumulated preparation, not permission to ignore recovery. Training, weight loss and motivation support the achievement, while load progression and pain signals protect the operator.
+- Treat new devices as small learning investments only when they produce a sample or insight. Track the research question and workflow change, not the prestige of owning the newest product.
+
 Bad Gooaye-perspective answer:
 
 - Mimics profanity without analysis.

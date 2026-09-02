@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP692 Markdown transcripts; public-synced Markdown currently reaches EP691, with EP692 a provisional local ASR artifact.
-- Count observed after refresh on 2026-08-29: 692 top-level Markdown transcripts through `EP692.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP693 Markdown transcripts; public-synced Markdown currently reaches EP692, with EP693 a provisional local ASR artifact.
+- Count observed after refresh on 2026-09-02: 693 top-level Markdown transcripts through `EP693.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh: 2026-08-19
 
@@ -953,6 +953,19 @@ Result:
 - High-confidence cleanup covers the Taiwan Beer opening, Hokkaido and wine names, LINE POINTS, Anthropic/Claudeforce/SaaSpocalypse, optical interconnect, KV cache and NVIDIA terminology. The transcript has not received line-by-line human audio review; listener names, English phrases, exact figures, OAI chip naming, medical passages and ambiguous homophones remain provisional.
 - EP692's usable additions are enterprise data/workflow/governance as an AI moat, value redistribution rather than a software apocalypse, workload-specific chip analysis, supply-chain bottleneck transfer, child utility versus adult compensation, journaling as evidence, and salary versus family-time trade-offs.
 - Retain `EP690.mp3`, `EP691.mp3` and `EP692.mp3` until GitHub and Hermes HEAD/content verification completes.
+
+## Latest transcript refresh: 2026-09-02
+
+On 2026-09-02, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple lookup, and the Apple Podcasts Taiwan public page were checked again.
+
+Result:
+
+- SoundOn RSS exposes `EP693 | 🍖`, published `2026-09-02T07:30:19Z` (Taipei 15:30:19), with a 2985-second enclosure. The downloaded MP3 is `51,036,995` bytes with SHA-256 `48C4FCCCC4A0E835AFDD181974CAE0054CEF7B399521CE301CB4374BE99AB180`.
+- Apple lookup reports `trackCount=693`, and the Apple Taiwan public page exposes the EP693 episode page. `whatmkreallysaid.com/episodes.json` still exposes 692 public transcript entries through EP692, so no public EP693 Markdown was available.
+- EP693 was transcribed from the SoundOn enclosure into `EP693.md`, `EP693.raw.txt`, and `EP693.raw.json` with faster-whisper `medium`, CUDA `float16`, and `condition_on_previous_text=False`. Metadata reports 2984.098 seconds, 1643 segments, language `zh`, probability `1.0`.
+- High-confidence cleanup covers the sponsor opening, `三聲買`, `米香腸`, `試單組`/`重倉`, `腹脇豬肋條`, `NVIDIA`, `ECB`, `NVL72`, `NVLink Fusion`, `NVHBM`, `HBM4E`, `Broadcom`, `Jalapeño`, `Hock Tan`, `Humufish`, and recurring market homophones. Proper nouns, English, exact figures, sponsor details, listener names, jokes, medical/health passages and ambiguous homophones remain provisional.
+- EP693's usable additions are the difference between strategic capital and seller financing, custom XPU versus total-platform value, a verification gate for vendor hardware claims, TAM expansion versus zero-sum share loss, accumulated preparation behind a first 10K, and device purchases as small research samples.
+- Retain `EP690.mp3`, `EP691.mp3`, `EP692.mp3` and `EP693.mp3` until GitHub and Hermes HEAD/content verification completes.
 
 ## Expression notes
 

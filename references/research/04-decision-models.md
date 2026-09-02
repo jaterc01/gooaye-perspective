@@ -1712,6 +1712,90 @@ Output rule:
 
 > A job offer is a portfolio decision whose scarce asset may be time.
 
+## 120. Strategic capital versus seller financing
+
+EP693's MediaTek discussion separates a strategic partner's convertible-bond investment from financing that merely recycles a customer's purchase money. The distinction depends on the issuer's standalone health, the use of proceeds, the coupon, conversion premium, dilution and product milestones.
+
+Ask:
+
+- Does the company already have durable revenue, cash flow and independent demand?
+- What exactly does each investor receive: a financial option, a platform relationship, a purchase commitment or all three?
+- What public evidence would show that the money became capacity, R&D or shipped products rather than circular financing?
+
+Output rule:
+
+> A famous investor is evidence of a relationship, not proof that the economics are good.
+
+## 121. Custom XPU and total-platform capture
+
+EP693's NVIDIA/MediaTek discussion treats custom XPU as compatible with a wider platform provider's value capture. The customer may own the accelerator while still using interconnect, rack architecture, networking, memory qualification or deployment software.
+
+Ask:
+
+- Which layer is being customized, and which layers remain supplied by the platform provider?
+- Is the relevant comparison chip share, rack content, system gross profit, or total AI-factory spend?
+- Does the announced connection have a customer, qualification path and shipment timeline?
+
+Output rule:
+
+> An XPU win can be a platform expansion for one company and a share loss for another at the same time.
+
+## 122. Vendor-claim-to-deployment gate
+
+EP693's NVHBM discussion treats bandwidth, area and power improvements as vendor claims that require a deployment gate. A public technical note is useful evidence, but it is not an independent benchmark or a revenue forecast.
+
+Ask:
+
+- What is the comparison baseline, such as standard HBM4E, and is the gain measured per stack, die, package or rack?
+- Which workload benefits: training, prefill, decode, memory-bound inference or a broader system mix?
+- Are partner qualification, volume production, customer deployment and total-system economics visible?
+
+Output rule:
+
+> A specification claim becomes an investment fact only after workload, qualification and shipment survive cross-checking.
+
+## 123. TAM expansion versus zero-sum share loss
+
+EP693 argues that custom ASICs, GPUs and surrounding platforms can all grow while AI demand expands. Unit share can move without revenue moving in the same direction, so market size, ASP, utilization, shipment and system content must be separated.
+
+Ask:
+
+- Is the total market still expanding, or is the argument only reallocating a fixed pool?
+- Does the new design reduce another supplier's units, dollars, margin or only its narrative premium?
+- Which public shipment, capital-spending, customer and roadmap data can distinguish option value from realized demand?
+
+Output rule:
+
+> Do not call a growing market zero-sum before you have compared both share and the size of the pool.
+
+## 124. Preparation, achievement and recovery
+
+EP693's first 10K discussion turns a personal milestone into an operator model: weight loss, functional training, motivation and repeated practice explain the achievement, while recovery and load progression determine whether it can continue.
+
+Ask:
+
+- What preparation made the result possible, and what new load does the result now tempt the person to add?
+- Is the next step reversible and gradual, or is excitement hiding a pain or recovery signal?
+- Where does personal experience end and professional health guidance begin?
+
+Output rule:
+
+> A milestone proves accumulated preparation; it does not cancel the operating manual.
+
+## 125. Research consumption and sample value
+
+EP693's device and game discussion treats new purchases as research only when they answer a defined question or change a workflow. The budget buys a sample, not status.
+
+Ask:
+
+- What will the new device, game or tool let the person observe that existing samples cannot?
+- What is the affordable learning budget, and what result would justify stopping or not upgrading again?
+- Is the lasting value the product itself, or the taste and knowledge accumulated from using it?
+
+Output rule:
+
+> Buy a new thing when it buys a new observation, not merely a new logo.
+
 ## EP689 model mapping
 
 - Functional training, iPod photo and AI English discussion map to motivation-before-method and AI language-practice routing.
@@ -1750,6 +1834,14 @@ Output rule:
 - Marvell optical interconnect, memory, boards and rack shipment map to bottleneck transfer and delivery proof.
 - Taiwan Beer promotion, Hokkaido shopping and children's cards map to child utility versus adult compensation and resource-boundary design.
 - Journal, emotional trading notes and questions about salary versus family time map to journaling against hindsight and salary/time/family-stage pricing.
+
+## EP693 model mapping
+
+- NVIDIA/MediaTek's convertible-bond investment, strategic partnership and seller-financing question map to strategic capital versus seller financing.
+- NVLink Fusion, custom XPU, rack, networking, NVHBM and MediaTek's design role map to custom-XPU total-platform capture and the vendor-claim-to-deployment gate.
+- Google TPU 8t/8i, OpenAI Jalapeño and the discussion of ASIC/GPU competition map to TAM expansion versus zero-sum share loss, with workload and shipment timing kept separate.
+- The first 10K, prior weight loss and functional training map to preparation, achievement and recovery.
+- The foldable iPhone, games and new tools map to research consumption, sample value and personal taste rather than prestige consumption.
 
 ## EP688 model mapping
 

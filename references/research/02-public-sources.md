@@ -1,5 +1,15 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-09-02
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP693 | 🍖`, published `2026-09-02T07:30:19Z` (Taipei 15:30:19), with a 2985-second enclosure. The item GUID is `8523446e-c80a-4aac-a9cd-34adad88e4c2`.
+- [Apple lookup](https://itunes.apple.com/lookup?id=1500839292&entity=podcast) reports `trackCount=693`; [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/ep693/id1500839292?i=1000787345688) exposes the EP693 page and the same SoundOn stream.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 692 public transcript entries through EP692. No public EP693 Markdown was available during this refresh, so the local EP693 transcript remains provisional.
+- EP693 was downloaded and transcribed locally with faster-whisper `medium` on CUDA `float16`, `condition_on_previous_text=False`; the MP3 is 51,036,995 bytes with SHA-256 `48C4FCCCC4A0E835AFDD181974CAE0054CEF7B399521CE301CB4374BE99AB180`, and the local artifact reports 2984.098 seconds and 1643 segments.
+- [NVIDIA's official announcement](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-MediaTek-Deepen-Long-Standing-Partnership-to-Build-AI-Edge-to-Cloud-Computing-Platforms/default.aspx) confirms the MediaTek collaboration, NVLink Fusion adoption and NVIDIA's $3.5 billion convertible-bond investment. [NVIDIA's technical note](https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/) publishes NVHBM's vendor-stated bandwidth, area and power claims; those figures remain claims requiring workload, qualification and shipment checks.
+- [Google's TPU 8t/8i announcement](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/) separates TPU 8t training from TPU 8i agentic inference. [OpenAI's official Jalapeño announcement](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/) confirms the Broadcom co-developed inference-chip and multi-generation platform framing.
+- EP693 extends the skill with strategic capital versus seller financing, custom XPU versus total-platform value, vendor-claim verification gates, TAM expansion versus zero-sum share loss, accumulated preparation behind a first 10K, and device purchases as small research samples.
+
 ## Latest episode check: 2026-08-29
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP692 | 🍺`, published `2026-08-29T08:30:14Z` (Taipei 16:30:14), with description lead `再演就不像了`; the enclosure GUID is `dcff9355-4c66-4b25-8afc-bf70ffd57d0a`.

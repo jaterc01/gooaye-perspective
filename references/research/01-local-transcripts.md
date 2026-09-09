@@ -982,3 +982,17 @@ Avoid:
 - Overdoing catchphrases.
 - Turning the voice into pure profanity.
 - Making investment prescriptions.
+
+## Latest transcript refresh: 2026-09-09
+
+On 2026-09-09, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple Podcasts and public episode mirrors were checked again.
+
+Result:
+
+- The local corpus contains EP1-EP695. `whatmkreallysaid.com/episodes.json` exposes 693 public entries through EP693, so the local EP693 Markdown was replaced with the public version; the historical `.raw.*` artifacts remain as provenance.
+- SoundOn RSS exposes `EP694 | 🥖`, published `2026-09-05T07:30:33Z`, duration `3040` seconds, and `EP695 | 🍊`, published `2026-09-09T07:19:53Z`, duration `2995` seconds.
+- EP694 was transcribed into `EP694.md`, `EP694.raw.txt`, and `EP694.raw.json` with faster-whisper `medium`, CUDA `float16`, and `condition_on_previous_text=False`. Metadata reports `3039.08575` seconds, `1737` segments, language `zh`, probability `1.0`; the MP3 is `51,718,243` bytes with SHA-256 `8760381A2CF93347AA3025E5F507D0CB327BBA1EDE018818A72F15C10D573BAF`.
+- EP695 was transcribed into `EP695.md`, `EP695.raw.txt`, and `EP695.raw.json` with the same settings. Metadata reports `2994.4946875` seconds, `1707` segments, language `zh`, probability `1.0`; the MP3 is `47,523,065` bytes with SHA-256 `CF3725A9A96969BB2A9093CF0DDDC5100DDC1EF9A94F982C858F7D088F2F719D`.
+- High-confidence cleanup covers the opening name, StartSphere, Anthropic, Broadcom, MediaTek, NVIDIA, Salesforce, Wincool and the sponsor product terms. Remaining listener names, English jokes, exact figures, sponsor wording, medical passages, finance terminology and ambiguous homophones are still ASR-sensitive.
+- EP694 adds content inflation versus credit/taste, public-market momentum versus private-market value, Taiwan creative capital and AI tooling leverage. EP695 adds choppy-market pacing, Google/TPU payback, frontier/API premium compression, router/FDE delivery, optical supply-chain proof and necessary family boundaries.
+- Neither EP694 nor EP695 received line-by-line human audio review. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available; downloaded MP3 cleanup is conditional on GitHub and Hermes verification.

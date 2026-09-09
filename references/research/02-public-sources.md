@@ -396,3 +396,16 @@ Skill implications:
 - `whatmkreallysaid.com/episodes.json` still contains 678 public transcript entries and stops at EP678, so no public EP679 or EP680 Markdown was available.
 - The EP680 SoundOn enclosure was transcribed locally into `EP680.md`, `EP680.raw.txt`, and `EP680.raw.json`.
 - Historical status on 2026-07-18: EP679 and EP680 were provisional. The 2026-07-27 refresh superseded this after both public Markdown files had been synchronized; `.raw.*` files remain provenance.
+
+## Latest public-source check: 2026-09-09
+
+- The public transcript index at [whatmkreallysaid.com](https://whatmkreallysaid.com/episodes.json) exposes 693 entries through EP693, including `EP693_十公里初體驗與輝達插旗發哥.md`. This is the preferred transcript source when it is available.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP694 | 🥖` at `2026-09-05T07:30:33Z` and `EP695 | 🍊` at `2026-09-09T07:19:53Z`. The RSS durations are 3040 and 2995 seconds; their enclosure URLs were used for the two provisional local transcriptions.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) remains the primary public show-metadata cross-check. Regional Apple episode counts and collection fields can lag the newest RSS item, so the latest check treats RSS publication time as authoritative for EP694/EP695.
+- [Podfollow EP695](https://podfollow.com/gooaye-gu-yan/episode/e001cd66e71db273aa25c8fdba2c92427935ad09/view) independently lists EP695 and its note `原來印這麼快`, confirming the newest episode identity outside the RSS feed.
+- [StartSphere Taipei's public event page](https://luma.com/8p7yyyvx?locale=zh) provides supporting context for EP694's AI-and-entertainment forum discussion. It is background evidence, not a substitute for the episode audio or transcript.
+
+Interpretation boundary:
+
+- Public source presence confirms episode identity, timing and metadata; it does not prove every ASR sentence, investment claim, medical statement or joke.
+- EP694 and EP695 therefore remain provisional until a public transcript or line-by-line audio review is available. Preserve the original RSS URL and local raw artifacts for later reconciliation.

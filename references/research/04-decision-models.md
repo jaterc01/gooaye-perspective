@@ -1872,3 +1872,20 @@ Output rule:
 - `HBM 降規 / TPU 遞延 / 800V 中繼` maps to roadmap, cost, yield and timing analysis.
 - `Palantir 與 AI 不會整包幹掉軟體` maps to inference cost, stable delivery, data integration and accountability.
 - `動態盤面判讀` maps to evidence updates rather than fixed predictions.
+
+## EP694 model mapping
+
+- Content inflation, AI tooling and trusted creators map to content abundance versus scarce taste, craft, adoption and credit.
+- Public-market momentum versus Shaonan Capital's team/pipeline/deep-dive work maps to separate books for trading and private value investing.
+- Taiwan capital, indie/single-A/double-A studios, rented tools and Steam distribution map to creative-capital proof, fabless-style leverage and long-tail IP.
+- Broadcom, Frontier Labs, model financing and AI demand map to payback, external-cash dependence and infrastructure versus option-value accounting.
+- StartSphere, English speaking and overseas founders map to internationalization as capital, factory and investment activity rather than only consuming foreign media.
+
+## EP695 model mapping
+
+- High-index anxiety, repeated chasing and the `隔日沖的地獄` map to choppy-market pacing, preserved optionality and the separation of fundamentals from immediate price action.
+- Google Cloud, TPU, ASIC, capex and negative FCF map to equipment payback, contract recovery, utilization and infrastructure cash economics.
+- Frontier-model ranking, benchmark language and falling token premium map to workload-specific comparison and model/API commoditization.
+- Snowflake, router, data governance and FDE map to the trusted AI delivery layer: context, permissions, integration and human accountability.
+- CPO, FAU, PIC, active alignment and optical supply-chain discussion map to Components, Bottleneck and Value Add, with concept, qualification and shipment kept separate.
+- Parenting questions about food, school and brushing teeth map to necessary boundaries, reason-finding and choices within the task.

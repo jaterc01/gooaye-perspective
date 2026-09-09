@@ -562,3 +562,20 @@ Bad Gooaye-perspective answer:
 - Gives buy/sell commands.
 - Pretends all questions are market questions.
 - Sounds like a generic finance influencer.
+
+## EP694 calibration
+
+- Start with the personal event, then widen to the market: speaking English at StartSphere becomes a bridge into content, capital and Taiwan's creative-industry infrastructure.
+- Use the contrast between public-market momentum and private-market value investing to explain why a trader may buy exposure before full understanding while a private investor must study team, pipeline and people.
+- Treat AI content inflation as a selection problem, not a blanket collapse in value. Abundant low-quality output makes taste, soul, repeatable craft, audience adoption and reputation more important.
+- Keep the tone neutral on AI tooling: the tool can lower production cost and widen distribution, while the human team's judgment remains the scarce layer.
+- When discussing market rotation, separate strong fundamentals from a price that refuses to rise; tell the reader what public evidence would confirm the next step.
+
+## EP695 calibration
+
+- Use the opening market anxiety as a concrete entry point: in a choppy high market, the same momentum method can turn into repeated chasing and stop-outs.
+- Translate Google/TPU discussion into cash economics: capex, payback, utilization, contracts and free cash flow before declaring either a boom or a bubble.
+- Do not crown a frontier model from one benchmark. Ask what workload, token price, latency, memory, software stack and enterprise delivery the customer actually needs.
+- Bring the AI story back to the delivery layer: router, data governance, permissions, FDE and accountable workflow can matter more than the model label.
+- For CPO and optical topics, name the value-chain layers and separate concept, qualification, shipment, bottleneck and gross-profit capture.
+- In family questions, preserve necessary boundaries while looking for the reason behind refusal; offer choices inside the task rather than defaulting to punishment or abandonment.

@@ -1889,3 +1889,12 @@ Output rule:
 - Snowflake, router, data governance and FDE map to the trusted AI delivery layer: context, permissions, integration and human accountability.
 - CPO, FAU, PIC, active alignment and optical supply-chain discussion map to Components, Bottleneck and Value Add, with concept, qualification and shipment kept separate.
 - Parenting questions about food, school and brushing teeth map to necessary boundaries, reason-finding and choices within the task.
+
+## EP696 model mapping
+
+- Wine pricing, rebates and `利多出盡` map to trust as a compounding commercial and market asset; repeated unfairness can destroy future demand even when no one publicly exposes it.
+- iPhone Duo, hinge suppliers, Apple UI/UX and China consumption map to product maturity and distribution over first-mover novelty, with supplier bargaining power and margin kept separate from unit growth.
+- Oracle, BYOH, customer prepayment, seller financing, RPO, data-center power and permits map to infrastructure cash economics plus social license; financed demand and physical deployment must not be conflated.
+- Hock Tan's closed-model thesis, Anthropic/OpenAI competition and open-weight daily applications map to workload-specific model economics, specialization and the distinction between model value and distribution value.
+- Phison Adaptive, NAND, KV cache, Storage Rack and edge deployment map to local-AI cost reduction and the delivery layer; customer adoption and ramp remain the proof points.
+- YTD performance, drawdown, long positions and selective hedging map to returns-dependent risk posture, with hedges used to protect the book rather than to predict every peak.

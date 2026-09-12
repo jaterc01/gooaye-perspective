@@ -409,3 +409,15 @@ Interpretation boundary:
 
 - Public source presence confirms episode identity, timing and metadata; it does not prove every ASR sentence, investment claim, medical statement or joke.
 - EP694 and EP695 therefore remain provisional until a public transcript or line-by-line audio review is available. Preserve the original RSS URL and local raw artifacts for later reconciliation.
+
+## Latest public-source check: 2026-09-12
+
+- The public transcript index at [whatmkreallysaid.com](https://whatmkreallysaid.com/episodes.json) still exposes 693 entries through EP693; no public EP694-EP696 Markdown was available during this run.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP696 | 🎖️` at `2026-09-12T06:41:49Z`, duration 3151 seconds, with a new MP3 enclosure. The enclosure was downloaded for the provisional local transcription.
+- [Apple Podcasts EP696](https://podcasts.apple.com/tw/podcast/ep696/id1500839292?i=1000789144797) lists the title `考驗接著考驗`, a 53-minute duration and the 2026-09-12 publication date, independently confirming the episode identity.
+- EP696's audio-backed topics include commercial trust and repeated `利多出盡`, Apple's foldable-phone supply chain, Oracle data-center financing and local infrastructure constraints, closed/open-weight model economics, Phison Adaptive, and risk posture tied to year-to-date returns.
+
+Interpretation boundary:
+
+- RSS and Apple confirm episode identity, timing and metadata; they do not verify every locally transcribed sentence, exact financial figure, sponsor term or joke.
+- EP694-EP696 remain provisional until public transcripts or line-by-line audio review are available. Preserve the RSS URL, MP3 hash and local raw artifacts for later reconciliation.

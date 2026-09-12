@@ -996,3 +996,12 @@ Result:
 - High-confidence cleanup covers the opening name, StartSphere, Anthropic, Broadcom, MediaTek, NVIDIA, Salesforce, Wincool and the sponsor product terms. Remaining listener names, English jokes, exact figures, sponsor wording, medical passages, finance terminology and ambiguous homophones are still ASR-sensitive.
 - EP694 adds content inflation versus credit/taste, public-market momentum versus private-market value, Taiwan creative capital and AI tooling leverage. EP695 adds choppy-market pacing, Google/TPU payback, frontier/API premium compression, router/FDE delivery, optical supply-chain proof and necessary family boundaries.
 - Neither EP694 nor EP695 received line-by-line human audio review. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available; downloaded MP3 cleanup is conditional on GitHub and Hermes verification.
+
+## Latest transcript refresh: 2026-09-12
+
+- The local corpus contains EP1-EP696. `whatmkreallysaid.com/episodes.json` still exposes 693 public entries through EP693, so EP696 remains a local provisional transcript rather than a public-transcript sync.
+- SoundOn RSS exposes `EP696 | 🎖️`, published `2026-09-12T06:41:49Z`, with a 3151-second enclosure. Apple Podcasts independently lists EP696, titled `考驗接著考驗`, with a 53-minute duration.
+- EP696 was transcribed into `EP696.md`, `EP696.raw.txt`, and `EP696.raw.json` with faster-whisper `medium`, CUDA `float16`, and `condition_on_previous_text=False`. Metadata reports `3150.5501875` seconds, `1787` segments, language `zh`, probability `1.0`; the MP3 is `52,855,896` bytes with SHA-256 `CC96C1883F14F529DBF13B67359E864C27AF993DA5A3CE9EE5226A4888D9E4E3`.
+- High-confidence cleanup covers MAGEASY, Fidlock, Lenz, 百事可樂, 侍酒師, 風櫃嘴, 武嶺, 宙斯法則, 新日興, Amphenol, 射頻, 華強北, Anthropic, data center, NVIDIA, KV cache, 藤原拓海 and recurring market homophones. Ambiguous English, listener names, exact figures, sponsor wording, jokes, health passages and finance terminology remain provisional.
+- EP696 adds trust as a market and commercial asset, product maturity and distribution over first-mover novelty, data-center power/permit/social-license bottlenecks, closed versus open-weight model specialization, local AI cost reduction, and year-to-date-dependent defense posture.
+- EP696 has not received line-by-line human audio review. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available; downloaded MP3 cleanup is conditional on GitHub and Hermes verification.

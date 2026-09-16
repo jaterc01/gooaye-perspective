@@ -421,3 +421,14 @@ Interpretation boundary:
 
 - RSS and Apple confirm episode identity, timing and metadata; they do not verify every locally transcribed sentence, exact financial figure, sponsor term or joke.
 - EP694-EP696 remain provisional until public transcripts or line-by-line audio review are available. Preserve the RSS URL, MP3 hash and local raw artifacts for later reconciliation.
+
+## Latest public-source check: 2026-09-16
+
+- The public transcript index at [whatmkreallysaid.com](https://whatmkreallysaid.com/episodes.json) exposed 693 entries through EP693 during this run; no public EP694-EP697 Markdown was available.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposed `EP697 | 🔥`, published `2026-09-16T05:53:21Z`, with a new enclosure. The episode page is [SoundOn EP697](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/eb3399a6-5fd2-4191-a7ae-b7ab77ec2358).
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) independently returned 697 tracks with the latest release date `2026-09-16T05:53:00Z`; regional show pages can lag RSS, so the RSS GUID and publication time remain the episode identity anchor.
+- EP697's RSS description identifies the title as `you shall not pass!` and the sponsor as NordVPN. These sources confirm episode identity, timing and metadata, not every locally transcribed sentence, number, financial claim, health statement or joke.
+
+Interpretation boundary:
+
+- EP697 remains provisional until a public transcript or line-by-line audio review is available. Preserve the RSS URL, MP3 hash and local raw artifacts for later reconciliation.

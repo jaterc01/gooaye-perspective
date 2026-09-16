@@ -1898,3 +1898,11 @@ Output rule:
 - Hock Tan's closed-model thesis, Anthropic/OpenAI competition and open-weight daily applications map to workload-specific model economics, specialization and the distinction between model value and distribution value.
 - Phison Adaptive, NAND, KV cache, Storage Rack and edge deployment map to local-AI cost reduction and the delivery layer; customer adoption and ramp remain the proof points.
 - YTD performance, drawdown, long positions and selective hedging map to returns-dependent risk posture, with hedges used to protect the book rather than to predict every peak.
+
+## EP697 model mapping
+
+- Dario Amodei's `We Must Pace the Frontier`, Sam Altman and Musk's aligned regulatory posture map to Model 122: separate safety, responsibility, compliance cost and incumbent advantage before accepting the public-interest framing.
+- Third-party evaluation, checkpoints, dangerous-capability tests, repeated validation, interpretability and deployment monitoring map to Model 123: safety can add inference, compute and human-review workload even when capability growth is paced.
+- The `7769` IPO-subscription discussion maps to liquidity-release analysis, but the host's uncertainty and weak Nasdaq backdrop require global confirmation rather than a Taiwan-only bullish inference.
+- Family attachment, exercise load and the second-child discussion map to sustainable life allocation: distinguish lived utility, support capacity, physical recovery and irreversible family commitments.
+- Listener questions on following positions, high-asset channels, copied businesses and euthanasia map to Model 124: inspect incentives, responsibility and verifiable outcomes instead of borrowing certainty from a famous voice.

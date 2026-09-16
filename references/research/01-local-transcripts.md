@@ -1005,3 +1005,12 @@ Result:
 - High-confidence cleanup covers MAGEASY, Fidlock, Lenz, 百事可樂, 侍酒師, 風櫃嘴, 武嶺, 宙斯法則, 新日興, Amphenol, 射頻, 華強北, Anthropic, data center, NVIDIA, KV cache, 藤原拓海 and recurring market homophones. Ambiguous English, listener names, exact figures, sponsor wording, jokes, health passages and finance terminology remain provisional.
 - EP696 adds trust as a market and commercial asset, product maturity and distribution over first-mover novelty, data-center power/permit/social-license bottlenecks, closed versus open-weight model specialization, local AI cost reduction, and year-to-date-dependent defense posture.
 - EP696 has not received line-by-line human audio review. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available; downloaded MP3 cleanup is conditional on GitHub and Hermes verification.
+
+## Latest transcript refresh: 2026-09-16
+
+- The local corpus contains EP1-EP697. The public transcript index still stops at EP693 during this run, so EP697 is a SoundOn-backed provisional transcript rather than a public-transcript sync.
+- EP697 is titled `you shall not pass!`, published `2026-09-16T05:53:21Z`, and was transcribed into `EP697.md`, `EP697.raw.txt`, and `EP697.raw.json` with faster-whisper `medium`, CUDA `float16`, and `condition_on_previous_text=False`. Metadata reports `2997.4726875` seconds, `1597` segments, language `zh`, probability `1.0`.
+- The downloaded EP697 MP3 is `50,609,196` bytes with SHA-256 `69847B5DC90A1836EE4B13C3C5E846C2D27BD4A272815127ACA8F569854B23C1`. The source is the SoundOn episode page for GUID `eb3399a6-5fd2-4191-a7ae-b7ab77ec2358`.
+- High-confidence cleanup covers Dario Amodei, Anthropic, Ilya Sutskever, Hugging Face, CrowdStrike, data center, 前沿模型, 剪不斷、理還亂, 附議, 費半 and P/E ratio. The spoken `7769` reference, listener names, English fragments, exact figures, sponsor wording, health passages, euthanasia discussion and ambiguous homophones remain provisional.
+- EP697 adds incentive analysis for frontier-lab regulation, safety-evaluation compute as an additional workload, IPO-subscription cash lockup versus global-market weakness, family attachment, sustainable exercise and the distinction between personal autonomy and deciding for an incapacitated person.
+- EP697 has not received line-by-line human audio review. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available; downloaded MP3 cleanup remains conditional on GitHub and Hermes verification.

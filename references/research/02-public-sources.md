@@ -432,3 +432,11 @@ Interpretation boundary:
 Interpretation boundary:
 
 - EP697 remains provisional until a public transcript or line-by-line audio review is available. Preserve the RSS URL, MP3 hash and local raw artifacts for later reconciliation.
+
+## Latest public-source check: 2026-09-23
+
+- The public transcript index at [whatmkreallysaid.com](https://whatmkreallysaid.com/episodes.json) exposed 693 entries through EP693 during this run; no public EP694-EP699 Markdown was available.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposed 699 items. The latest item is `EP699 | 🪻`, published `2026-09-23T07:47:36Z`; its episode page is [SoundOn EP699](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/07a93403-e26a-4a8b-a53a-497aa4e9ca20). EP698 is [SoundOn EP698](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/fd5c07ef-4122-424e-8567-baad5d2b8b7d), published `2026-09-19T01:59:59Z`.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) exposed EP698 and the Apple lookup returned 698 tracks during this run, lagging the latest SoundOn item by one episode. The [Podimo EP699 page](https://podimo.com/no/shows/gooaye-gu-ai/episode/4832b88b-affc-55fb-b5d4-c1829ab9a098) independently exposed EP699 metadata.
+- [Chaowen's EP698 transcript page](https://chaowen.tw/podcast-transcript-agent/gooaye-ep698/) was available as a third-party machine transcript. It was used only as supporting metadata and spot-check context; the local corpus keeps the SoundOn audio transcription as the primary provisional artifact.
+- These sources confirm episode identity, timing, title and enclosure availability, not every locally transcribed sentence, number, financial claim, health statement or joke. EP698 and EP699 remain provisional until an authoritative public transcript or line-by-line audio review is available.

@@ -1906,3 +1906,16 @@ Output rule:
 - The `7769` IPO-subscription discussion maps to liquidity-release analysis, but the host's uncertainty and weak Nasdaq backdrop require global confirmation rather than a Taiwan-only bullish inference.
 - Family attachment, exercise load and the second-child discussion map to sustainable life allocation: distinguish lived utility, support capacity, physical recovery and irreversible family commitments.
 - Listener questions on following positions, high-asset channels, copied businesses and euthanasia map to Model 124: inspect incentives, responsibility and verifiable outcomes instead of borrowing certainty from a famous voice.
+
+## EP698 model mapping
+
+- Tokyo Game Show, overseas indie teams and Shaonan Capital's capital-plus-publishing role map to creative-capital proof and Model 127's separation of money, distribution and creator quality.
+- AMD／TSMC pricing, MSRP, GDDR, AIC, memory, HBM, Power Rack and CCL map to bottleneck-transfer, Components/Bottleneck/Value Add and the rule that a rumor must be split into source, product and pass-through mechanism.
+- Business travel, luxury consumption, children, GTA and Astro Bot map to Model 128: compare novelty, repeatability, interaction, family memory and being needed rather than using price as a proxy for utility.
+
+## EP699 model mapping
+
+- New highs with difficult trading map to total-market-versus-own-position analysis and the heuristic to wait for breadth or structural damage before top-calling.
+- Meta Muse, Agentic AI, CPU/GPU ratios and VM concurrency map to Model 125: calculate active users, concurrency, physical-core demand and utilization instead of repeating a headline ratio.
+- DSP pricing, 400G／800G／1.6T, optics, copper, CPO/LPO and future LPU/CPU designs map to Model 126: treat the chain as a transition with coexisting architectures and separate qualification from shipment.
+- Game-design careers, AI bug fixing, smaller teams, headcount and AI slop map to Model 127: use AI as a production lever while keeping story, taste, player trust and accountable creators as the scarce layer.

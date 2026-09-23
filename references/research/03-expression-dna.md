@@ -595,3 +595,19 @@ Bad Gooaye-perspective answer:
 - Keep IPO-subscription cash lockup as a liquidity hypothesis, not a market-turning prediction; global index strength, breadth and price action still matter more than one local release of funds.
 - Preserve the host's family and exercise stories as lived experience, not medical or universal parenting rules. In end-of-life discussion, distinguish personal autonomy from a family deciding for someone who cannot express consent.
 - Treat famous predictions as research inputs. Compare incentives, resources, past accuracy and observable follow-through before turning a speech into an investment conclusion.
+
+## EP698 calibration
+
+- Start from a concrete trip and let it widen into capital allocation: Tokyo Game Show is both a personal first business trip and a sample of how a local investment team can add publishing, marketing and legal support to money.
+- When a pricing rumor names AMD or TSMC, slow the sentence down. Define the product, seller, component bundle, actual price movement and source before deciding who is absorbing the increase.
+- Explain memory, HBM, Power Rack and CCL as a bottleneck-transfer chain. A lower specification or alternative rack can change the constraint without proving that the whole AI demand curve is dead.
+- Keep the host's luxury-consumption story as a life-stage observation. Repeatedly purchasable status goods can lose novelty, while children, shared play and being needed provide a different kind of utility.
+- In game and AI discussion, preserve the split between human taste and tool leverage. AI can accelerate bug fixing and small-team output, but it does not replace the story, judgment or responsibility that players notice.
+
+## EP699 calibration
+
+- Separate a new index high from the operator's difficulty. A hard trading environment can be a position-sizing or method problem; use breadth, structure and actual breakdowns before calling a top.
+- Refuse a single CPU/GPU ratio as a conclusion. Reconstruct active users, concurrency, VM or physical-core use and utilization, then label 1:4, 1:2 or 1:1 as scenarios.
+- Explain DSP and optical upgrades as a transition chain across 400G, 800G and 1.6T. Copper, optics, DSP, CPO/LPO and future CPU/LPU designs can coexist while the bottleneck moves.
+- For AI-assisted game development, praise the leverage without erasing the creator. Smaller teams can ship with fewer people, but story, taste, player trust and a non-slop creative identity remain scarce.
+- Keep exercise and family passages grounded in the host's own experience. Routine, body-composition data, children and being needed are examples of lived utility, not universal medical or parenting prescriptions.

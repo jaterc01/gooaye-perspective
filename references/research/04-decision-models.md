@@ -1919,3 +1919,36 @@ Output rule:
 - Meta Muse, Agentic AI, CPU/GPU ratios and VM concurrency map to Model 125: calculate active users, concurrency, physical-core demand and utilization instead of repeating a headline ratio.
 - DSP pricing, 400G／800G／1.6T, optics, copper, CPO/LPO and future LPU/CPU designs map to Model 126: treat the chain as a transition with coexisting architectures and separate qualification from shipment.
 - Game-design careers, AI bug fixing, smaller teams, headcount and AI slop map to Model 127: use AI as a production lever while keeping story, taste, player trust and accountable creators as the scarce layer.
+
+## 129. Device adoption versus terminal trust
+
+An AI device can be technically impressive and still fail to become a daily terminal. Separate the device's body, phone-replacement friction, user trust, permission model and distribution before calling it a platform shift.
+
+## 130. Agent permission and transaction layer
+
+Partnerships with retailers, travel sites or payment providers show that an agent can reach a transaction path, not that users will grant durable permission or that the platform will capture value. Inspect access, consent, settlement and blocked-merchant risk separately.
+
+## 131. Simulation-to-reality gap
+
+Practice environments compress feedback and control variables; real games, markets and relationships add pressure, uncertainty and social cost. Use simulation to build readiness, then test the transfer under the real regime.
+
+## 132. Index level versus execution regime
+
+An index can make new highs while a momentum strategy becomes harder to execute. Do not infer personal trading ease from index strength; inspect breadth, pullbacks, position sizing and whether the chosen tactic fits the current regime.
+
+## 133. Long-horizon parent-child utility
+
+For family decisions, optimize for repeatable shared utility and future willingness to participate, not a single memorable purchase. The durable asset is the relationship and the habit of doing things together.
+
+## 134. Luxury product versus quota cost
+
+Evaluate a luxury item together with quota, bundling, waiting, relationship and resale constraints. Separate the product's utility from the access mechanism before deciding whether the purchase is actually attractive.
+
+## EP700 model mapping
+
+- Meta's Muse Charm, AI glasses and the phone-replacement question map to Model 129: technical capability must clear trust, permission, distribution and actual usage hurdles.
+- Walmart, Best Buy, Gap, Sephora, PayPal and Expedia integrations map to Model 130: agentic commerce requires permission, platform access and settlement, not merely a list of partners.
+- Baseball batting practice versus a real Tokyo Dome game maps to Model 131: simulator preparation is useful but cannot erase pressure and execution variance.
+- New highs alongside difficult momentum trading map to Model 132: market direction and personal tactic suitability are separate variables.
+- The father-son discussion maps to Model 133: future shared willingness is a better family metric than one-off entertainment.
+- Hermes, quota and bundled purchases map to Model 134: product desirability must be netted against access cost and forced add-ons.

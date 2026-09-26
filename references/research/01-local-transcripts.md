@@ -4,8 +4,21 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP693 Markdown transcripts; public-synced Markdown currently reaches EP692, with EP693 a provisional local ASR artifact.
-- Count observed after refresh on 2026-09-02: 693 top-level Markdown transcripts through `EP693.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP700 Markdown transcripts; public-synced Markdown currently reaches EP693, with EP694-EP700 provisional local ASR artifacts.
+- Count observed after refresh on 2026-09-26: 700 top-level Markdown transcripts through `EP700.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+
+## Latest transcript refresh: 2026-09-26
+
+On 2026-09-26, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple Podcasts Taiwan, and a third-party transcript index were checked again.
+
+Result:
+
+- SoundOn RSS and the Apple Podcasts Taiwan public page expose `EP700 | 🪭 ultimate father and son relationship`, published `2026-09-26T06:40:54Z` (Taipei 14:40:54), with a 3001-second enclosure. The RSS item GUID is `6e0078b2-5a15-4f1d-95dd-16545ab2a236`.
+- `whatmkreallysaid.com/episodes.json` still contains 693 public transcript entries, so no public EP700 Markdown was available during this refresh. A third-party archive reached EP699 only and was not treated as authoritative.
+- EP700 was downloaded to the temporary work folder, then transcribed locally with faster-whisper `medium` on CUDA `float16`, `condition_on_previous_text=False`; the MP3 is 50,525,761 bytes with SHA-256 `016FD991274324DCDB5C88D5DF8AC884B89E1D0C5936F89F41F4CAE51D03B09C`. The raw artifact reports 3000.450625 seconds, 1794 segments, and language `zh`.
+- High-confidence ASR normalization covers ALUXE／亞立詩, Muse Charm, Agentic AI, Zuckerberg, Limitless Pendant, Teradyne, Bloom Energy, Expedia, Thom Yorke／Weird Fishes, baseball terms, Taiwan equities and 富台期. These are machine corrections, not line-by-line human verification.
+- EP700's main themes are AI hardware as a possible phone/agent terminal, trust and permission as prerequisites for agent transactions, simulator practice versus real-world pressure, index highs coexisting with difficult momentum trading, and building durable father-son shared utility.
+- Retain EP697-EP700 temporary MP3s until the GitHub commit and Hermes checkout are both verified; delete them only after remote verification succeeds.
 
 ## Latest transcript refresh: 2026-08-19
 

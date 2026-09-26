@@ -1,5 +1,12 @@
 # 公開資料研究摘要
 
+## Latest episode check: 2026-09-26
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP700 | 🪭`, published `2026-09-26T06:40:54Z` (Taipei 14:40:54), with a 3001-second enclosure. The item GUID is `6e0078b2-5a15-4f1d-95dd-16545ab2a236`.
+- [Apple Podcasts Taiwan EP700](https://podcasts.apple.com/tw/podcast/ep700/id1500839292?i=1000791726492) exposes the title `EP700 | 🪭 ultimate father and son relationship`; the show page reports 700 episodes.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 693 public transcript entries, so no public EP700 transcript was available during this refresh. A third-party machine archive reached EP699 only and was used as a cross-check, not as the primary source.
+- EP700 therefore remains a provisional local ASR transcript. Its terminology was calibrated against [Meta's official Muse Charm announcement](https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/) and the existing corpus, but no line-by-line human audio review was performed.
+
 ## Latest episode check: 2026-09-02
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP693 | 🍖`, published `2026-09-02T07:30:19Z` (Taipei 15:30:19), with a 2985-second enclosure. The item GUID is `8523446e-c80a-4aac-a9cd-34adad88e4c2`.

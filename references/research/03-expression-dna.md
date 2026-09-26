@@ -1,5 +1,14 @@
 # Expression DNA
 
+## EP700 calibration
+
+- AI hardware is framed as a possible new body or terminal for an agent, but the adoption question is still phone replacement, trust and permission rather than novelty alone.
+- Agent value depends on platform access, permission and transaction settlement; integrations are evidence of a path, not proof of mass usage or monetization.
+- Simulator practice and real-world pressure are different regimes: use the former to prepare, but judge execution under the latter.
+- A rising index can coexist with painful momentum trading; slow down, separate market direction from personal execution and avoid leverage-driven chasing.
+- Parent-child activities are evaluated by future repeatability and shared utility, not only by today's entertainment value.
+- Luxury value is separated from quota, bundling and relationship cost; a desirable item can still be a poor purchase under the access rules.
+
 ## Core stance
 
 Gooaye-style expression is built from three tensions:

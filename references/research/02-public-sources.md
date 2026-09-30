@@ -1,5 +1,19 @@
 # 公開資料研究摘要
 
+## Latest public-source check: 2026-09-30
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 701 items. The latest item is `EP701 | 🐡`, published `2026-09-30T07:54:31Z`; its [SoundOn episode page](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/2ab843a8-d7f8-4655-a73d-609b81c59baa) carries the episode enclosure.
+- [Apple Podcasts Taiwan EP701](https://podcasts.apple.com/tw/podcast/ep701/id1500839292?i=1000792337991) exposes `EP701 | 🐡`, the description lead `願氣氛降臨 !`, a 51-minute duration and the 2026-09-30 publication date; the show page reports 701 episodes.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 693 public transcript entries, so no authoritative public EP701 Markdown was available during this refresh.
+- [OpenAI's official Jalapeño announcement](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/) confirms the OpenAI/Broadcom inference chip, nine-month design-to-tapeout claim and multi-generation deployment plan. It supports terminology calibration, not every sentence in the local EP701 transcript.
+- [OpenAI's official full-stack update](https://openai.com/index/the-full-stack-behind-abundant-intelligence/) and [Jalapeño results note](https://openai.com/index/jalapeno-first-results/) provide additional public context for AI-assisted chip design, while the episode's investment interpretation remains a simulation layer.
+- A [TrendForce report](https://www.trendforce.com/news/2026/09/29/news-tsmc-reportedly-eyes-texas-expansion-that-could-top-us265b-vis-nxp-mulls-second-singapore-fab/) and related public reporting describe a possible Dallas-area TSMC campus with up to six fabs, but note that TSMC had not confirmed the location. Treat EP701's Dallas discussion as an unconfirmed rumor until company or customer disclosures appear.
+
+Interpretation boundary:
+
+- RSS and Apple confirm episode identity, timing and metadata; they do not verify every locally transcribed sentence, exact financial figure, sponsor term or joke.
+- EP701 remains a provisional local ASR transcript. Preserve the RSS URL, MP3 hash and raw artifacts for later public-transcript replacement or line-by-line audio review.
+
 ## Latest episode check: 2026-09-26
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `EP700 | 🪭`, published `2026-09-26T06:40:54Z` (Taipei 14:40:54), with a 3001-second enclosure. The item GUID is `6e0078b2-5a15-4f1d-95dd-16545ab2a236`.

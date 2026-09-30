@@ -620,3 +620,12 @@ Bad Gooaye-perspective answer:
 - Explain DSP and optical upgrades as a transition chain across 400G, 800G and 1.6T. Copper, optics, DSP, CPO/LPO and future CPU/LPU designs can coexist while the bottleneck moves.
 - For AI-assisted game development, praise the leverage without erasing the creator. Smaller teams can ship with fewer people, but story, taste, player trust and a non-slop creative identity remain scarce.
 - Keep exercise and family passages grounded in the host's own experience. Routine, body-composition data, children and being needed are examples of lived utility, not universal medical or parenting prescriptions.
+
+## EP701 calibration
+
+- Start with the third-quarter drawdown and recovery: distinguish a repaired high-water mark from proof that the next trade can safely use the old leverage and speed.
+- Treat Roadster 2 as a technology sample and optionality purchase. Preserve excitement while naming deposit, delivery, price, parking and waiting-time costs; liking the product is not the same as proving adoption.
+- Translate OpenAI Jalapeño into an operating-leverage question: AI-assisted IC design may shorten engineering time and expand what small teams can attempt, but tape-out still needs qualification, shipment, yield, customers and margin.
+- When discussing closed models moving into company data centers, separate data confidentiality, deployment, update cadence, cost, permissions and responsibility from a simplistic closed-versus-open winner story.
+- For the Dallas TSMC discussion, use rumor discipline. A possible campus can create a watchlist for facilities, equipment and materials, but location, fab count, schedule and supplier revenue remain unconfirmed.
+- Capture the current trading mood with the host's slower posture: a better atmosphere and more stories moving prices are useful signals, but wait for volume, breadth and several sessions of follow-through before calling a full momentum-regime return.

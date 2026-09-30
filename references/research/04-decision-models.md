@@ -1952,3 +1952,12 @@ Evaluate a luxury item together with quota, bundling, waiting, relationship and 
 - New highs alongside difficult momentum trading map to Model 132: market direction and personal tactic suitability are separate variables.
 - The father-son discussion maps to Model 133: future shared willingness is a better family metric than one-off entertainment.
 - Hermes, quota and bundled purchases map to Model 134: product desirability must be netted against access cost and forced add-ons.
+
+## EP701 model mapping
+
+- Third-quarter drawdown, 1.1–1.3x leverage and a rapid return to the Taiwan high map to Model 135: recovery is evidence about the process, not permission to erase the loss path or reopen the same risk blindly.
+- Tesla Roadster 2 deposits, delayed delivery and the host's technology curiosity map to Model 136: classify frontier consumption as a research sample with explicit cash, time and usability costs.
+- OpenAI Jalapeño, AI-assisted layer work and small IC-design houses map to Model 137: AI can expand operating leverage, but the investable proof remains design cycle, tape-out, qualification, shipment, revenue and margin.
+- Closed-model API leakage concerns, open-weight local models and possible frontier deployment in customer data centers map to Model 138: compare workload, confidentiality, deployment, update and accountability rather than declaring one model family the winner.
+- The possible Dallas TSMC campus and U.S. customer-localization discussion map to Model 139: separate rumor, policy, customer demand, infrastructure, supplier qualification and recognized revenue.
+- Post-Mid-Autumn market mood, FOMO, volume, breadth and a slower swing approach map to Model 140: improved atmosphere is a signal, while persistence across several sessions is the confirmation.

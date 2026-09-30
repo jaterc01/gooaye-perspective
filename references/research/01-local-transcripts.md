@@ -4,8 +4,22 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP700 Markdown transcripts; public-synced Markdown currently reaches EP693, with EP694-EP700 provisional local ASR artifacts.
-- Count observed after refresh on 2026-09-26: 700 top-level Markdown transcripts through `EP700.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP701 Markdown transcripts; public-synced Markdown currently reaches EP693, with EP694-EP701 provisional local ASR artifacts.
+- Count observed after refresh on 2026-09-30: 701 top-level Markdown transcripts through `EP701.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+
+## Latest transcript refresh: 2026-09-30
+
+On 2026-09-30, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple Podcasts Taiwan and the latest public technology reporting were checked again.
+
+Result:
+
+- SoundOn RSS and the Apple Podcasts Taiwan public page expose `EP701 | 🐡`, published `2026-09-30T07:54:31Z` (Taipei 15:54:31), with a 3079-second enclosure. The RSS item GUID is `2ab843a8-d7f8-4655-a73d-609b81c59baa`.
+- `whatmkreallysaid.com/episodes.json` still contains 693 public transcript entries, so no public EP701 Markdown was available during this refresh.
+- EP701 was downloaded to `C:\Users\jater\AppData\Local\Temp\gooaye-skill\EP701.mp3`; size `50,785,025` bytes and SHA-256 `A30BF96DEE6C44BAAA2AC32DE52AF83EECAA8DD444896CD3BB2FA77C19164DCD`.
+- Local `EP701.md`, `EP701.raw.txt`, and `EP701.raw.json` were generated with faster-whisper `medium`, CPU `int8`, and `condition_on_previous_text=False`. Metadata reports `3079.2098125` seconds, `1709` segments, language `zh`, and probability `1.0`.
+- High-confidence cleanup covers Broadcom, Tesla Roadster／Roadster 2, Muse Charm, Agentic AI, open-weight／closed model, and Brockman. `Hardpanel`, `Tim`, `GEN D`, sponsor details, listener names, exact figures, jokes and other unclear audio remain provisional rather than being guessed.
+- EP701's main themes are third-quarter drawdown recovery, technology purchases as research samples, AI-assisted IC design and OpenAI Jalapeño, possible closed-model on-prem deployment, a TSMC Dallas fab rumor, and improving post-Mid-Autumn trading sentiment that still needs follow-through.
+- Retain EP697-EP701 temporary MP3s until the GitHub commit and Hermes checkout are both verified; delete them only after remote verification succeeds.
 
 ## Latest transcript refresh: 2026-09-26
 

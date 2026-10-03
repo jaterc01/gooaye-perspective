@@ -1,5 +1,17 @@
 # 公開資料研究摘要
 
+## Latest public-source check: 2026-10-03
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 702 items. The latest item is `EP702 | 🐉`, published `2026-10-03T07:18:09Z`; its [SoundOn episode page](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/42301381-6003-4b54-a28d-290a3fd2e258) carries the episode enclosure.
+- [Apple Podcasts Taiwan EP702](https://podcasts.apple.com/tw/podcast/ep702/id1500839292?i=1000792947714) exposes `EP702 | 🐉`, the description lead `氣氛對了真相就淡薄了`, a roughly 54-minute duration and the 2026-10-03 publication date; the show page reports 702 episodes.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 693 public transcript entries, so no authoritative public EP702 Markdown was available during this refresh. EP694-EP702 remain provisional local ASR transcripts.
+- The current episode's source wording supports metadata and topic identification only: the optical-module restriction discussion references an unconfirmed Morgan Stanley report, so it must not be treated as an enacted U.S. rule or a guaranteed beneficiary list.
+
+Interpretation boundary:
+
+- RSS and Apple confirm episode identity, timing and metadata; they do not verify every locally transcribed sentence, exact financial figure, sponsor term or joke.
+- EP702 remains a provisional local ASR transcript. Preserve the RSS URL, MP3 hash and raw artifacts for later public-transcript replacement or line-by-line audio review.
+
 ## Latest public-source check: 2026-09-30
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 701 items. The latest item is `EP701 | 🐡`, published `2026-09-30T07:54:31Z`; its [SoundOn episode page](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/2ab843a8-d7f8-4655-a73d-609b81c59baa) carries the episode enclosure.

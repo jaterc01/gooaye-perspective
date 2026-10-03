@@ -629,3 +629,12 @@ Bad Gooaye-perspective answer:
 - When discussing closed models moving into company data centers, separate data confidentiality, deployment, update cadence, cost, permissions and responsibility from a simplistic closed-versus-open winner story.
 - For the Dallas TSMC discussion, use rumor discipline. A possible campus can create a watchlist for facilities, equipment and materials, but location, fab count, schedule and supplier revenue remain unconfirmed.
 - Capture the current trading mood with the host's slower posture: a better atmosphere and more stories moving prices are useful signals, but wait for volume, breadth and several sessions of follow-through before calling a full momentum-regime return.
+
+## EP702 calibration
+
+- Start with the small, ordinary frustration: missing a Radiohead ticket, not knowing how to play a game, or needing something to do when the market is closed. Use it to widen into luck, attention, faith and the pursuit of inner calm without pretending every outcome has a supernatural explanation.
+- Treat faith as a psychological rope when the situation exceeds personal control. Keep the host's openness and empathy, but preserve the boundary that belief is not medical advice, investment certainty or a substitute for concrete action.
+- Explain enterprise AI through the engineer-versus-owner tension: token maxing can improve output, while unlimited reasoning can make the bill explode. Compare model quality, latency, data confidentiality, recurring cloud cost, local deployment and the value of the delivered work.
+- When discussing the October market, respect new highs and broadening strength before arguing with the index. The practical close is still continuation, breadth, leadership and position fit—not a heroic call on the top or bottom.
+- For the optical-module section, draw the chain in plain language: DSP cleans and retimes the signal, Driver pushes the laser, EML／PD／TIA convert between light and electricity, and lenses／fiber／assembly determine whether the system ships. Label the Morgan Stanley restriction story as rumor, then separate U.S. BOM share, Chinese assembly capacity, Taiwan second sources and the much later 3.2T timing.
+- In the Quant Q&A, contrast a long-term cumulative game with a ranking race dominated by latency, equipment, strategy and capital turnover. Intelligence is an entry condition, not a promise of outperformance.

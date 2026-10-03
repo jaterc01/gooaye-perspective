@@ -4,8 +4,22 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP701 Markdown transcripts; public-synced Markdown currently reaches EP693, with EP694-EP701 provisional local ASR artifacts.
-- Count observed after refresh on 2026-09-30: 701 top-level Markdown transcripts through `EP701.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP702 Markdown transcripts; public-synced Markdown currently reaches EP693, with EP694-EP702 provisional local ASR artifacts.
+- Count observed after refresh on 2026-10-03: 702 top-level Markdown transcripts through `EP702.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+
+## Latest transcript refresh: 2026-10-03
+
+On 2026-10-03, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple Podcasts Taiwan and the RSS enclosure for the newest episode were checked again.
+
+Result:
+
+- SoundOn RSS and the Apple Podcasts Taiwan public page expose `EP702 | 🐉`, published `2026-10-03T07:18:09Z` (Taipei 15:18:09), with a 3218-second enclosure. The RSS item GUID is `42301381-6003-4b54-a28d-290a3fd2e258`.
+- `whatmkreallysaid.com/episodes.json` still contains 693 public transcript entries, so no public EP702 Markdown was available during this refresh.
+- EP702 was downloaded to `C:\Users\jater\AppData\Local\Temp\gooaye-skill\EP702.mp3`; size `52,068,709` bytes and SHA-256 `33F984AD7FF8EF8F3169E1326817FB4E3CD6653A1F5E01907FC624C65E8C9F76`.
+- Local `EP702.md`, `EP702.raw.txt`, and `EP702.raw.json` were generated with faster-whisper `medium`, CPU `int8`, and `condition_on_previous_text=False`. Metadata reports `3217.4236875` seconds, `1803` segments, language `zh`, and probability `1.0`.
+- High-confidence cleanup covers 股癌／明星三缺一／消消樂／Radiohead／關公, token maxing, 屎山程式碼, BOM／bill of material, DSP／TIA, 中際旭創, Semtech／Lumentum／MaxLinear, Central Otago／Pinot and recurring finance terms. Listener names, sponsor details, exact figures, jokes and other unclear audio remain provisional rather than being guessed.
+- EP702's main themes are ticket lotteries and faith as psychological support, the trade-off between token-maxing productivity and enterprise AI cost controls, on-prem/open-weight deployment, a strong October market that still needs follow-through, and optical-module BOM／DSP／Driver／TIA exposure under an unconfirmed Morgan Stanley China optics restriction rumor.
+- Retain EP697-EP702 temporary MP3s until the GitHub commit and Hermes checkout are both verified; delete them only after remote verification succeeds.
 
 ## Latest transcript refresh: 2026-09-30
 

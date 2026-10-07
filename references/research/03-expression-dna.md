@@ -638,3 +638,11 @@ Bad Gooaye-perspective answer:
 - When discussing the October market, respect new highs and broadening strength before arguing with the index. The practical close is still continuation, breadth, leadership and position fit—not a heroic call on the top or bottom.
 - For the optical-module section, draw the chain in plain language: DSP cleans and retimes the signal, Driver pushes the laser, EML／PD／TIA convert between light and electricity, and lenses／fiber／assembly determine whether the system ships. Label the Morgan Stanley restriction story as rumor, then separate U.S. BOM share, Chinese assembly capacity, Taiwan second sources and the much later 3.2T timing.
 - In the Quant Q&A, contrast a long-term cumulative game with a ranking race dominated by latency, equipment, strategy and capital turnover. Intelligence is an entry condition, not a promise of outperformance.
+
+## EP703 calibration
+
+- Recalibrate a strong market using a normal-good benchmark: do not compare every day with the unusually easy March-May window and call ordinary good performance broken.
+- When the index makes new highs, separate shortage-driven price beneficiaries from companies that benefit when components become available and shipment volume returns. The hedge is still inside equities, so it reduces common-story risk rather than becoming a true negative-correlation asset.
+- Use a slower position posture: cut names that cannot make even a monthly high while the index is strong, keep cash or lower pledged exposure, and define a position-range instead of switching between full risk and full retreat.
+- Let uncertainty stay explicit. A future supply-chain correction can be large even when the underlying AI demand survives; the practical answer is liquidity and a smaller error cost, not a confident top call.
+- Translate tennis, a first 10K and future 21K/42K goals into staged real-world practice. Equipment spending is judged by safety, repeated use and family/health value, not only by whether the gear is fashionable or likely to end up on the wall.

@@ -1969,3 +1969,10 @@ Evaluate a luxury item together with quota, bundling, waiting, relationship and 
 - The October index high and the warning not to worship early short sellers reinforce Model 140: respect the market regime, then wait for breadth, leadership and continuation instead of turning a good tape into a FOMO chase.
 - The Morgan Stanley optics rumor maps to Model 143: break the optical module into DSP, Driver, EML, PD, TIA, BOM, assembly and process capacity; separate enacted rules from rumors and near-term revenue from 3.2T optionality.
 - The Quant Q&A maps to Model 144: compare long-term cumulative investing with a latency-and-infrastructure ranking race, and do not confuse intelligence with durable edge.
+
+## EP703 model mapping
+
+- Shortage-price winners versus volume beneficiaries after supply normalizes map to Model 145: separate scarcity, cost pass-through, shipment quantity and utilization before calling a hedge effective.
+- A market high with lagging individual names maps to Model 146: trim names that cannot keep making highs, prioritize liquidity and do not let old performance or a good story overrule price weakness.
+- Refusing a default stock-bond mix while increasing cash and lowering pledged exposure maps to Model 147: manage an exposure range and the trade between cash drag, forced selling and future optionality.
+- Tennis practice, 10K/21K/42K progression and the Y1RS purchase map to Model 148: turn enthusiasm into staged, safe, repeatable health goals and judge spending by long-term use rather than price alone.

@@ -1,5 +1,17 @@
 # 公開資料研究摘要
 
+## Latest public-source check: 2026-10-07
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 703 items. The latest item is `EP703 | 🏈`, published `2026-10-07T08:09:40Z`; its [SoundOn episode page](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/0b071f57-45ba-47d3-9f15-2129a0c645a8) carries the episode enclosure.
+- [Apple Podcasts Taiwan public show page](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) exposes `EP703 | 🏈` as the latest episode and reports 703 episodes; the public description lead is `可能生來就是喜歡擔心東擔心西`.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) now exposes 702 public transcript entries through EP702. EP703 has no authoritative public Markdown yet, so the local EP703 transcript remains provisional.
+- EP703's public metadata supports episode identity, timing and topic identification only. The local MP3 was 50,447,121 bytes with SHA-256 `5E34992FC06EC1941EC5D6F987D87AA5B1CD07E9C00FEED90585881DC7232A76`; RSS/Apple do not verify every locally transcribed sentence.
+
+Interpretation boundary:
+
+- RSS and Apple confirm episode identity, timing and metadata; they do not verify every locally transcribed sentence, exact financial figure, sponsor term, listener name or joke.
+- EP703 is a provisional local ASR transcript. Preserve the RSS URL, MP3 hash and raw artifacts for later public-transcript replacement or line-by-line audio review.
+
 ## Latest public-source check: 2026-10-03
 
 - [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 702 items. The latest item is `EP702 | 🐉`, published `2026-10-03T07:18:09Z`; its [SoundOn episode page](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/42301381-6003-4b54-a28d-290a3fd2e258) carries the episode enclosure.

@@ -4,8 +4,22 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP702 Markdown transcripts; public-synced Markdown currently reaches EP693, with EP694-EP702 provisional local ASR artifacts.
-- Count observed after refresh on 2026-10-03: 702 top-level Markdown transcripts through `EP702.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP703 Markdown transcripts; public-synced Markdown currently reaches EP702, with EP703 a provisional local ASR artifact.
+- Count observed after refresh on 2026-10-07: 703 top-level Markdown transcripts through `EP703.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+
+## Latest transcript refresh: 2026-10-07
+
+On 2026-10-07, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple Podcasts public metadata and the RSS enclosure for the newest episode were checked again.
+
+Result:
+
+- SoundOn RSS and the Apple Podcasts public show page expose `EP703 | 🏈`, published `2026-10-07T08:09:40Z` (Taipei 16:09:40). The RSS item GUID is `0b071f57-45ba-47d3-9f15-2129a0c645a8`.
+- `whatmkreallysaid.com/episodes.json` now contains 702 public transcript entries through EP702. The local EP694-EP702 Markdown files were force-synchronized from the public source; their historical `.raw.*` artifacts remain for provenance.
+- EP703 was downloaded to `C:\Users\jater\AppData\Local\Temp\gooaye-skill\EP703.mp3`; size `50,447,121` bytes and SHA-256 `5E34992FC06EC1941EC5D6F987D87AA5B1CD07E9C00FEED90585881DC7232A76`.
+- Local `EP703.md`, `EP703.raw.txt`, and `EP703.raw.json` were generated with faster-whisper `medium`, CPU `int8`, and `condition_on_previous_text=False`. Metadata reports `3043.5526875` seconds, `1752` segments, language `zh`, and probability `1.0`.
+- High-confidence cleanup covers Roichen／正脊坐墊／可調腳凳, TSMC／權值股, 債息、殺盤、零組件、淨值、台指期、加權指數、Michael Burry、Grok Imagine、Diana Krall and recurring portfolio terms. Listener names, sponsor details, exact figures, jokes, music references and other unclear audio remain provisional rather than being guessed.
+- EP703's main themes are calibrating a five-wan-point market without using the extreme March-May period as the benchmark, using shortage-price winners versus volume beneficiaries as an internal stock hedge, cutting laggards while the index makes new highs, keeping a position-range and cash/liquidity buffer, and turning tennis, 10K/21K/42K and cycling into staged health goals.
+- Retain EP703.mp3 until the GitHub commit and Hermes checkout are both verified; delete it only after remote verification succeeds.
 
 ## Latest transcript refresh: 2026-10-03
 

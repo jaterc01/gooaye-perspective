@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP703 Markdown transcripts; public-synced Markdown currently reaches EP702, with EP703 a provisional local ASR artifact.
-- Count observed after refresh on 2026-10-07: 703 top-level Markdown transcripts through `EP703.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP705 Markdown transcripts; public-synced Markdown currently reaches EP702, with EP703-EP705 provisional local ASR artifacts.
+- Count observed after refresh on 2026-10-14: 705 top-level Markdown transcripts through `EP705.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh: 2026-10-07
 
@@ -1077,3 +1077,17 @@ Result:
 - EP699 is titled `狗吹大時代開催倒數中`, published `2026-09-23T07:47:36Z`, and was transcribed into `EP699.md`, `EP699.raw.txt`, and `EP699.raw.json` with the same settings. Metadata reports `3033.1559375` seconds, `1678` segments, language `zh`, probability `1.0`.
 - EP698 covers Tokyo Game Show, Shaonan Capital's publishing and marketing role, AMD／TSMC／memory pricing, HBM／Power Rack／CCL bottleneck transfer, games and children, and the diminishing utility of repeatable luxury consumption. EP699 covers index highs versus trading difficulty, Agentic AI CPU workload ratios, DSP and 400G／800G／1.6T optical transitions, exercise, family utility and AI-assisted indie game development.
 - EP698 and EP699 have not received line-by-line human audio review. High-confidence corrections cover sponsor wording, Japanese places, company and product names, WCCF Tech, Agentic AI, DSP／optics, and recurring homophones; residual risk remains for English fragments, exact figures, listener names, jokes, health, family and investment passages. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available.
+
+## Latest transcript refresh: 2026-10-14
+
+On 2026-10-14, the local corpus, `whatmkreallysaid.com/episodes.json`, SoundOn RSS, Apple Podcasts Taiwan and the newest RSS enclosures were checked again.
+
+Result:
+
+- The local corpus now contains EP1-EP705 with no missing numeric episodes. Public-synced Markdown reaches EP702; EP703-EP705 are provisional SoundOn ASR artifacts.
+- SoundOn RSS exposes `EP704 | 🐘`, published `2026-10-10T08:07:02Z`, and `EP705 | 🎀`, published `2026-10-14T07:28:22Z`. Apple Podcasts shows EP705 as the latest public episode and reports 705 episodes.
+- EP704 was transcribed into `EP704.md`, `EP704.raw.txt`, and `EP704.raw.json` with faster-whisper `medium`, CPU `int8`, and `condition_on_previous_text=False`. Metadata reports `3015.3143125` seconds, `1766` segments, language `zh`, probability `1.0`; the MP3 is `50,421,868` bytes with SHA-256 `5CEBE5CBC317B9815D4FACFCB8D4F972633B1D8A15CB3021781A9746799F3051`.
+- EP705 was transcribed into `EP705.md`, `EP705.raw.txt`, and `EP705.raw.json` with the same settings. Metadata reports `2997.4726875` seconds, `1737` segments, language `zh`, probability `1.0`; the MP3 is `48,233,034` bytes with SHA-256 `7443073BF2544FA1D52AD3909479EF8D4EABA87D07131035DADB9C2CB6D5D4C0`.
+- High-confidence cleanup covers 曼報／Manny、Marvell、run rate、All Weather Portfolio、CPO、矽光子、BMC、Nuvoton、Anthropic、Hock Tan、0050、玉晶光、國巨、P/E、AI 對話窗與 recurring market terms. Listener names, exact figures, sponsor wording, jokes, health passages, English fragments and ambiguous homophones remain ASR-sensitive.
+- EP704 adds creator boundaries, peer-group risk baselines, annualized-revenue noise, Marvell connectivity and optical-roadmap analysis, data-center total solutions, and life-stage asset allocation. EP705 adds crowded-trade expectation gaps, AI enterprise ROI versus token waste, AI as an unfamiliar-industry research entry, bottleneck rotation, contextual stop-loss, staged sports goals, family utility and being needed.
+- Neither EP704 nor EP705 received line-by-line human audio review. Retain `.raw.*` files and replace the Markdown when public transcripts appear; retain EP697-EP705 temporary MP3s until GitHub and Hermes verification both succeed.

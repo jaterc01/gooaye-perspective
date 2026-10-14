@@ -2,7 +2,7 @@
 
 股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
 
-這是一個 Codex/Hermes-style skill，基於本機 EP1-EP703 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。`whatmkreallysaid.com` 公開稿目前已同步到 EP702；EP703「EP703 | 🏈」仍是 SoundOn 暫定稿，使用 `faster-whisper-medium` CPU `int8`，並保留 `EP703.raw.*` 作為溯源。EP703 新增五萬點後的持股水位、股債與股票內部對沖、缺貨漲價與不缺貨出貨量受益、轉弱股減碼、現金/質押槓桿，以及網球、10K／21K／42K、Y1RS 腳踏車與健康支出等內容。EP703 尚未逐句人工覆核，專有名詞、英文、人名、數字、贊助詞、音樂、笑話、健康、家庭與槓桿內容仍有機器轉錄風險；未來公開稿出現後應優先替換暫定稿。
+這是一個 Codex/Hermes-style skill，基於本機 EP1-EP705 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。`whatmkreallysaid.com` 公開稿目前已同步到 EP702；EP703-EP705 仍是 SoundOn 暫定稿，使用 `faster-whisper-medium` CPU `int8`，並保留各集 `EP*.raw.*` 作為溯源。EP704 新增曼報 Pro 與創作者邊界、圈子改寫風險基準、OpenAI 年化營收取樣、Marvell 互聯／光通 roadmap、BMC total solution 與 All Weather Portfolio 的人生階段；EP705 新增擁擠交易的預期差與籌碼清洗、企業 AI ROI、AI 研究入口、瓶頸漲價與產值輪動、情境式停損，以及運動、親子互動與被需要感。EP703-EP705 尚未逐句人工覆核，專有名詞、英文、人名、數字、贊助詞、音樂、笑話、健康、家庭與槓桿內容仍有機器轉錄風險；未來公開稿出現後應優先替換暫定稿。
 
 ## Install
 

@@ -646,3 +646,21 @@ Bad Gooaye-perspective answer:
 - Use a slower position posture: cut names that cannot make even a monthly high while the index is strong, keep cash or lower pledged exposure, and define a position-range instead of switching between full risk and full retreat.
 - Let uncertainty stay explicit. A future supply-chain correction can be large even when the underlying AI demand survives; the practical answer is liquidity and a smaller error cost, not a confident top call.
 - Translate tennis, a first 10K and future 21K/42K goals into staged real-world practice. Equipment spending is judged by safety, repeated use and family/health value, not only by whether the gear is fashionable or likely to end up on the wall.
+
+## EP704 calibration
+
+- Use the 曼報 Pro event as a boundary example: supporting a serious creator and recognizing one's own stage limit can coexist; not everyone needs to become the frontman.
+- When the market is surrounded by anxious short-term traders, let the host's slower posture do the work: position size, direction and long-horizon story matter more than every intraday alert.
+- Treat OpenAI's annualized revenue revision as a sampling and expectation problem. Compare run rate, accounting basis, customer demand and price response before calling the AI story broken.
+- Explain Marvell's Investor Day through total connectivity: rack, data center, interconnect, XPU attachments and management can expand together. Separate 800G／1.6T shipments from 3.2T／silicon-photonics optionality and keep NPO／CPO as parallel routes rather than a winner-takes-all swap.
+- For All Weather questions, match diversification to the host's own wealth stage. A stabilizing portfolio is useful, but it is not a moral requirement for someone still prioritizing accumulation and willing to carry risk.
+- Preserve running without headphones, local travel and a long-distance couple's shared endpoint as lived examples of calmer operating systems, not universal health or relationship prescriptions.
+
+## EP705 calibration
+
+- Start with the crowded-trade observation: good earnings that do not move price may already be consensus. Use expectation gap, holder density, shakeout and actual price confirmation before adding weight.
+- Keep the two AI claims in the same frame: many enterprises may waste tokens while other enterprises raise budgets because the workflow produces value. Separate user ROI, model-company financing and XPU supplier demand rather than choosing one slogan.
+- Present AI as a 60-point bridge into an unfamiliar industry. Strong reasoning, high-quality inputs and primary-source checks improve the entry speed; they do not turn a summary into proprietary edge.
+- When memory or another bottleneck is scarce and expensive but the leader cannot deliver earnings, allow the market to rotate from price scarcity to companies that create durable value through shipment, utilization and margin.
+- Explain stop-loss as context: market regime, holding period, position size and the original thesis matter more than a universal 10% or 20% line. Avoid the double loss of selling after a break and chasing immediately after a rebound.
+- Treat tennis, races, children using familiar toys, being needed and changing sitting posture as examples of staged practice and durable utility. Keep the host's family style personal rather than prescriptive.

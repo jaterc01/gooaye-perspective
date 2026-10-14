@@ -1976,3 +1976,68 @@ Evaluate a luxury item together with quota, bundling, waiting, relationship and 
 - A market high with lagging individual names maps to Model 146: trim names that cannot keep making highs, prioritize liquidity and do not let old performance or a good story overrule price weakness.
 - Refusing a default stock-bond mix while increasing cash and lowering pledged exposure maps to Model 147: manage an exposure range and the trade between cash drag, forced selling and future optionality.
 - Tennis practice, 10K/21K/42K progression and the Y1RS purchase map to Model 148: turn enthusiasm into staged, safe, repeatable health goals and judge spending by long-term use rather than price alone.
+
+## 149. Peer-group risk baseline
+
+A trader's surrounding circle can normalize leverage, alerts and anxiety. Choose position size and operating speed against personal cash flow, sleep and thesis—not the loudest peer group's definition of normal.
+
+## 150. Annualized number as sampling
+
+Run rate is a useful estimate, not realized cash flow. Separate sampling month, accounting basis, customer mix, price, delivery and long-term demand before trading a headline revision.
+
+## 151. Small segment as platform entry
+
+A small BMC or data-center-management market may be an entry point into an integrated compute, storage, switching and interconnect solution. Check whether TAM is expanding before assuming a zero-sum chip fight.
+
+## 152. Optical roadmap versus shipment
+
+800G, 1.6T, 3.2T, NPO, CPO and silicon photonics form a roadmap with different qualification, physics, material, yield and timing gates. Optionality is not current revenue, and a correct route can still suffer a severe drawdown.
+
+## 153. Body rhythm as execution support
+
+Exercise, lower notification load and waiting until the close can reduce reactive decisions. This is an operating aid, not a substitute for position sizing, liquidity or event verification.
+
+## 154. Asset allocation by life stage
+
+All Weather-style diversification can reduce single-regime risk, but the appropriate mix depends on accumulated assets, cash flow, required stability and willingness to accept cash drag.
+
+## 155. Crowded good news
+
+Strong numbers with no price response may mean the entire holder base already knows the result. Compare consensus, expectation gap, holder density, shakeout risk and actual price confirmation before increasing exposure.
+
+## 156. AI ROI versus token waste
+
+Enterprise token use can be wasteful for one workflow and valuable for another. Reconcile customer ROI, model-company financing and XPU demand separately; a beneficiary can criticize waste while still benefiting from aggregate spend.
+
+## 157. AI as unfamiliar-industry entry
+
+High-quality models, reasoning and source material can move an investor to a competent baseline quickly. The edge still requires primary documents, industry contacts, shipment evidence and price behavior.
+
+## 158. Bottleneck price versus durable value
+
+Scarcity and price increases can lead a cycle, but if the bottleneck leader cannot convert them into revenue and margin, capital may rotate toward utilization, volume and durable customer value.
+
+## 159. Contextual stop-loss
+
+Stop-loss is a function of thesis, regime, holding period, volatility and position size. Fixed 10% or 20% rules can be useful for one game and destructive for another; do not sell and immediately chase without revalidating the thesis.
+
+## 160. Staged life utility
+
+Sports events, family projects, shared toys and being needed create measurable, durable utility when turned into repeatable stages. Do not use someone else's family script or one-time emotional high as the only value metric.
+
+## EP704 model mapping
+
+- 曼報 Pro 年會、Manny Li、前台與幕後角色，以及支持認真創作者但承認自己舞台天花板，map to Model 149: identity and peer environment influence operating risk, and not every valuable contributor must become a frontman.
+- Friends' leverage, the shift from panic alerts to researching after the close, and the OpenAI 700B-versus-500B annualized-revenue discussion map to Model 150: sample-based numbers and short-term headlines must not override a tested long-term thesis.
+- Marvell Investor Day's interconnect, rack/data-center scaling, BMC/data-center management and total-solution framing map to Model 151: small current revenue can be a platform entry, but TAM and shipment still need proof.
+- 800G, 1.6T, 3.2T, NPO/CPO and silicon-photonics discussion map to Model 152: future optical routes are optionality with physical, qualification and timing risk.
+- Running, lowered reactivity and the All Weather Q&A map to Models 153-154: body rhythm supports execution, while allocation follows wealth stage rather than ideology.
+
+## EP705 model mapping
+
+- Crowded device stocks with excellent year-over-year numbers that refuse to rise, and the contrast between leaders and second suppliers, map to Model 155: consensus and holder density can dominate short-term price.
+- Hock Tan's casino framing, OpenAI's annualized revenue reset and enterprise token spending map to Model 156: separate AI user ROI, frontier-lab financing and infrastructure-provider demand.
+- AI helping research unfamiliar satellite components, HBM and materials maps to Model 157: AI accelerates the path to a usable baseline, while data quality and human verification preserve the edge.
+- Weak memory leadership despite scarcity and the possible rotation from bottleneck pricing to real value production map to Model 158.
+- The stop-loss Q&A—no fixed 10%/20%, context of market-wide decline, holding period and avoiding the chase after a stop—maps to Model 159.
+- Tennis instruction, race registration, children building with magnetic tiles, family utility and being needed map to Model 160: progress and durable meaning come from staged participation rather than one-off consumption.

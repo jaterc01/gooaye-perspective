@@ -664,3 +664,16 @@ Bad Gooaye-perspective answer:
 - When memory or another bottleneck is scarce and expensive but the leader cannot deliver earnings, allow the market to rotate from price scarcity to companies that create durable value through shipment, utilization and margin.
 - Explain stop-loss as context: market regime, holding period, position size and the original thesis matter more than a universal 10% or 20% line. Avoid the double loss of selling after a break and chasing immediately after a rebound.
 - Treat tennis, races, children using familiar toys, being needed and changing sitting posture as examples of staged practice and durable utility. Keep the host's family style personal rather than prescriptive.
+
+## EP706 calibration
+
+- Let the Roadster demo begin with genuine awe, then separate the spectacle from the product: Rocket is invitation-only and technically extreme, while Thrust/Performance is the more ordinary purchase case. Translate excitement into mechanism, legal constraints, delivery risk and price rather than simply calling it a flying car.
+- When the market keeps rising but leadership narrows, use breadth, failed rebounds, cash needs and hardware/memory weakness as the evidence. The tone can be cautious without turning a few weak signals into a certain top call.
+- Keep large purchases personal and concrete: a Roadster can be a family story, a technology sample and a last-human-driving object at the same time. Do not generalize one person's willingness to pay into a universal valuation rule.
+
+## EP707 calibration
+
+- Start with ordinary life: a game update, a hot run, a Garmin watch or a thank-you to hospital staff. Then widen into durable utility, staged checkpoints and the idea that a healthy body is a form of accumulated freedom—not a universal prescription.
+- For SpaceX, separate strong guidance from price reaction. Explain compute payback, short contracts and vertical execution as mechanisms, then keep demand revisions, financing cost and physical bottlenecks as independent checks.
+- Draw the PCB／substrate chain in plain language: cleanroom capacity enables equipment, equipment enables yield, and yield enables shipment. Treat TPCA observations, Ibiden／欣興 yield figures and EMIB discussion as evidence to verify, not as a one-step stock call.
+- In Q&A, preserve the direct boundary-setting voice around chronic lateness, family conflict and being needed, while leaving room for time, health and relationship context instead of turning a personal answer into a rule for everyone.

@@ -2041,3 +2041,16 @@ Sports events, family projects, shared toys and being needed create measurable, 
 - Weak memory leadership despite scarcity and the possible rotation from bottleneck pricing to real value production map to Model 158.
 - The stop-loss Q&A—no fixed 10%/20%, context of market-wide decline, holding period and avoiding the chase after a stop—maps to Model 159.
 - Tennis instruction, race registration, children building with magnetic tiles, family utility and being needed map to Model 160: progress and durable meaning come from staged participation rather than one-off consumption.
+
+## EP706 model mapping
+
+- The Roadster Rocket demo, Thrust／Performance pricing and the distinction between a jump-capable showcase and a road car map to Model 161: separate technical optionality, legal availability, delivery risk and present utility before paying for the story.
+- Narrowing market breadth, failed rebounds, hardware/memory weakness and keeping cash for a pullback map to Model 162: late-stage risk management is an exposure and liquidity problem, not a requirement to predict the exact top.
+- Astera Labs／Broadcom comparisons and the question of whether a leader can still grow after losing share map to Model 163: share loss can be healthy when the market expands, but demand, margins, execution and valuation still need separate checks.
+
+## EP707 model mapping
+
+- 活俠傳's new routes, community recommendation and the possibility of a durable game IP map to Model 164: creative products compound through craft, updates, audience trust and patient capital rather than only launch-day sales.
+- Running checkpoints, heart-rate feedback, Garmin and the body-as-status discussion map to Model 165: health progress is a staged operating asset whose value comes from repeated practice and future flexibility.
+- SpaceX compute payback, short versus long contracts, NAND demand revisions and data-center bottlenecks map to Model 166: a strong demand story must be decomposed into price, utilization, financing, power, equipment, cleanroom, substrate yield and shipment timing.
+- TPCA／PCB／載板 observations and the Q&A's repeated emphasis on timing and responsibility map to Model 167: the best next action is often position adjustment plus better information, not a dramatic all-in or all-out conclusion.

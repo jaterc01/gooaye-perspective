@@ -2054,3 +2054,74 @@ Sports events, family projects, shared toys and being needed create measurable, 
 - Running checkpoints, heart-rate feedback, Garmin and the body-as-status discussion map to Model 165: health progress is a staged operating asset whose value comes from repeated practice and future flexibility.
 - SpaceX compute payback, short versus long contracts, NAND demand revisions and data-center bottlenecks map to Model 166: a strong demand story must be decomposed into price, utilization, financing, power, equipment, cleanroom, substrate yield and shipment timing.
 - TPCA／PCB／載板 observations and the Q&A's repeated emphasis on timing and responsibility map to Model 167: the best next action is often position adjustment plus better information, not a dramatic all-in or all-out conclusion.
+
+## 161. Technical showcase versus delivery and utility
+
+Separate a compelling demo from legal availability, price, delivery, maintenance and present-day use. A purchase can buy a function, a research sample or a story; do not infer mass adoption from one person's excitement.
+
+## 162. Late-bull exposure and liquidity gate
+
+When breadth narrows, manage exposure and exit capacity before trying to call the exact top. Trim weak or illiquid positions, keep cash optionality, and leave a route back if leadership broadens again.
+
+## 163. Market-share loss inside an expanding TAM
+
+Share loss is not automatically failure. Compare total market growth, shipments, ASP, margin, execution and valuation before deciding whether a competitor's gain destroys or merely reshapes the opportunity.
+
+## 164. Creative IP compounding loop
+
+Game and content value can compound through craft, updates, player trust, distribution and patient capital. AI may accelerate repetitive work, but it does not replace taste, accountability or the relationship with the audience.
+
+## 165. Body as a staged operating asset
+
+Running and training should be managed through checkpoints, recovery and injury stops. A single result is evidence of preparation, not a license to increase load without limit or to substitute a personal story for medical care.
+
+## 166. GPU utilization, financing and bottleneck transfer
+
+A strong AI-demand story must be decomposed into price, utilization, financing, power, equipment, cleanroom, substrate yield and shipment timing. Demand can remain strong while the investable bottleneck moves.
+
+## 167. Position adjustment before narrative replacement
+
+When the market regime worsens, reduce the cost of being wrong before replacing the entire thesis. Position size, liquidity and new evidence can change before the final direction is known.
+
+## 168. Grey-scale judgment under uneven weather costs
+
+The same holiday, policy or disruption can benefit one worker or family and hurt another. Preserve individual choice, safety and uncertainty instead of forcing one universal verdict.
+
+## 169. Spectrum-based product review
+
+Different prices, styles and venues can each be useful. Compare a product by tested use case, audience, trade-off and sample value rather than declaring a permanent winner.
+
+## 170. Staged exercise and injury gate
+
+Running and training improve through accumulated volume, recovery and stop rules. A single result or age comparison is not a reason to ignore pain, function or professional guidance.
+
+## 171. Scarcity price versus value-add rotation
+
+Memory, substrate, DRAM and MLCC scarcity can lift price and margin, but the next leg requires improving demand, volume, product value or sustainable delivery. "Most scarce" is not automatically "safest."
+
+## 172. Funding-cost research rotation
+
+As rates, debt cost and liquidity tighten, the market may stop rewarding every supply-chain name and reprice toward software, value add or the next leadership group. Use the United States as a lead indicator only; local timing and breadth still need confirmation.
+
+## 173. Life depreciation and utility rebalancing
+
+Money can compound, while bodies, time and family windows depreciate. Reprice spending, saving, experience and risk after a major life-stage change; "cannot fall over" is a legitimate constraint, not a loss of ambition.
+
+## 174. Family responsibility and individual difference
+
+Children and care responsibilities can reset risk posture from maximizing upside to not falling over. Sound sensitivity, parenting and health experiences should be met with context and empathy, not treated as deliberate bad behavior or universal medical advice.
+
+## 175. Reversible entry for products and relationships
+
+Good products, social interactions and family conversations leave room to meet, test, refuse and continue. Validate the user and consent path before turning a clever idea into a hard requirement.
+
+## EP708 model mapping
+
+- Typhoon-holiday debate, different worker and family incentives, and the decision to bless rather than force a verdict map to Model 168: preserve grey scale, safety and individual choice when the same event distributes benefits and costs unevenly.
+- The Daxi Westin family stay, restaurant reviews and the host's spectrum framing map to Model 169: compare experiences by use case and sample value rather than declaring one permanent winner.
+- Running toward an NBR race and a January half-marathon, with coach feedback and joint-pain stop rules, map to Model 170: health progress is accumulated practice with safety gates.
+- Memory/substrate scarcity, DRAM/MLCC margins and the question of whether already-high gross margin can improve map to Model 171 and the existing Components/Bottleneck/Value Add ledger: scarcity price is not automatically durable value.
+- GPU versus airline economics, idle capacity, short contracts, older hardware and Jevons Paradox map to Model 166: use the analogy as a two-sided stress test, then verify utilization, price, depreciation and demand expansion.
+- Semi versus software rotation, funding cost, Citadel's research-heavy market and different U.S./Taiwan timing map to Model 172: market leadership can migrate after the infrastructure wave, but the lag and breadth need evidence.
+- Spending on travel, cars, games and family memories, plus the host's "you are also a depreciating asset" framing, maps to Model 173: include time, health, family and cash flow in the utility function without turning personal consumption into universal advice.
+- The discussion of having children, not being able to fall over, sound sensitivity and dental health maps to Model 174; the dating-ring idea and consent-first social route map to Model 175.

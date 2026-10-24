@@ -501,3 +501,15 @@ Interpretation boundary:
 - [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 702 public transcript entries through EP702. No authoritative public Markdown for EP703-EP707 was available during this refresh; the local EP706 and EP707 files therefore remain provisional SoundOn ASR transcripts.
 - Apple/SoundOn metadata identifies EP706's sponsor lead as `眠豆腐——芝麻豆腐` and EP707's as `這什麼鬼成長` with NordVPN. These sources confirm episode identity, timing, title, sponsor description and enclosure availability, not every locally transcribed sentence, exact figure, listener name or joke.
 - EP706 and EP707 remain provisional until public transcripts or line-by-line audio review are available. Preserve the RSS URLs, MP3 hashes and `.raw.*` artifacts; MP3 cleanup remains conditional on GitHub and Hermes verification.
+
+## Latest public-source check: 2026-10-24
+
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 708 items. The latest item is `EP708 | 🦷`, published `2026-10-24T07:33:24Z`; [SoundOn EP708](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/b86cb101-d4a0-49da-af9c-b1e460f5c89a) carries the new enclosure. The preceding item is `EP707 | 🦋`, published `2026-10-21T07:49:16Z`.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) still exposes `EP707 | 🦋` as the latest public episode and reports 707 episodes during this check; the regional page lagged the newer SoundOn item.
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 702 public transcript entries through EP702. No authoritative public Markdown for EP703-EP708 was available during this refresh, so the local EP708 file remains a provisional SoundOn ASR transcript.
+- EP708's RSS metadata identifies the sponsor opening as Easy Life 十月被 and the episode marker as `🦷`. The source confirms episode identity, timing, sponsor description and enclosure availability, not every locally transcribed sentence, exact figure, listener name or joke.
+
+Interpretation boundary:
+
+- RSS and Apple show metadata confirm episode identity and timing; they do not verify every locally transcribed sentence or investment, health and family statement.
+- EP708 remains provisional until a public transcript or line-by-line audio review is available. Preserve the RSS URL, MP3 hash and local raw artifacts; MP3 cleanup remains conditional on GitHub and Hermes verification.

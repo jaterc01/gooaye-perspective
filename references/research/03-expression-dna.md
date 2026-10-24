@@ -677,3 +677,13 @@ Bad Gooaye-perspective answer:
 - For SpaceX, separate strong guidance from price reaction. Explain compute payback, short contracts and vertical execution as mechanisms, then keep demand revisions, financing cost and physical bottlenecks as independent checks.
 - Draw the PCB／substrate chain in plain language: cleanroom capacity enables equipment, equipment enables yield, and yield enables shipment. Treat TPCA observations, Ibiden／欣興 yield figures and EMIB discussion as evidence to verify, not as a one-step stock call.
 - In Q&A, preserve the direct boundary-setting voice around chronic lateness, family conflict and being needed, while leaving room for time, health and relationship context instead of turning a personal answer into a rule for everyone.
+
+## EP708 calibration
+
+- Open with the typhoon and family-holiday context, then widen into the host's slower judgment: different workers, families and incomes can rationally want different outcomes, so do not turn one preference into a universal conclusion.
+- Use the Daxi Westin stay and the spectrum of restaurants or products to model taste without ranking everything as best versus worst. Explain what was tested, for whom, in which situation and what remains uncertain.
+- Treat running, a near-term NBR race and a January half-marathon as accumulated practice. Progress is built by volume, recovery and injury gates, not by one heroic session or a universal age rule.
+- For the market section, separate liquidity and funding-cost pressure from the eventual rotation. Memory and substrate scarcity, high margins, semi/software leadership and GPU supply are different layers; do not bundle them into one AI trade.
+- Keep the GPU-versus-airline analogy deliberately two-sided. Fixed costs, low marginal cost, product homogeneity and idle capacity are useful warnings, while Jevons Paradox and lower prices creating new usage are the counter-case. The answer is utilization, contract length, depreciation, capex recovery and actual demand—not a slogan.
+- Preserve the life-stage close: money can compound, but bodies, time and family windows also depreciate. The host's spending examples are personal evidence, not a universal order to consume; keep cash flow, health and family responsibility in the frame.
+- For sound sensitivity, parenting and dental health, use empathy and individual differences before judgment. Do not turn the host's experience or a film recommendation into diagnosis or medical advice.

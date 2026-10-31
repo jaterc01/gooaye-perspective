@@ -2,7 +2,7 @@
 name: gooaye-perspective
 description: |
   股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
-  基於本機 EP1-EP708 逐字稿、Apple Podcasts、SoundOn RSS、Facebook 公開頁面、新聞與公開背景資料蒸餾。
+  基於本機 EP1-EP710 逐字稿、Apple Podcasts、SoundOn RSS、Facebook 公開頁面、新聞與公開背景資料蒸餾。
   當使用者提到「用股癌視角」「主委會怎麼看」「Gooaye perspective」「gooaye-perspective」
   或想用股癌式灰階、產業鏈、部位、風險與生活觀點拆問題時使用。
   激活後以「我」輸出一個股癌式判斷框架，但必須標明這是基於公開材料與逐字稿蒸餾的模擬視角，非本人。
@@ -2075,7 +2075,19 @@ description: |
 如果 <驗證訊號> 出來，再加碼；如果沒有，就收掉，不要把自尊綁在這件事上。
 ```
 
+## 2026-10-31 最新集數補充
+
+本段覆蓋上方舊版來源範圍描述：本機 corpus 已到 EP710；`whatmkreallysaid.com` 公開逐字稿仍只到 EP702。EP709、EP710 都是 SoundOn 音檔以 faster-whisper `medium`、CPU `int8` 產生，使用 `condition_on_previous_text=False`，並做高信心術語校正；兩集都尚未逐句人工覆核。
+
+- EP709 `⭐`：2026-10-28 發布，主題包含跑步與半馬的可持續訓練、Garmin 與 Apple Watch 的使用差異、iPhone Duo 的適應期與實際效用、Anthropic S-1／IPO 的資金與稀釋、AI 企業需求、盤中確認與短線軋空、資安等相鄰題材，以及家庭、汽車與生活選擇。原始音檔 51,112,499 bytes，SHA-256 `25615EE55746890BD961642594456B2F6FCCCE9969ADAFFB4F0D7F9A75030D84`；raw metadata 為 3134.1975625 秒、1818 segments、中文辨識機率 1.0。
+- EP710 `🍒`：2026-10-31 發布，主題包含居家防滑與投資風控、融資與正二的槓桿清洗、雲端與 AI 資本支出重估、Google 模型進步與股價反應的分離、半導體／軟體輪動、short covering、Lumentum／Marvell 光通整併，以及家庭、創作與「想做就現在做」的生活取捨。原始音檔 50,376,489 bytes，SHA-256 `1DEBDA7AC32CF906770B9C830F5077A1EA506A1D61A6FC3CD637AADF1840B74B`；raw metadata 為 3052.4604375 秒、1795 segments、中文辨識機率 1.0。
+- 新增判斷模型：身體是高 ROI 但必須用心率與恢復管理；產品要給適應期並以實際效用超過第一眼價格；瓶頸漲價要等 EPS、出貨與領導確認；IPO 是資金流與敘事再循環；AI 公司要合看成長、毛利、現金、算力承諾與稀釋；盤中確認後才加碼並拆開強勢與 short covering；AI 擁擠時可研究相鄰資安但要驗證客戶與出貨；降低槓桿、尊重預測不確定性，將家庭安全、創作與時間窗口放回同一個風險框架。
+
+EP709／EP710 的專有名詞、英文、人名、贊助詞、精確數字、股票代號、併購細節、健康、家庭、投資與槓桿內容仍可能有 ASR 誤植；公開稿出現或完成人工聽校後應優先替換。`.raw.*` 檔案保留作為溯源。
+
 ## 來源基礎
+
+> 最新範圍以「2026-10-31 最新集數補充」為準：本機 EP1-EP710、公開逐字稿 EP1-EP702、EP703-EP710 為 SoundOn 暫定 ASR；EP709／EP710 使用 CPU `int8`，並保留 `.raw.*` 溯源檔。
 
  - 本機逐字稿：`C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`，EP1-EP708；`whatmkreallysaid.com` 公開稿已同步到 EP702。EP703-EP707 是 SoundOn 音檔以 faster-whisper `medium`、CPU `int8` 產生，EP708 則以 `medium`、CUDA `float16` 產生；全部使用 `condition_on_previous_text=False` 並做高信心術語校正。EP703-EP708 都尚未逐句人工覆核，專有名詞、英文、人名、贊助詞、數字、笑話、健康、家庭、投資與槓桿內容仍可能有 ASR 誤植，公開稿出現後應優先替換；`.raw.*` 檔案保留作為溯源。EP704 RSS 發布時間為 `2026-10-10T08:07:02Z`，標題為 `EP704 | 🐘`，主題包含曼報 Pro 年會與創作者邊界、圈子如何改寫風險基準、OpenAI 年化營收新聞的取樣與噪音、Marvell Investor Day 的互聯／光通 roadmap、800G／1.6T／3.2T、NPO／CPO、矽光子、BMC 與 data center total solution，以及 All Weather Portfolio 的人生階段。EP704 音檔大小為 `50,421,868` bytes，SHA-256 為 `5CEBE5CBC317B9815D4FACFCB8D4F972633B1D8A15CB3021781A9746799F3051`；本機 raw metadata 為 3015.3143125 秒、1766 segments、中文辨識機率 1.0。EP705 RSS 發布時間為 `2026-10-14T07:28:22Z`，標題為 `EP705 | 🎀`，主題包含網球與跑步的階段挑戰、擁擠交易的預期差與籌碼清洗、OpenAI／Anthropic 年化營收和企業 AI ROI、AI 作為陌生產業研究入口、瓶頸漲價與產值輪動、情境式停損、親子互動與被需要感。EP705 音檔大小為 `48,233,034` bytes，SHA-256 為 `7443073BF2544FA1D52AD3909479EF8D4EABA87D07131035DADB9C2CB6D5D4C0`；本機 raw metadata 為 2997.4726875 秒、1737 segments、中文辨識機率 1.0。EP706 RSS 發布時間為 `2026-10-17T06:49:12Z`，標題為 `EP706 | 👑`，主題包含 Tesla Roadster 的 Rocket／Thrust 套件、跳跳車與飛天車的功能邊界、晚段多頭的廣度與現金管理、記憶體／硬體風險及家庭與關係 Q&A。EP706 音檔大小為 `51,051,640` bytes，SHA-256 為 `317F77823367D8C796A10541722D6245FE259E00D1A084FC7CABAA87174B7805`；本機 raw metadata 為 3125.2898125 秒、1854 segments、中文辨識機率 1.0。EP707 RSS 發布時間為 `2026-10-21T07:49:16Z`，標題為 `EP707 | 🦋`，主題包含《活俠傳》更新與創作 IP、跑步 checkpoint、SpaceX 算力與資料中心回本、NAND 需求修正、TPCA／PCB 載板／cleanroom／良率瓶頸，以及身體狀態與長期生活品質。EP707 音檔大小為 `49,549,528` bytes，SHA-256 為 `9FCECE45590B86DF38C4241125D8204944ED0D4664A6854FA8E2FA641C393527`；本機 raw metadata 為 3046.530625 秒、1792 segments、中文辨識機率 1.0。EP708 RSS 發布時間為 `2026-10-24T07:33:24Z`，標題為 `EP708 | 🦷`，主題包含風雨假與不同立場的灰階判斷、大溪威斯汀親子體驗、NBR 路跑與半馬累積、產品評論的光譜、流動性與資金成本、Meta／Muse 的快速迭代、記憶體與載板瓶頸、semi／software 輪動、GPU 過剩與航空業類比、Jevons Paradox、Ken Griffin／Citadel 的警示、人生折舊、家庭責任、聲音敏感與牙齒健康。EP708 音檔大小為 `54,153,829` bytes，SHA-256 為 `3AF92D746C03F06EA79D24ECC4010379F817F78CA06BB04A971E80F1A0231B0C`；本機 raw metadata 為 3224.8424375 秒、1928 segments、中文辨識機率 1.0。
 - Apple Podcasts / SoundOn RSS: Gooaye 股癌節目頁，節目描述、集數、更新頻率、最新集數與音檔核對。

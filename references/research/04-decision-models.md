@@ -2125,3 +2125,35 @@ Good products, social interactions and family conversations leave room to meet, 
 - Semi versus software rotation, funding cost, Citadel's research-heavy market and different U.S./Taiwan timing map to Model 172: market leadership can migrate after the infrastructure wave, but the lag and breadth need evidence.
 - Spending on travel, cars, games and family memories, plus the host's "you are also a depreciating asset" framing, maps to Model 173: include time, health, family and cash flow in the utility function without turning personal consumption into universal advice.
 - The discussion of having children, not being able to fall over, sound sensitivity and dental health maps to Model 174; the dating-ring idea and consent-first social route map to Model 175.
+
+## EP709 model mapping
+
+- Running, heart-rate control and a half-marathon goal extend Model 170: body progress is a staged asset, so use recovery and repeatability rather than one heroic effort.
+- iPhone Duo's learning curve maps to Model 175: give a product or relationship a reversible adaptation period, then judge actual utility instead of the first emotional reaction or status price.
+- Supply-chain price hikes, consensus estimates and new-high leadership map to Model 154 and Model 157: scarcity is not durable value until shipment, EPS and price leadership confirm it.
+- Anthropic's S-1, IPO timing, subscription cash lock-up and dilution map to Model 158: funding events change liquidity and narrative, but do not replace unit economics or cash-flow verification.
+- Intraday confirmation, late weakness and short covering map to Model 159: a strong-looking tape can be mechanical, so separate forced buying from durable demand.
+
+## EP710 model mapping
+
+- Household anti-slip risk and investment risk map to Model 160: remove small preventable hazards before they become irreversible losses.
+- Financing, margin calls and 正二 deleveraging extend Model 167: reduce the cost of being wrong first; do not treat forced selling alone as a market bottom.
+- Cloud and AI capex, free cash flow, funding cost and depreciation map to Model 166 and Model 161: demand can be real while the market reprices who can finance and monetize it.
+- Google model improvement with a weaker stock and semiconductor strength caused by short covering map to Model 120 and Model 159: evidence must include price behavior, cash generation and persistence, not only a better story.
+- Family, creative work and the advice to do meaningful things before the window closes extend Models 173 and 174: time and relationships depreciate too, while cash flow and responsibility remain hard constraints.
+
+## 157. Adaptation before verdict
+
+New products, training plans and unfamiliar workflows often need a fair adaptation period. Judge them by repeated use, utility and total friction rather than the first five minutes or the social status attached to them.
+
+## 158. Funding events are liquidity events
+
+An IPO or major financing can validate demand while absorbing cash, adding dilution and changing the market's next explanation. Track unit economics and financing mechanics separately from the narrative.
+
+## 159. Separate forced buying from durable leadership
+
+Short covering, margin cleanup and positioning can produce a sharp rebound without new fundamental demand. Require persistence, earnings, volume and relative strength after the mechanical flow fades.
+
+## 160. Preventable risk deserves early action
+
+Home safety and portfolio risk share a simple rule: fix cheap, observable hazards before they become expensive, irreversible events. Prevention is not pessimism; it preserves future choices.

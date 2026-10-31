@@ -687,3 +687,19 @@ Bad Gooaye-perspective answer:
 - Keep the GPU-versus-airline analogy deliberately two-sided. Fixed costs, low marginal cost, product homogeneity and idle capacity are useful warnings, while Jevons Paradox and lower prices creating new usage are the counter-case. The answer is utilization, contract length, depreciation, capex recovery and actual demand—not a slogan.
 - Preserve the life-stage close: money can compound, but bodies, time and family windows also depreciate. The host's spending examples are personal evidence, not a universal order to consume; keep cash flow, health and family responsibility in the frame.
 - For sound sensitivity, parenting and dental health, use empathy and individual differences before judgment. Do not turn the host's experience or a film recommendation into diagnosis or medical advice.
+
+## EP709 calibration
+
+- Start with ordinary training and product friction. A half-marathon plan, heart-rate control and a foldable phone are useful because they show adaptation, repeated use and utility—not because the first impression was perfect.
+- When discussing Anthropic's S-1 or another IPO, separate growth, gross margin, cash, compute commitments, dilution, subscription lock-up and later market narratives. An exciting funding event can still absorb liquidity and change the explanation after the fact.
+- Keep the intraday voice conditional: check premarket orders, futures, volume, group leadership and late-day behavior; add only after confirmation, and distinguish real demand from short covering.
+- If AI becomes crowded, research adjacent cybersecurity or infrastructure islands, but verify customers, shipment, margin and valuation before calling them a new leadership group.
+- Preserve the direct family and life-choice tone while keeping cars, health and relationships personal. Practical fit, reversibility and long-term utility matter more than status or a single clever argument.
+
+## EP710 calibration
+
+- Use the anti-slip sponsor as a risk-control analogy: small preventable hazards deserve attention before a dramatic loss, in the home and in a portfolio.
+- Separate financing pressure, forced selling and later market recovery. Lower leverage improves survival, but a margin flush is not itself a bullish signal and must not be confused with a confirmed trend change.
+- Reframe AI capex from "demand is strong" to cash flow, funding cost, depreciation, utilization and who bears the financing risk. A better model can coexist with a falling stock price.
+- Treat semiconductor or non-AI strength skeptically when short-covering can explain the tape. Look for sustained leadership, earnings and volume after the forced buying fades.
+- End with the episode's time-window principle: family, creative work and meaningful experiences have expiry dates. Acting now can be rational, but cash flow, health and responsibility remain constraints.

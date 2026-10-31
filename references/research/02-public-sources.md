@@ -513,3 +513,14 @@ Interpretation boundary:
 
 - RSS and Apple show metadata confirm episode identity and timing; they do not verify every locally transcribed sentence or investment, health and family statement.
 - EP708 remains provisional until a public transcript or line-by-line audio review is available. Preserve the RSS URL, MP3 hash and local raw artifacts; MP3 cleanup remains conditional on GitHub and Hermes verification.
+
+## Latest public-source check: 2026-10-31
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) exposes 702 public transcript entries through EP702. No authoritative public Markdown for EP703-EP710 was available during this refresh.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 710 items. The latest item is `EP710 | 🍒`, published `2026-10-31T07:10:44Z`, with GUID `0cee70ae-6178-47d5-8ef1-12225a833dc0`; the preceding item is `EP709 | ⭐`, published `2026-10-28T08:13:55Z`, with GUID `499a0c9f-1a36-4d5b-b9ca-ee2b2510e0bd`.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) shows EP710 as the latest visible episode. The Apple lookup API lagged at 709 tracks during this check, so SoundOn RSS remains the current publication-count anchor.
+- The RSS descriptions identify EP709 with `可以一起勇敢到十一月中嗎` and EP710 with `雙蛋瓦斯捏破一顆`; these sources confirm episode identity, timing, title and enclosure availability, not every locally transcribed sentence, exact figure, stock ID, sponsor claim, listener name or joke.
+
+Interpretation boundary:
+
+- EP709 and EP710 remain provisional until public transcripts or line-by-line audio review are available. Preserve the RSS URLs, MP3 hashes and `.raw.*` artifacts; MP3 cleanup remains conditional on GitHub and Hermes verification.

@@ -524,3 +524,15 @@ Interpretation boundary:
 Interpretation boundary:
 
 - EP709 and EP710 remain provisional until public transcripts or line-by-line audio review are available. Preserve the RSS URLs, MP3 hashes and `.raw.*` artifacts; MP3 cleanup remains conditional on GitHub and Hermes verification.
+
+## Latest public-source check: 2026-11-04
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 702 public transcript entries through EP702. No authoritative public Markdown for EP703-EP711 was available during this refresh.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 711 items. The latest item is `EP711 | 🕊️🐦🦚🦜🦉🦅🐦🐧`, published `2026-11-04T06:56:11Z`, with GUID `1eea6dc8-17a1-43a4-b3ef-1a2d20ff65b9`; the [SoundOn EP711 page](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/1eea6dc8-17a1-43a4-b3ef-1a2d20ff65b9) carries the new enclosure. The RSS description begins `dont break my heart` and identifies the 修麗可雙 11 sponsor.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) still shows EP710 as the latest visible episode and reports 710 episodes. The [Apple lookup API](https://itunes.apple.com/lookup?id=1500839292&entity=podcast) also reports 710 tracks with the prior EP710 release date, so SoundOn RSS is the current publication-count anchor for EP711.
+- SoundOn/Apple metadata confirms EP711 identity, timing, marker and enclosure availability; it does not verify every locally transcribed sentence, exact figure, listener name, sponsor claim or joke. EP711 therefore remains a provisional local ASR transcript until a public transcript or line-by-line audio review is available.
+
+Interpretation boundary:
+
+- The public transcript source is authoritative for the current public range only through EP702. The local EP703-EP711 files are retained as provisional audio-derived artifacts with raw provenance.
+- Preserve the RSS URL, episode GUID, MP3 hash and `.raw.*` files; MP3 cleanup remains conditional on GitHub and Hermes verification.

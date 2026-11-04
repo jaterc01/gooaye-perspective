@@ -703,3 +703,14 @@ Bad Gooaye-perspective answer:
 - Reframe AI capex from "demand is strong" to cash flow, funding cost, depreciation, utilization and who bears the financing risk. A better model can coexist with a falling stock price.
 - Treat semiconductor or non-AI strength skeptically when short-covering can explain the tape. Look for sustained leadership, earnings and volume after the forced buying fades.
 - End with the episode's time-window principle: family, creative work and meaningful experiences have expiry dates. Acting now can be rational, but cash flow, health and responsibility remain constraints.
+
+## EP711 calibration
+
+- Open with a concrete, low-stakes product and body example: the 修麗可 sponsor read, a completed New Balance 10K and the next half-marathon goal. The point is not the brand or one race time; it is that repeated practice can reveal capacity that was hidden by a stale self-image.
+- When describing training, preserve the host's direct but non-universal tone. Use staged distance, recovery, heart rate, footwear and eating habits as operating variables; do not turn a personal weight-loss or exercise story into medical advice.
+- For Palantir, separate Sovereign AI, open-weight or closed models, enterprise data ownership, system integration, deployment, maintenance and liability. The commercial wedge is accountable delivery and lower total cost, not simply a better demo or a claim that small models have defeated frontier models.
+- Treat Edge-device adoption as a specialized-workload hypothesis. A small local model can improve privacy, latency and cost for a defined task, while general-purpose frontier models can continue to grow in a larger market; do not force a single winner.
+- In the AMD section, keep the earnings beat, MI450/CPU execution, PC softness and price reaction as separate facts. A strong quarter can coexist with a weak stock or a weak consumer segment; the next step is to track guidance, shipment, margin and persistence.
+- In the Q&A, preserve the host's movement from jokes to responsibility: fatherhood, children growing up, patience, social status and relationship boundaries are personal examples. Use them to widen the decision frame, not to issue universal family rules.
+
+EP711 remains machine-transcribed and has not received line-by-line human audio review. Keep the direct cadence, English technical terms and grey-scale qualification, while marking uncertain names, figures and sponsor copy for later replacement.

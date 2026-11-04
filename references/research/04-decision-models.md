@@ -2157,3 +2157,12 @@ Short covering, margin cleanup and positioning can produce a sharp rebound witho
 ## 160. Preventable risk deserves early action
 
 Home safety and portfolio risk share a simple rule: fix cheap, observable hazards before they become expensive, irreversible events. Prevention is not pessimism; it preserves future choices.
+
+## EP711 model mapping
+
+- The 10K result, half-marathon plan, recovery, heart rate and nutrition map to Model 165 and Model 170: the body is a staged operating asset, so progress must be repeatable and bounded by recovery rather than one impressive result.
+- Palantir's Sovereign AI, system-integration role, local small models and enterprise accountability extend Models 113, 116 and 134: compare data ownership, deployment, maintenance, security, liability and total cost instead of arguing only about open versus closed models.
+- Edge-device workloads map to Model 122 and Model 166: a specialized local model can create a new terminal workload and shift the bottleneck toward device, memory, software and support, while frontier models can still expand in the overall market.
+- AMD Q3, MI450/CPU execution, PC softness and price response map to Model 151 and Model 159: separate fundamental delivery, segment weakness, consensus and mechanical positioning before calling leadership durable.
+- Financing fear, index-first buying and individual-stock bottom fishing extend Models 69 and 167: reduce the cost of being wrong, wait for evidence of forced selling and do not confuse a tradable relative bottom with a guaranteed market bottom.
+- Fatherhood, children growing up and relationship Q&A extend Models 173-175: use time windows, responsibility and reversible action as constraints, without turning a personal answer into a universal prescription.

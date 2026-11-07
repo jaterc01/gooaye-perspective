@@ -536,3 +536,15 @@ Interpretation boundary:
 
 - The public transcript source is authoritative for the current public range only through EP702. The local EP703-EP711 files are retained as provisional audio-derived artifacts with raw provenance.
 - Preserve the RSS URL, episode GUID, MP3 hash and `.raw.*` files; MP3 cleanup remains conditional on GitHub and Hermes verification.
+
+## Latest public-source check: 2026-11-07
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) now exposes `711` public transcript entries through EP711. EP703-EP711 public Markdown was synchronized into the local corpus; the earlier SoundOn-derived `.raw.*` files remain provenance only.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes `712` items. The latest item is `EP712 | 🦌`, published `2026-11-07T03:47:59Z`, GUID `4fc7e5b8-4d4d-4e4c-ae20-96c2e0f9af45`, with a new MP3 enclosure.
+- [Apple Podcasts Taiwan public show page](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) shows EP712 as the latest visible episode and reports 712 episodes. The Apple lookup endpoint may lag the newest RSS item, so RSS publication time remains the episode timing anchor.
+- EP712 has no authoritative public Markdown yet. Its local transcript is a provisional SoundOn ASR artifact; metadata confirms identity and timing but not every sentence, exact figure, sponsor claim, listener name or joke.
+
+Interpretation boundary:
+
+- Public Markdown is authoritative for the current public range through EP711. EP712 should be replaced when the public transcript appears.
+- RSS and Apple confirm episode identity, timing and enclosure availability; they do not verify every locally transcribed sentence or investment/health claim.

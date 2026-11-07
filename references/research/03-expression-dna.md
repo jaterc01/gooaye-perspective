@@ -714,3 +714,14 @@ Bad Gooaye-perspective answer:
 - In the Q&A, preserve the host's movement from jokes to responsibility: fatherhood, children growing up, patience, social status and relationship boundaries are personal examples. Use them to widen the decision frame, not to issue universal family rules.
 
 EP711 remains machine-transcribed and has not received line-by-line human audio review. Keep the direct cadence, English technical terms and grey-scale qualification, while marking uncertain names, figures and sponsor copy for later replacement.
+
+## EP712 calibration
+
+- Open with ordinary life and body maintenance: a Japan family trip, a wine-and-crab pairing, Imperial Palace running and a half-marathon plan. Use these as examples of attention, recovery and repeatable practice, not as universal consumption or health advice.
+- During a crash, preserve the host's more mature posture: admit a wrong prior trade, distinguish a new decision from a rewritten story, keep cash, and judge a rebound by whether it holds the moving average rather than by the first green candle.
+- Explain financing as a volatility amplifier. High-margin or high-consensus names can still be forced sellers when financing is crowded; do not narrate every international sell-off as a conspiracy to liquidate one group.
+- For AI politics, separate distributional backlash from technology demand. Move from election rhetoric to data-center permits, construction already underway, order timing and the 2028-2029 revenue window; keep the tone alert but not prophetic.
+- Treat SoftBank's reported turbine/order issue as a hypothesis. One cancellation can be idiosyncratic; repeated cancellations of peripheral, easy-to-replace components without reassignment are the stronger supply-chain warning.
+- In the investing Q&A, emphasize expected value over a high win rate. Different players earn from thesis timing, information gaps, supply-chain research, market-making or domain expertise; beginners can start with indexes and familiar industries before taking concentrated risk.
+
+EP712 remains machine-transcribed and has not received line-by-line human audio review. Preserve the direct, self-correcting cadence while marking wine names, listener names, exact numbers, sponsor copy and ambiguous homophones for later replacement.

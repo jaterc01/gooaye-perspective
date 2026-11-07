@@ -2166,3 +2166,26 @@ Home safety and portfolio risk share a simple rule: fix cheap, observable hazard
 - AMD Q3, MI450/CPU execution, PC softness and price response map to Model 151 and Model 159: separate fundamental delivery, segment weakness, consensus and mechanical positioning before calling leadership durable.
 - Financing fear, index-first buying and individual-stock bottom fishing extend Models 69 and 167: reduce the cost of being wrong, wait for evidence of forced selling and do not confuse a tradable relative bottom with a guaranteed market bottom.
 - Fatherhood, children growing up and relationship Q&A extend Models 173-175: use time windows, responsibility and reversible action as constraints, without turning a personal answer into a universal prescription.
+
+## EP712 model mapping
+
+- The Friday crash, cash buffer, limited next add and the decision to enjoy Disneyland without constant chart-watching map to Model 176: reduce the cost of being wrong before deciding whether the sell-off is a bottom.
+- Democratic rhetoric about stopping AI, existing data-center construction and the need to watch new permits map to Model 177: policy headlines need a permit, build and order verification path.
+- SoftBank's reported turbine/order issue, small components being easier to cancel, and the need to see reassignment or repeated cancellations map to Model 178: one customer's action is a hypothesis; cross-supply-chain propagation is the signal.
+- The expected-value Q&A, index-first entry and finding a familiar-industry edge map to Model 179: define the game, payoff distribution and repeatable advantage before optimizing win rate.
+
+## 176. Crash survival before bottom-calling
+
+In a deep sell-off, protect liquidity, attention and decision quality before trying to identify the exact bottom. A rebound is a trade or a data point until price persistence and the chosen horizon confirm more.
+
+## 177. Policy rhetoric to permit and delivery
+
+Translate political promises into permits, projects already under construction, order timing and customer delivery. Existing work may persist while new permits change the distant revenue curve; neither outcome is known from rhetoric alone.
+
+## 178. Small-component cancellation as an early warning
+
+A single cancellation can be customer-specific. Repeated cancellations of peripheral, easy-to-replace components with no reassignment can reveal a broader supply-chain correction before the headline reaches strategic hardware.
+
+## 179. Expected value and personal market edge
+
+Investing games differ by thesis timing, information advantage, supply-chain knowledge, market-making, domain expertise and payoff distribution. Win rate alone is not the objective; beginners should identify a repeatable edge or start with index exposure and familiar industries.

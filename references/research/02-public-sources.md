@@ -548,3 +548,9 @@ Interpretation boundary:
 
 - Public Markdown is authoritative for the current public range through EP711. EP712 should be replaced when the public transcript appears.
 - RSS and Apple confirm episode identity, timing and enclosure availability; they do not verify every locally transcribed sentence or investment/health claim.
+
+## Latest public-source check (2026-11-11)
+
+- [SoundOn EP713](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/5efa0892-4cb9-4f82-a1fc-21f0a49a2b9c) was published at 07:21:09 UTC. [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) also lists EP713 first.
+- The [established transcript index](https://whatmkreallysaid.com/episodes.json) still ends at EP711. The Vocus contributor 癌粉 provides public, unofficial transcripts for [EP712](https://vocus.cc/article/6aeed767fd89780001efdc38) and [EP713](https://vocus.cc/article/6af42d37fd89780001501fc5).
+- Use the transcript for the host's perspective. Verify company claims, financial figures and reported projects independently.

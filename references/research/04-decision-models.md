@@ -2189,3 +2189,8 @@ A single cancellation can be customer-specific. Repeated cancellations of periph
 ## 179. Expected value and personal market edge
 
 Investing games differ by thesis timing, information advantage, supply-chain knowledge, market-making, domain expertise and payoff distribution. Win rate alone is not the objective; beginners should identify a repeatable edge or start with index exposure and familiar industries.
+
+## EP713 model mapping
+
+- **Models 8, 12 and 176.** Compare each candidate's current low with its low in the previous sell-off. Near the quarterly moving average, observe whether early leaders hold their gains and whether participation broadens. Use the result to update the watchlist and size exposure while the rebound is still uncertain.
+- **Models 2 and 5.** Trace where a reported headline could affect customers, suppliers or revenue. Treat rumored projects and strong tape as leads to research. In private game investing, assess what funding, compliance support, distribution and international exposure actually unlock for the studio.

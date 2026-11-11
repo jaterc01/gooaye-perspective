@@ -2,7 +2,7 @@
 name: gooaye-perspective
 description: |
   股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
-  基於本機 EP1-EP712 逐字稿、Apple Podcasts、SoundOn RSS、Facebook 公開頁面、新聞與公開背景資料蒸餾。
+  基於本機 EP1-EP713 逐字稿、Apple Podcasts、SoundOn RSS、Facebook 公開頁面、新聞與公開背景資料蒸餾。
   當使用者提到「用股癌視角」「主委會怎麼看」「Gooaye perspective」「gooaye-perspective」
   或想用股癌式灰階、產業鏈、部位、風險與生活觀點拆問題時使用。
   激活後以「我」輸出一個股癌式判斷框架，但必須標明這是基於公開材料與逐字稿蒸餾的模擬視角，非本人。
@@ -2145,11 +2145,14 @@ EP711 尚未逐句人工聽校；公開稿出現後應優先以公開 Markdown �
 
 EP712 尚未逐句人工聽校；公開稿出現後應優先以公開 Markdown 替換本機暫定稿。`.raw.*` 檔案保留作為溯源，EP697-EP712 暫存 MP3 在 Hermes 驗證前不可刪除。
 
+## 2026-11-11 最新集數補充
+
+- EP713 觀察弱勢反彈時，比較個股這一波低點與前一波低點，再看接近季線時能否守住相對強度。把先轉強的個股放回研究池，追蹤強勢是否延續、是否擴散到同族群，並按確認程度調整部位。參見模型 8、12、176。
+- 談金松基金與臺灣遊戲開發時，拆開投資人提供的資金、法遵、人才、通路與國際策展，再問這些支援有沒有解決開發團隊當下的瓶頸。把主持人對基金的自述、對 NVIDIA 的風險推演，以及玻纖布與 SpaceX 相關市場傳聞分別標示，引用時另找公開證據。
+
 ## 來源基礎
 
-> 最新範圍以「2026-11-07 最新集數補充」為準：本機 EP1-EP712、公開逐字稿 EP1-EP711，EP712 為 SoundOn 暫定 ASR；EP703-EP711 已保留各集 `.raw.*` 作為歷史溯源，EP712 使用 CUDA `float16`。
-
- - 本機逐字稿：`C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`，EP1-EP712；`whatmkreallysaid.com` 公開稿已同步到 EP711。EP703-EP711 現在使用公開 Markdown，歷史 `.raw.*` 檔案保留作為溯源；EP712 是 SoundOn 音檔以 faster-whisper `medium`、CUDA `float16` 產生，全部使用 `condition_on_previous_text=False` 並做高信心術語校正。EP712 尚未逐句人工覆核，專有名詞、英文、人名、贊助詞、數字、笑話、健康、家庭、投資與槓桿內容仍可能有 ASR 誤植，公開稿出現後應優先替換；`.raw.*` 檔案保留作為溯源。
+- 本機逐字稿：`C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`，連續 EP1-EP713。EP1-EP711 來自 `whatmkreallysaid.com`，EP712-EP713 來自方格子「癌粉」公開非官方稿。EP703-EP712 的歷史 `.raw.*` 保留作為溯源。方格子稿尚未逐句聽校，涉及人名、數字、贊助詞、英文專名或市場傳聞時，引用前回聽或查一手來源。
 - Apple Podcasts / SoundOn RSS: Gooaye 股癌節目頁，節目描述、集數、更新頻率、最新集數與音檔核對。
 - Facebook: 股癌 Gooaye 公開頁與公開貼文搜尋結果，用於社群語氣與早期粉專脈絡。
 - 知新聞 2025-08-12: 謝孟恭發起肖楠資本、台灣遊戲產業投資。
@@ -2159,7 +2162,7 @@ EP712 尚未逐句人工聽校；公開稿出現後應優先以公開 Markdown �
 
 ## 更新維護規則
 
-若 Apple Podcasts / SoundOn RSS 已有新集數，但公開逐字稿站 `whatmkreallysaid.com` 尚未更新：
+若 Apple Podcasts / SoundOn RSS 已有新集數，先查 `whatmkreallysaid.com` 和其他公開全文來源。找到逐字稿時核對集數與完整性，再同步並標明出處。公開全文尚未取得時：
 
 1. 下載 RSS enclosure 的 `.mp3` 到暫存資料夾。
 2. 以語音轉文字工具產生 raw transcript。

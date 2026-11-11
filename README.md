@@ -2,7 +2,9 @@
 
 股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
 
-這是一個 Codex/Hermes-style skill，基於本機 EP1-EP712 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。`whatmkreallysaid.com` 公開稿目前已同步到 EP711；EP703-EP711 已由公開 Markdown 取代暫定稿並保留各集 `EP*.raw.*` 溯源，EP712 是 SoundOn `faster-whisper-medium` CUDA `float16` 暫定稿。EP709 新增可持續訓練、iPhone Duo 適應期、Anthropic S-1／IPO 資金與稀釋、盤中確認、short covering 與相鄰資安題材；EP710 新增居家安全與投資風控、槓桿清洗、AI 資本支出重估、預測謙卑、半導體／軟體輪動、光通整併，以及家庭、創作與時間窗口；EP711 新增 10K／半馬的身體作業系統、Sovereign AI／SI／Edge device、開放權重小模型、企業資料責任、AMD 財報與基本面／股價拆分；EP712 新增股災現金管理、融資波動、AI data-center permit、SoftBank 砍單傳導、期望值與個人優勢。EP712 尚未逐句人工覆核，專有名詞、英文、人名、數字、股票代號、贊助詞、酒款、笑話、健康、家庭與槓桿內容仍有機器轉錄風險；公開稿出現後應優先替換暫定稿。
+這是一個 Codex/Hermes-style skill，基於本機 EP1-EP713 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。
+
+`whatmkreallysaid.com` 已同步到 EP711。EP712 和 EP713 使用方格子「癌粉」的公開非官方稿，EP712 的本機轉錄檔保留作為溯源。EP712 涵蓋股災現金管理、資料中心許可與砍單傳導。EP713 新增跨波段相對強度、季線附近的反彈確認，以及遊戲投資人可提供的開發配套。方格子稿尚未逐句聽校，精確數字、人名及專有名詞引用前宜回查音檔。
 
 ## Install
 

@@ -724,4 +724,9 @@ EP711 remains machine-transcribed and has not received line-by-line human audio 
 - Treat SoftBank's reported turbine/order issue as a hypothesis. One cancellation can be idiosyncratic; repeated cancellations of peripheral, easy-to-replace components without reassignment are the stronger supply-chain warning.
 - In the investing Q&A, emphasize expected value over a high win rate. Different players earn from thesis timing, information gaps, supply-chain research, market-making or domain expertise; beginners can start with indexes and familiar industries before taking concentrated risk.
 
-EP712 remains machine-transcribed and has not received line-by-line human audio review. Preserve the direct, self-correcting cadence while marking wine names, listener names, exact numbers, sponsor copy and ambiguous homophones for later replacement.
+The local EP712 Markdown now uses the unofficial public Vocus text. Preserve the direct, self-correcting cadence and check wine names, listener names, exact numbers and sponsor copy against the audio when precision matters.
+
+## EP713 calibration
+
+- For a rebound, walk through a concrete comparison of the prior and current lows, then explain what the next test near the quarterly moving average would reveal. Describe the position size and what would invalidate the read.
+- When the host qualifies a rumor or spells out an uncertain project name, keep the uncertainty attached to the claim. For personal ventures, attribute fundraising and operating claims to the host and focus on what support the partners say they provide.

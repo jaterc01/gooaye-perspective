@@ -1136,3 +1136,9 @@ Result:
 - High-confidence cleanup covers 火星生技、武倍對策、波多野結衣、皇居、半馬、籌碼、data center、401K、SoftBank and TSMC. Residual risk remains for listener names, wine/product names, English fragments, exact figures, sponsor wording, jokes, health/family passages, finance claims and ambiguous homophones.
 - EP712 adds survival-first crash management, policy-to-permit verification, small-component cancellation as a supply-chain warning, expected-value thinking, finding one's own repeatable market edge, and body/family routines that reduce attention capture during volatility.
 - EP712 has not received line-by-line human audio review. Keep `.raw.*` files and replace the Markdown when a public transcript becomes available; retain EP697-EP712 temporary MP3s until GitHub and Hermes verification both succeed.
+
+## Latest transcript refresh (2026-11-11)
+
+- Local Markdown runs continuously from EP1 through EP713. The established index supplied EP1–EP711. The public Vocus articles supplied EP712 (70 timestamped sections, ending 54:35) and EP713 (35 sections, ending 52:13).
+- The public EP712 copy replaces the provisional Markdown. `EP712.raw.txt` and `EP712.raw.json` remain for provenance. EP713 uses the Vocus text with the original timestamp markers.
+- Both Vocus copies are unofficial and have not been checked line by line against audio. Confirm proper names, English terms, exact figures and sponsor copy before citing them.

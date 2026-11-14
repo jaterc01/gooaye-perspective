@@ -1142,3 +1142,11 @@ Result:
 - Local Markdown runs continuously from EP1 through EP713. The established index supplied EP1–EP711. The public Vocus articles supplied EP712 (70 timestamped sections, ending 54:35) and EP713 (35 sections, ending 52:13).
 - The public EP712 copy replaces the provisional Markdown. `EP712.raw.txt` and `EP712.raw.json` remain for provenance. EP713 uses the Vocus text with the original timestamp markers.
 - Both Vocus copies are unofficial and have not been checked line by line against audio. Confirm proper names, English terms, exact figures and sponsor copy before citing them.
+
+## Latest transcript refresh: 2026-11-14
+
+- The local corpus now contains continuous Markdown transcripts from EP1 through EP714. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.
+- SoundOn RSS exposes `EP714 | 🥏`, published `2026-11-14T04:00:04Z`, GUID `52dc3b92-2b06-49b6-ae34-821a9d632754`, with a 3049-second enclosure. Apple Podcasts also reports EP714 and 714 total episodes.
+- The public Gooaye Notes page [`EP714`](https://gooaye-notes.com/ep/714?tab=tx) supplies 93 timestamped AI-generated paragraphs covering about 50:48. It was synchronized into `EP714.md` with its source URL and non-official disclaimer.
+- EP714 is public-source synced, so no new SoundOn MP3, `EP714.raw.txt` or `EP714.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
+- The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for names, English, exact figures, sponsor wording, stock IDs, jokes, family passages and market rumors; replace or reconcile it if a more authoritative transcript appears.

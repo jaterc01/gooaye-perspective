@@ -2194,3 +2194,21 @@ Investing games differ by thesis timing, information advantage, supply-chain kno
 
 - **Models 8, 12 and 176.** Compare each candidate's current low with its low in the previous sell-off. Near the quarterly moving average, observe whether early leaders hold their gains and whether participation broadens. Use the result to update the watchlist and size exposure while the rebound is still uncertain.
 - **Models 2 and 5.** Trace where a reported headline could affect customers, suppliers or revenue. Treat rumored projects and strong tape as leads to research. In private game investing, assess what funding, compliance support, distribution and international exposure actually unlock for the studio.
+
+## EP714 model mapping
+
+- AI tools, game investing and the claim that future teams need more creativity, story and execution map to Model 180: separate technical ability from taste, integrity, collaboration and reliable delivery.
+- Jensen Huang's possible departure, the market's immediate rebound and the discussion of supply-chain coordination map to Model 181: split the short trade from the long mechanism, then verify successor behavior, specifications, customer trust, standardization and pricing.
+- The Q&A on buying top-spec products while still comparing prices maps to Model 182: price discovery and choosing the best affordable state are separate steps; optimize for utility and peace of mind without turning premium into a blank check.
+
+## 180. Soul and delivery after AI tooling
+
+As AI lowers the value of undifferentiated technical labor, evaluate teams by taste, integrity, storytelling, experience, cooperation and the ability to ship. A tool advantage is only an option until customers, work and milestones confirm delivery.
+
+## 181. Founder departure: trade versus mechanism
+
+A key-person event can move price immediately while changing long-term coordination, standards, customer trust and supplier economics only gradually. Separate the event trade from the operating thesis and wait for evidence from successors, roadmaps, shipments and margins.
+
+## 182. Buy the best affordable state, after comparing
+
+"直上" and price comparison are compatible. First compare price, terms and actual feature value; then decide whether the best version within the budget reduces switching cost and future regret. Premium is not a substitute for checking value.

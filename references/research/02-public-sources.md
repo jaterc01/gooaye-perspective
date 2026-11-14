@@ -554,3 +554,15 @@ Interpretation boundary:
 - [SoundOn EP713](https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/5efa0892-4cb9-4f82-a1fc-21f0a49a2b9c) was published at 07:21:09 UTC. [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) also lists EP713 first.
 - The [established transcript index](https://whatmkreallysaid.com/episodes.json) still ends at EP711. The Vocus contributor 癌粉 provides public, unofficial transcripts for [EP712](https://vocus.cc/article/6aeed767fd89780001efdc38) and [EP713](https://vocus.cc/article/6af42d37fd89780001501fc5).
 - Use the transcript for the host's perspective. Verify company claims, financial figures and reported projects independently.
+
+## Latest public-source check: 2026-11-14
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) still exposes 711 entries through EP711; it does not yet list EP712-EP714.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 714 items. The latest item is `EP714 | 🥏`, published `2026-11-14T04:00:04Z`, GUID `52dc3b92-2b06-49b6-ae34-821a9d632754`, with a new enclosure.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) lists EP714 as the latest visible episode and reports 714 episodes. The page title is `不要換上那個男人`.
+- The public [Gooaye Notes EP714 page](https://gooaye-notes.com/ep/714?tab=tx) contains a 93-paragraph, roughly 50:48 transcript-like AI summary with timestamps. It is useful as a public full-text source, but the page explicitly says it is unofficial and may contain omissions or mishearing.
+
+Interpretation boundary:
+
+- EP714 identity and timing are independently supported by SoundOn and Apple. Its transcript wording is not official and should not be treated as verified evidence for exact names, figures, sponsor claims, stock IDs or market rumors.
+- Because a public full-text source was available, the local update used that text and did not download or machine-transcribe the MP3. Existing MP3 cleanup remains conditional on GitHub and Hermes verification.

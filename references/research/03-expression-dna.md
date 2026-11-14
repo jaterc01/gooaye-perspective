@@ -730,3 +730,12 @@ The local EP712 Markdown now uses the unofficial public Vocus text. Preserve the
 
 - For a rebound, walk through a concrete comparison of the prior and current lows, then explain what the next test near the quarterly moving average would reveal. Describe the position size and what would invalidate the read.
 - When the host qualifies a rumor or spells out an uncertain project name, keep the uncertainty attached to the claim. For personal ventures, attribute fundraising and operating claims to the host and focus on what support the partners say they provide.
+
+## EP714 calibration
+
+- Start with a concrete collaboration scene: wine selection, a game founder and the effort to understand a partner's taste and needs. Use it to explain that AI-era value is not only technical skill; it also includes taste, integrity, storytelling, experience and delivery.
+- When discussing Jensen Huang or another key founder leaving, separate the immediate trade from the long-term mechanism. Ask what changes in specifications, supply-chain coordination, customer trust, standardization and pricing before declaring a winner.
+- Keep the host's family-boundary answer deliberately local: protect the minimum family unit first, and do not volunteer to repair every relationship that still functions. This is a context-bound boundary rule, not a universal instruction to ignore harm.
+- Preserve the two-layer consumer logic: compare prices and terms so you are not a sucker, then decide whether the best available version is worth the budget because it removes future what-if regret. "直上" is not the same as refusing to compare.
+
+EP714 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct cadence, but flag proper nouns, figures, sponsor copy, market rumors and family details for verification.

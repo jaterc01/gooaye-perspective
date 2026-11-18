@@ -2219,7 +2219,7 @@ EP714 不是官方逐字稿，來源頁也明確標示 AI 自動產生、可能�
 
 本段覆蓋上方舊版來源範圍描述：本機 corpus 已到 EP715；`whatmkreallysaid.com` 公開逐字稿索引仍只到 EP711，EP712-EP715 使用公開非官方全文來源，其中 EP715 來自 Gooaye Notes 的 AI 自動整理稿。
 
-- EP715 `🥐 回去唐門找尋溫暖`：Apple Podcasts 公開頁於 2026-11-18 顯示為最新單集，節目共 715 集；公開聚合頁也標示 11/18、約 51-52 分鐘。SoundOn RSS 直接抓取本次在 Windows DNS 解析失敗，故以 Apple 公開頁與 SoundOn-hosted 節目資訊交叉確認集數。
+- EP715 `🥐 回去唐門找尋溫暖`：SoundOn RSS 共 715 項，最新項目發布於 `2026-11-18T07:04:56Z`，GUID 為 `6e0d7037-eff5-4cc1-917e-dc43ef5dedbc`，並提供新的 MP3 enclosure；Apple Podcasts 公開頁同樣顯示 EP715 與節目共 715 集。
 - EP715 的公開全文來自 `https://gooaye-notes.com/ep/715?tab=tx`，頁面提供約 52 分鐘、96 個時間戳段落，主題包含市場回檔與停損、NVIDIA／黃仁勳後時代、AI FOMO 降溫、SemiAnalysis 下修、急單消失、槓桿與現金、SpaceX／Starlink 等第二增量市場，以及生活平衡與遊戲音樂會。
 - EP715 的新增判斷包括：把 AI 總需求和短期急單分開；回檔先守淨值與生命，不用槓桿報復交易；以及在核心敘事出現關鍵人物不確定性時，提前找第二、第三個增量市場。對 NVIDIA、SemiAnalysis、民主黨政策與 SpaceX／Starlink 的說法仍要把主持人觀點、公開事實與市場傳聞分層。
 

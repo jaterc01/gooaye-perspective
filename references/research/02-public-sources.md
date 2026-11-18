@@ -572,7 +572,7 @@ Interpretation boundary:
 - [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remained at 711 entries during this run and did not list EP712-EP715.
 - [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) lists `EP715 | 🥐 回去唐門找尋溫暖` as the latest visible episode and reports 715 episodes. The Apple lookup metadata also reports 715 tracks, with the prior API release-date field lagging the newest visible episode.
 - The [Gooaye Notes EP715 page](https://gooaye-notes.com/ep/715?tab=tx) provides a roughly 52-minute, 96-paragraph timestamped AI-generated transcript and identifies the topics as drawdown risk control, the post-Jensen-Huang AI supply chain, cooling FOMO, delayed orders, leverage, cash and alternative growth markets. The page is explicitly unofficial and warns of omissions or mishearing.
-- Direct SoundOn RSS retrieval from this Windows run failed at DNS resolution for `feeds.soundon.fm`; the Apple page identifies the show as SoundOn-hosted, and the EP715 identity is independently supported by Apple and the public Gooaye Notes page. Recheck the RSS GUID and enclosure on the next run.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 715 items. The latest item is `EP715 | 🥐`, published `2026-11-18T07:04:56Z`, GUID `6e0d7037-eff5-4cc1-917e-dc43ef5dedbc`, with a new MP3 enclosure. The first request had a transient DNS failure, but the retry succeeded.
 
 Interpretation boundary:
 

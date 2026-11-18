@@ -1150,3 +1150,10 @@ Result:
 - The public Gooaye Notes page [`EP714`](https://gooaye-notes.com/ep/714?tab=tx) supplies 93 timestamped AI-generated paragraphs covering about 50:48. It was synchronized into `EP714.md` with its source URL and non-official disclaimer.
 - EP714 is public-source synced, so no new SoundOn MP3, `EP714.raw.txt` or `EP714.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
 - The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for names, English, exact figures, sponsor wording, stock IDs, jokes, family passages and market rumors; replace or reconcile it if a more authoritative transcript appears.
+
+## Latest transcript refresh: 2026-11-18
+
+- The local corpus now contains continuous Markdown transcripts from EP1 through EP715. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.
+- The public Gooaye Notes page [`EP715`](https://gooaye-notes.com/ep/715?tab=tx) supplied 96 timestamped AI-generated transcript paragraphs for the 2026-11-18 episode `🥐 回去唐門找尋溫暖`. It was synchronized into `EP715.md` with its source URL and non-official disclaimer.
+- EP715 is public-source synced, so no new SoundOn MP3, `EP715.raw.txt` or `EP715.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
+- The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for names, English, exact figures, sponsor wording, stock IDs, jokes, family passages and market rumors; replace or reconcile it if a more authoritative transcript appears.

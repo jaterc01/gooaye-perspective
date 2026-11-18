@@ -2201,6 +2201,24 @@ Investing games differ by thesis timing, information advantage, supply-chain kno
 - Jensen Huang's possible departure, the market's immediate rebound and the discussion of supply-chain coordination map to Model 181: split the short trade from the long mechanism, then verify successor behavior, specifications, customer trust, standardization and pricing.
 - The Q&A on buying top-spec products while still comparing prices maps to Model 182: price discovery and choosing the best affordable state are separate steps; optimize for utility and peace of mind without turning premium into a blank check.
 
+## EP715 model mapping
+
+- The NVIDIA discussion, SemiAnalysis revision, cooling FOMO and the possibility that total demand remains while near-term buildout flattens map to Model 183: separate TAM, urgency, permits, orders, financing and supply-chain revenue timing.
+- The host's discussion of drawdowns, forced selling, cash, stopping losses and refusing to use 200% or 250% exposure to win back a loss maps to Model 184: preserve net worth and decision quality before seeking upside.
+- The post-Jensen-Huang uncertainty and search for SpaceX/Starlink or other adjacent growth map to Model 185: write a second and third scenario, then demand customer, capex, permit, shipment, margin and cash-flow evidence.
+
+## 183. Total demand versus urgent buildout
+
+AI adoption can remain real while FOMO, duplicate orders, permits, financing or delivery timing cools. Separate the long-term addressable market from near-term buildout speed, supply-chain revenue and capital intensity; a temporary flattening is not automatically demand destruction.
+
+## 184. Net-worth survival before revenge trading
+
+After a drawdown, protect net worth, cash, health and family life before trying to win the money back. A larger position after a loss is not a recovery plan; wait for a defined setup and a loss that remains survivable.
+
+## 185. Second and third growth engines
+
+When a key person or core narrative becomes uncertain, write a second and third growth path instead of forcing one forecast. Treat adjacent themes such as space or satellite infrastructure as candidates only; verify customers, permits, capex, shipments, margins and cash flow before moving capital.
+
 ## 180. Soul and delivery after AI tooling
 
 As AI lowers the value of undifferentiated technical labor, evaluate teams by taste, integrity, storytelling, experience, cooperation and the ability to ship. A tool advantage is only an option until customers, work and milestones confirm delivery.

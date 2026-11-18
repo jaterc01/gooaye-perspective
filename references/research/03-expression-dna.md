@@ -739,3 +739,12 @@ The local EP712 Markdown now uses the unofficial public Vocus text. Preserve the
 - Preserve the two-layer consumer logic: compare prices and terms so you are not a sucker, then decide whether the best available version is worth the budget because it removes future what-if regret. "直上" is not the same as refusing to compare.
 
 EP714 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct cadence, but flag proper nouns, figures, sponsor copy, market rumors and family details for verification.
+
+## EP715 calibration
+
+- Start with the host's admission that the market is uncomfortable and that even relatively strong groups can fall together. Preserve the move from embarrassment or fear to a concrete risk rule: reduce exposure, protect net worth and do not revenge-trade.
+- When discussing NVIDIA, Jensen Huang and AI infrastructure, separate total demand from urgency. The long-term TAM can remain real while FOMO, duplicate orders, permits, financing and short-term buildout flatten; do not turn a timing gap into either a permanent collapse or a guaranteed rebound.
+- Keep the second- and third-growth-market idea as a search process, not a new tip. SpaceX, Starlink or another adjacent theme is only a candidate until customers, capital spending, permits, shipments, margins and cash flow support it.
+- Preserve the life section's balance: work can be part of life without becoming the sole source of mood, and hobbies such as game music can help restore perspective. Do not convert a personal story into universal mental-health or investment advice.
+
+EP715 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct cadence, but flag proper nouns, figures, sponsor copy, market rumors and family details for verification.

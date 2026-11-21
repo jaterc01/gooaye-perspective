@@ -567,6 +567,18 @@ Interpretation boundary:
 - EP714 identity and timing are independently supported by SoundOn and Apple. Its transcript wording is not official and should not be treated as verified evidence for exact names, figures, sponsor claims, stock IDs or market rumors.
 - Because a public full-text source was available, the local update used that text and did not download or machine-transcribe the MP3. Existing MP3 cleanup remains conditional on GitHub and Hermes verification.
 
+## Latest public-source check: 2026-11-21
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remained at 711 entries and did not list EP716.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 716 items. The latest item is `EP716 | 🍒`, published `2026-11-21T06:39:15Z`, GUID `9518e365-fb3b-498b-a7f7-fc1c56b33371`, duration 3157 seconds, with a new MP3 enclosure.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) shows EP716 as the latest visible episode and reports 716 episodes. The Apple lookup endpoint still exposes the prior release-date field, so RSS publication time remains the episode timing anchor.
+- The public [Gooaye Notes EP716 page](https://gooaye-notes.com/ep/716?tab=tx) provides a roughly 52:37, 94-paragraph timestamped AI-generated transcript. Its sections cover liquidity and forced selling, leverage and a “Never Again” risk lesson, AI financing, NVIDIA succession and SEC discussion, BIS restrictions, memory/component shortages, NAND causality, 0050/global-index allocation, GTA6 and art. The page is explicitly unofficial and warns of omissions or mishearing.
+
+Interpretation boundary:
+
+- EP716 identity and timing are supported by SoundOn and Apple. Its transcript wording is not official and should not be treated as verified evidence for exact names, figures, sponsor claims, stock IDs or market rumors.
+- Because a public full-text source was available, the local update used that text and did not download or machine-transcribe the MP3. Existing EP697-EP713 MP3 cleanup remains conditional on GitHub and Hermes verification.
+
 ## Latest public-source check: 2026-11-18
 
 - [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remained at 711 entries during this run and did not list EP712-EP715.

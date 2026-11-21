@@ -1151,6 +1151,13 @@ Result:
 - EP714 is public-source synced, so no new SoundOn MP3, `EP714.raw.txt` or `EP714.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
 - The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for names, English, exact figures, sponsor wording, stock IDs, jokes, family passages and market rumors; replace or reconcile it if a more authoritative transcript appears.
 
+## Latest transcript refresh: 2026-11-21
+
+- The local corpus now contains continuous Markdown transcripts from EP1 through EP716. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.
+- The public Gooaye Notes page [`EP716`](https://gooaye-notes.com/ep/716?tab=tx) supplied 94 timestamped AI-generated transcript paragraphs for the 2026-11-21 episode `🍒 台股股災、流動性風險與AI產業近況`, covering about 52:37. It was synchronized into `EP716.md` with its source URL and non-official disclaimer.
+- EP716 is public-source synced, so no new SoundOn MP3, `EP716.raw.txt` or `EP716.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
+- The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for sponsor wording, proper names, English terms, exact figures, stock IDs, market rumors and financial-mechanism wording; replace or reconcile it if a more authoritative transcript appears.
+
 ## Latest transcript refresh: 2026-11-18
 
 - The local corpus now contains continuous Markdown transcripts from EP1 through EP715. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.

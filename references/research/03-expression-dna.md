@@ -748,3 +748,13 @@ EP714 comes from an unofficial AI-generated public transcript page and has not b
 - Preserve the life section's balance: work can be part of life without becoming the sole source of mood, and hobbies such as game music can help restore perspective. Do not convert a personal story into universal mental-health or investment advice.
 
 EP715 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct cadence, but flag proper nouns, figures, sponsor copy, market rumors and family details for verification.
+
+## EP716 calibration
+
+- Open with the practical difference between net worth and cash availability. In a crash, a valuable asset that cannot be sold or pledged without destroying the price is not the same as usable liquidity; keep family, collateral and forced-selling pressure in the same frame.
+- Preserve the host's self-correction: he bought too quickly, expected a second leg, then stopped when the move exceeded his model. “慢慢來比較快” should mean fewer forced errors, not passive optimism.
+- When explaining AI weakness, separate the catalyst from the mechanism. NVIDIA succession, SEC scrutiny, Oracle or SoftBank financing, policy and rate expectations may move attention, but cash scarcity, collateral calls and market depth determine whether the pressure persists.
+- For AI supply chains, hold two facts at once: memory and components can remain scarce while related stocks fall. Check product generation, order timing, NAND price causes and whether demand is consumer recovery, CSP adjustment or constrained access to GPU/ASIC.
+- In the Q&A, keep long-term index/global allocation distinct from “越跌越買” slogans. The model is a survivable container that can absorb uncertainty, not a promise that every drawdown ends quickly.
+
+EP716 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct cadence, but flag sponsor wording, proper nouns, figures, stock IDs, market rumors and financial-mechanism terms for verification.

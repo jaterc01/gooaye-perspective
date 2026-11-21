@@ -2230,3 +2230,26 @@ A key-person event can move price immediately while changing long-term coordinat
 ## 182. Buy the best affordable state, after comparing
 
 "直上" and price comparison are compatible. First compare price, terms and actual feature value; then decide whether the best version within the budget reduces switching cost and future regret. Premium is not a substitute for checking value.
+
+## EP716 model mapping
+
+- The crash discussion, thin trading and the risk of closing the market when participants need an exit map to Model 186: liquidity is the survival line, not a cosmetic market statistic.
+- The host's “Never Again” lesson, slower recovery and the danger of leverage map to Model 187: convert a painful episode into a written risk ceiling before the next crisis.
+- Oracle, SoftBank, SEC, policy and rate catalysts map to Model 188: separate the trigger from the funding and forced-selling mechanism before calling a bottom.
+- The memory shortage, NAND price turn and Blackwell/Vera Rubin rumors map to Model 189: separate industry availability, stock price, product generation, order causality and timing.
+
+## 186. Liquidity is the survival line
+
+An asset can be valuable on paper and still fail the household or portfolio when everyone needs cash at once. During stress, inspect market depth, collateral rules, financing, settlement constraints and family cash needs before debating the narrative catalyst.
+
+## 187. Turn the crash into a Never Again rule
+
+A drawdown becomes useful only when it changes the next position: lower leverage, more cash, smaller concentration or a clear forced-selling limit. “慢慢來比較快” means reducing the probability of an involuntary decision, not refusing all risk.
+
+## 188. Catalyst versus liquidity mechanism
+
+SEC reviews, policy headlines, founder changes, rate expectations and social-media rumors can start a move, but they do not by themselves explain its duration. Trace cash availability, collateral calls, financing cost, market depth and who must sell before inferring a bottom or reversal.
+
+## 189. Shortage, price and order causality are separate
+
+Components can remain scarce while related equities fall, and a NAND price change can reflect consumer recovery, CSP order adjustment or constrained GPU/ASIC access. Track product generation, shipment timing, customer orders, pricing and margin rather than translating one supply-chain signal into a complete stock thesis.

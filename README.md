@@ -2,9 +2,9 @@
 
 股癌 Gooaye / 謝孟恭的投資、產業觀察、生活判斷與表達操作系統。
 
-這是一個 Codex/Hermes-style skill，基於本機 EP1-EP716 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。
+這是一個 Codex/Hermes-style skill，基於本機 EP1-EP717 逐字稿與公開資料蒸餾，用來在使用者明確要求「股癌視角」「主委會怎麼看」「Gooaye perspective」時，輸出灰階、產業鏈、部位、風險與生活配置式的判斷框架。
 
-`whatmkreallysaid.com` 已同步到 EP711。EP712 和 EP713 使用方格子「癌粉」的公開非官方稿，EP714-EP716 使用 Gooaye Notes 公開的非官方 AI 逐字稿。EP716 新增流動性是危機救命線、Never Again 風控、短期流動性與長期 AI 需求拆分，以及缺貨、股價與訂單因果分層。這些公開稿都尚未逐句聽校，精確數字、人名及專有名詞引用前宜回查音檔。
+`whatmkreallysaid.com` 已同步到 EP711。EP712 和 EP713 使用方格子「癌粉」的公開非官方稿，EP714-EP717 使用 Gooaye Notes 公開的非官方 AI 逐字稿。EP717 新增看不懂時縮圈守核心、Components／Bottleneck／Value Add 分帳、關鍵人物回任只降低部分不確定性、遞延先打長料與漲價預期，以及算力租金下修要先找融資斬殺線。這些公開稿都尚未逐句聽校，精確數字、人名及專有名詞引用前宜回查音檔。
 
 ## Install
 

@@ -1151,6 +1151,14 @@ Result:
 - EP714 is public-source synced, so no new SoundOn MP3, `EP714.raw.txt` or `EP714.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
 - The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for names, English, exact figures, sponsor wording, stock IDs, jokes, family passages and market rumors; replace or reconcile it if a more authoritative transcript appears.
 
+## Latest transcript refresh: 2026-11-25
+
+- The local corpus now contains continuous Markdown transcripts from EP1 through EP717. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.
+- SoundOn published `EP717 | 🦪` at `2026-11-25T07:57:33Z`; its public enclosure is 3031 seconds. The public Gooaye Notes page [`EP717`](https://gooaye-notes.com/ep/717?tab=tx) supplied 92 timestamped AI-generated paragraphs covering about 50:30, and the existing parser synchronized them into `EP717.md`.
+- EP717 is public-source synced, so no new SoundOn MP3, `EP717.raw.txt` or `EP717.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
+- EP717 adds the practical rule to shrink the research circle when the tape becomes unreadable; separates Components, Bottleneck and Value Add; treats Jensen Huang's return as reducing roadmap uncertainty without removing policy or China-compute risk; checks long-material repricing when buildout is deferred; and tests compute-rental pressure against financing kill lines.
+- The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for sponsor wording, GTA/DEI language, proper names, English terms, exact figures, stock IDs, supply-chain claims and market rumors; replace or reconcile it if a more authoritative transcript appears.
+
 ## Latest transcript refresh: 2026-11-21
 
 - The local corpus now contains continuous Markdown transcripts from EP1 through EP716. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.

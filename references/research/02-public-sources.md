@@ -577,6 +577,18 @@ Interpretation boundary:
 Interpretation boundary:
 
 - EP716 identity and timing are supported by SoundOn and Apple. Its transcript wording is not official and should not be treated as verified evidence for exact names, figures, sponsor claims, stock IDs or market rumors.
+
+## Latest public-source check: 2026-11-25
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remains at 711 transcript entries and does not list EP717.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 717 items. The latest item is `EP717 | 🦪`, published `2026-11-25T07:57:33Z`, GUID `3da75e11-4344-41d7-be41-55d516ec4991`, duration 3031 seconds, with a new MP3 enclosure. Its description opens with `GTA 都不敢這樣編劇` and a Kobo Plus sponsor read.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) now exposes EP717 and 717 total episodes. The Apple lookup endpoint still reports `trackCount=716`, so the RSS publication and episode number remain the timing anchor for this run.
+- The public [Gooaye Notes EP717 page](https://gooaye-notes.com/ep/717?tab=tx) identifies `AI修正下的心態、供應鏈與馬斯克劇本` and provides 92 timestamped AI-generated paragraphs covering roughly 50:30. The page is explicitly unofficial and warns of omissions or mishearing.
+
+Interpretation boundary:
+
+- SoundOn and Apple confirm episode identity and timing; they do not verify every transcript sentence or any investment, health, family or market claim.
+- EP717's public text is useful for perspective extraction, not exact evidence. Verify sponsor copy, GTA/DEI wording, proper nouns, figures, stock IDs, supply-chain claims and market rumors against the audio or first-party sources.
 - Because a public full-text source was available, the local update used that text and did not download or machine-transcribe the MP3. Existing EP697-EP713 MP3 cleanup remains conditional on GitHub and Hermes verification.
 
 ## Latest public-source check: 2026-11-18

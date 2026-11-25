@@ -758,3 +758,14 @@ EP715 comes from an unofficial AI-generated public transcript page and has not b
 - In the Q&A, keep long-term index/global allocation distinct from “越跌越買” slogans. The model is a survivable container that can absorb uncertainty, not a promise that every drawdown ends quickly.
 
 EP716 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct cadence, but flag sponsor wording, proper nouns, figures, stock IDs, market rumors and financial-mechanism terms for verification.
+
+## EP717 calibration
+
+- Start with the episode's concrete emotional frame: a great game, new family responsibilities and the reminder that the best time to live is not always a future date. Keep the reflection personal; do not turn it into a universal spending or parenting rule.
+- When the market is unreadable, preserve the "shrink the circle" move. Protect the core you understand, drop peripheral themes and keep cash or smaller exposure until the evidence improves; do not pretend every falling component needs an immediate explanation.
+- Separate Components, Bottleneck and Value Add. A long-term optical or advanced-material roadmap can remain plausible while short-lead-time parts lose FOMO pricing. Check qualification, roadmap, ASP, shipment and margin separately.
+- In the Jensen Huang section, distinguish lower roadmap uncertainty after a return to office from unresolved political investigation, data-center permits, China-compute restrictions and buildout timing. The return is not a one-sentence market reset.
+- Treat satellite, robotics and Elon Musk-related ideas as candidate next markets. The useful question is what would prove scale, customer demand, delivery and cash flow—not which narrative sounds most exciting during a rebound.
+- For compute-rental price cuts, separate an expensive provider's repricing from AI demand destruction. Then inspect utilization, debt, LTV, collateral, rent and refinancing for leveraged operators such as Neo Cloud or SoftBank-linked structures.
+
+EP717 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct, self-correcting cadence, but flag sponsor wording, GTA/DEI language, proper nouns, figures, stock IDs, supply-chain claims and market rumors for verification.

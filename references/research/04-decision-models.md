@@ -2253,3 +2253,35 @@ SEC reviews, policy headlines, founder changes, rate expectations and social-med
 ## 189. Shortage, price and order causality are separate
 
 Components can remain scarce while related equities fall, and a NAND price change can reflect consumer recovery, CSP order adjustment or constrained GPU/ASIC access. Track product generation, shipment timing, customer orders, pricing and margin rather than translating one supply-chain signal into a complete stock thesis.
+
+## EP717 model mapping
+
+- The advice to shrink the research circle when the tape becomes unreadable maps to Model 190: protect the core you understand before rescuing every peripheral theme.
+- The contrast between shortage-priced components, longer-lead materials and durable optical or advanced-material roadmaps maps to Models 191 and 193: separate FOMO pricing, bottleneck timing and value-add adoption.
+- Jensen Huang's return, the remaining political review and China-compute or data-center restrictions map to Model 192: one key-person variable can improve a roadmap without removing every external risk.
+- SpaceX/xAI rental pricing, Neo Cloud's possible price floor and SoftBank's LTV discussion map to Model 194: examine leverage and collateral before translating repricing into an AI-wide demand call.
+- Satellite, robotics and other possible post-correction leaders map to Model 195: list candidates before the rebound, then require scale, customers, delivery and cash flow to confirm a new leader.
+
+## 190. Shrink the circle when the tape is unreadable
+
+When market signals become contradictory, reduce the research set and position size to the few businesses and mechanisms you understand best. Protecting the core is not abandoning the thesis; it preserves the option to expand again when price, orders and industry evidence become clearer.
+
+## 191. Components, bottleneck and value add rotate separately
+
+Scarce components can lose pricing power while a durable technology roadmap remains intact. Separate shortage-driven FOMO, capacity bottlenecks and value-add adoption; verify qualification, ASP, shipments and margin before treating a correction as a bargain.
+
+## 192. A key-person return removes only one uncertainty
+
+A founder or executive returning can reduce uncertainty around roadmap execution and supply-chain coordination, while regulatory review, permits, regional restrictions and buildout timing remain open. Update the model in layers instead of treating the personnel headline as a complete reset.
+
+## 193. Deferral hits long materials and pricing expectations first
+
+When data-center projects move out, short-lead or easily replenished materials may lose urgency and pricing power before long-term demand disappears. Track order timing, inventory, lead time, supplier bargaining and revenue recognition rather than using TAM alone.
+
+## 194. Compute-rental repricing exposes financing kill lines
+
+A lower rental price can be healthy competition for users and still be dangerous for a highly financed operator. Check utilization, debt, LTV, collateral, refinancing and cash recovery; do not turn one operator's balance-sheet stress into a forecast for all AI demand.
+
+## 195. List the next market before the rebound
+
+Satellite, robotics or another adjacent theme may become a candidate after a correction, but a candidate is not a leader. Write the evidence required—scale, customers, delivery, margin, cash flow and sustained price leadership—before the market becomes optimistic again.

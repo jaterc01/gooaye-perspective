@@ -4,8 +4,8 @@
 
 - Workspace: `C:\Users\jater\Desktop\Project\googye`
 - Corpus: `C:\Users\jater\Desktop\Project\googye\transcrib\gooaye`
-- Files inspected: EP1-EP705 Markdown transcripts; public-synced Markdown currently reaches EP702, with EP703-EP705 provisional local ASR artifacts.
-- Count observed after refresh on 2026-10-14: 705 top-level Markdown transcripts through `EP705.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
+- Files inspected: EP1-EP718 Markdown transcripts; public-synced Markdown currently reaches EP711, with EP712-EP718 sourced from public unofficial transcripts.
+- Count observed after refresh on 2026-11-28: 718 top-level Markdown transcripts through `EP718.md`; earlier duplicated archive files may still exist under `EP001-EP642`.
 
 ## Latest transcript refresh: 2026-10-07
 
@@ -1150,6 +1150,14 @@ Result:
 - The public Gooaye Notes page [`EP714`](https://gooaye-notes.com/ep/714?tab=tx) supplies 93 timestamped AI-generated paragraphs covering about 50:48. It was synchronized into `EP714.md` with its source URL and non-official disclaimer.
 - EP714 is public-source synced, so no new SoundOn MP3, `EP714.raw.txt` or `EP714.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
 - The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for names, English, exact figures, sponsor wording, stock IDs, jokes, family passages and market rumors; replace or reconcile it if a more authoritative transcript appears.
+
+## Latest transcript refresh: 2026-11-28
+
+- The local corpus now contains continuous Markdown transcripts from EP1 through EP718. The established `whatmkreallysaid.com/episodes.json` index still ends at EP711.
+- SoundOn published `EP718 | 🦝` at `2026-11-28T08:31:25Z`; its public enclosure is 3069 seconds. The public Gooaye Notes page [`EP718`](https://gooaye-notes.com/ep/718?tab=tx) supplied 94 timestamped AI-generated paragraphs for `跑步半馬、AI訂單鬆動與防守配置`, and the existing parser synchronized them into `EP718.md`.
+- EP718 is public-source synced, so no new SoundOn MP3, `EP718.raw.txt` or `EP718.raw.json` was generated. Existing EP697-EP713 temporary MP3s remain retained until Hermes verification succeeds.
+- EP718 adds the practical rules to use body and heart-rate stability as part of risk capacity, treat a quarterly-moving-average rebound as a confirmation gate, separate China AI demand revisions from financing contagion, and preserve cash while lowering leverage and expected return during uncertainty.
+- The Gooaye Notes transcript has not received line-by-line human audio review. Residual risk remains for sponsor wording, proper nouns, English terms, exact figures, stock IDs, CDS/financing language, supply-chain claims and market rumors; replace or reconcile it if a more authoritative transcript appears.
 
 ## Latest transcript refresh: 2026-11-25
 

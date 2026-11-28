@@ -2285,3 +2285,31 @@ A lower rental price can be healthy competition for users and still be dangerous
 ## 195. List the next market before the rebound
 
 Satellite, robotics or another adjacent theme may become a candidate after a correction, but a candidate is not a leader. Write the evidence required—scale, customers, delivery, margin, cash flow and sustained price leadership—before the market becomes optimistic again.
+
+## EP718 model mapping
+
+- The half-marathon, lower heart rate and calmer response to volatility map to Model 196: physical recovery and emotional stability are part of the risk budget, not separate lifestyle trivia.
+- The rebound near the quarterly moving average maps to Model 197: treat the move as a test of relative strength and persistence, not as proof that the bottom is in.
+- China CSP forecast cuts, memory pricing, expensive capital and CDS map to Model 198: separate demand revision, financing pressure, collateral contagion and timing before calling a systemic event.
+- Cash, no leverage, lower expected return and more non-AI or dividend exposure map to Model 199: survive the uncertain phase first, then restore offense when the tape and orders improve.
+- The discussion of company buybacks, value exposure and judging a method over many events maps to Model 200: management alignment and repeatable process matter more than one profitable or losing trade.
+
+## 196. Body capacity is part of risk capacity
+
+Use exercise, recovery and resting-heart-rate trends as personal operating data, not as a substitute for medical advice. A steadier body can reduce impulsive reactions, but the portfolio still needs position limits, cash and explicit loss tolerance.
+
+## 197. Quarterly moving average as a rebound gate
+
+After a deep correction, do not guess the bottom from the first bounce. Watch whether price and relative strength can approach and hold the quarterly moving average; failure there raises the probability that the move is only a rebound and should limit new exposure.
+
+## 198. Demand revision, financing contagion and timing
+
+China demand cuts, memory price changes, data-center forecasts and higher capital costs can interact without becoming an immediate systemic failure. Track who cuts orders, who can absorb supply, who is financed, what collateral is pledged and whether cancellations spread before escalating the scenario.
+
+## 199. Defensive allocation before expected-return recovery
+
+When order visibility and funding conditions are unclear, keep liquidity, reduce leverage and accept a lower expected return. Add lower-correlation, dividend or value exposure only as a risk container—not as proof that the market has already turned.
+
+## 200. Management alignment and repeatable process
+
+Company buybacks or management co-investment can be useful alignment signals, but they do not erase execution risk. Judge an investing method across repeated decisions and changing regimes rather than declaring it correct or wrong from one drawdown.

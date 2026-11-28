@@ -567,6 +567,19 @@ Interpretation boundary:
 - EP714 identity and timing are independently supported by SoundOn and Apple. Its transcript wording is not official and should not be treated as verified evidence for exact names, figures, sponsor claims, stock IDs or market rumors.
 - Because a public full-text source was available, the local update used that text and did not download or machine-transcribe the MP3. Existing MP3 cleanup remains conditional on GitHub and Hermes verification.
 
+## Latest public-source check: 2026-11-28
+
+- [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remains at 711 transcript entries and does not list EP718.
+- [SoundOn RSS](https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml) exposes 718 items. The latest item is `EP718 | 🦝`, published `2026-11-28T08:31:25Z`, GUID `dd46aac0-dc98-49c4-b467-7799fb9abce6`, duration 3069 seconds, with a new MP3 enclosure.
+- [Apple Podcasts Taiwan](https://podcasts.apple.com/tw/podcast/gooaye-%E8%82%A1%E7%99%8C/id1500839292) exposes EP718 and 718 total episodes. The Apple lookup endpoint still reports `trackCount=717`, so SoundOn's episode number and publication timestamp remain the timing anchor.
+- The public [Gooaye Notes EP718 page](https://gooaye-notes.com/ep/718?tab=tx) identifies `跑步半馬、AI訂單鬆動與防守配置` and provides 94 timestamped AI-generated paragraphs. It is explicitly unofficial and warns of omissions or mishearing.
+
+Interpretation boundary:
+
+- SoundOn and Apple confirm episode identity, timing and metadata; they do not verify every transcript sentence or any investment, health, family or market claim.
+- EP718's public text is useful for perspective extraction, not exact evidence. Verify sponsor wording, proper nouns, figures, stock IDs, CDS/financing language, supply-chain claims and market rumors against the audio or first-party sources.
+- Because a public full-text source was available, the local update used that text and did not download or machine-transcribe the MP3. Existing MP3 cleanup remains conditional on GitHub and Hermes verification.
+
 ## Latest public-source check: 2026-11-21
 
 - [`whatmkreallysaid.com/episodes.json`](https://whatmkreallysaid.com/episodes.json) remained at 711 entries and did not list EP716.

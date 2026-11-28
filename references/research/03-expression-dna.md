@@ -769,3 +769,13 @@ EP716 comes from an unofficial AI-generated public transcript page and has not b
 - For compute-rental price cuts, separate an expensive provider's repricing from AI demand destruction. Then inspect utilization, debt, LTV, collateral, rent and refinancing for leveraged operators such as Neo Cloud or SoftBank-linked structures.
 
 EP717 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct, self-correcting cadence, but flag sponsor wording, GTA/DEI language, proper nouns, figures, stock IDs, supply-chain claims and market rumors for verification.
+
+## EP718 calibration
+
+- Start with the concrete body story: half-marathon training, lower resting heart rate and a calmer response to a drawdown. Treat exercise as a way to increase sustainable capacity, not as a universal health prescription.
+- Keep the crash language conditional. A rebound toward the quarterly moving average is a test; if it fails there, raise caution instead of announcing either a bottom or a permanent bear market.
+- Preserve the layered market split: US CSP orders may still look intact while Chinese AI demand, memory pricing, capital cost and data-center forecasts begin to soften. Do not compress these into one global demand call.
+- Keep the host's defensive move explicit: retain liquidity, reduce leverage, lower expected return and add lower-AI-correlation or dividend-bearing exposure until the direction becomes clearer.
+- When discussing CDS, financing and possible contagion, separate signal, probability and timing. A rising risk measure can justify smaller exposure without proving that a specific company is the next systemic failure.
+
+EP718 comes from an unofficial AI-generated public transcript page and has not been checked line by line against audio. Preserve the direct, self-correcting cadence, but flag sponsor wording, proper nouns, English terms, figures, stock IDs, CDS/financing language, supply-chain claims and market rumors for verification.
